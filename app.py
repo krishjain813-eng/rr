@@ -5,17 +5,21 @@ import plotly.express as px
 import pickle
 
 st.set_page_config(layout="wide")
-st.title("📊 Professional Fintech Dashboard")
+st.title("📊 Fintech Professional Dashboard")
 
 data = pd.read_csv("dataset.csv")
 
 st.subheader("Overview")
 st.dataframe(data.head())
 
-# charts
-st.plotly_chart(px.histogram(data, x="Revenue"))
+# FIXED bar chart
+bt = data["Business_Type"].value_counts().reset_index()
+bt.columns = ["Business_Type","Count"]
+st.plotly_chart(px.bar(bt, x="Business_Type", y="Count"))
+
+# other charts
 st.plotly_chart(px.pie(data, names="Location"))
-st.plotly_chart(px.bar(data["Business_Type"].value_counts().reset_index(), x="index", y="Business_Type"))
+st.plotly_chart(px.histogram(data, x="Revenue"))
 st.plotly_chart(px.histogram(data, x="Credit_Need", color="Business_Type"))
 st.plotly_chart(px.histogram(data, x="Payment_Delay"))
 st.plotly_chart(px.density_heatmap(data, x="Inventory_Value", y="Revenue"))
