@@ -1,0 +1,3001 @@
+Age_Group,Location,Business_Type,Revenue,Credit_Need,Payment_Delay,Digital,Trust,Inventory_Value,Cash_Shortage
+45-54,Tier2,Distributor,2L-10L,Low,15-30,Yes,Low,20L+,Rare
+55+,Metro,Service,<50k,Very High,<15,Yes,High,1-5L,Rare
+35-44,Tier2,Retailer,50k-2L,Medium,60-90,Yes,High,20L+,Rare
+55+,Metro,Distributor,2L-10L,High,15-30,Yes,Low,1-5L,Weekly
+55+,Metro,Service,2L-10L,Very High,<15,Yes,High,5-20L,Weekly
+25-34,Tier1,Retailer,50L+,High,60-90,No,Medium,20L+,Monthly
+35-44,Tier1,Manufacturer,<50k,Medium,<15,No,High,<1L,Monthly
+35-44,Tier1,Manufacturer,50k-2L,High,60-90,No,Low,5-20L,Monthly
+35-44,Tier3,Trader,2L-10L,Medium,60-90,No,High,20L+,Monthly
+55+,Tier3,Service,50k-2L,Medium,60-90,No,Low,5-20L,Monthly
+45-54,Tier1,Retailer,10L-50L,Low,<15,No,Medium,20L+,Monthly
+35-44,Tier3,Distributor,2L-10L,Low,60-90,Yes,Low,1-5L,Rare
+55+,Tier2,Manufacturer,2L-10L,Medium,15-30,Yes,High,<1L,Monthly
+25-34,Tier2,Retailer,10L-50L,Very High,90+,Yes,Medium,5-20L,Weekly
+45-54,Tier3,Service,50L+,Low,90+,No,High,<1L,Monthly
+25-34,Tier3,Trader,2L-10L,Medium,60-90,No,Low,1-5L,Weekly
+45-54,Tier2,Manufacturer,50k-2L,High,90+,No,Medium,20L+,Monthly
+55+,Metro,Retailer,<50k,High,90+,Yes,Low,<1L,Rare
+<25,Tier2,Retailer,50k-2L,Very High,60-90,Yes,High,20L+,Rare
+45-54,Tier2,Retailer,50L+,High,60-90,Yes,Low,1-5L,Weekly
+25-34,Tier3,Service,<50k,High,15-30,No,High,5-20L,Monthly
+55+,Tier2,Service,50k-2L,Medium,30-60,No,High,1-5L,Rare
+45-54,Tier3,Service,50k-2L,High,<15,No,Medium,<1L,Rare
+<25,Tier3,Distributor,10L-50L,High,60-90,Yes,Medium,<1L,Monthly
+<25,Tier1,Retailer,50L+,High,60-90,No,Low,<1L,Weekly
+35-44,Tier2,Manufacturer,10L-50L,High,90+,Yes,High,20L+,Weekly
+35-44,Metro,Service,<50k,Medium,15-30,Yes,High,5-20L,Weekly
+25-34,Tier1,Service,10L-50L,High,90+,Yes,Medium,<1L,Rare
+45-54,Tier3,Retailer,50L+,Very High,60-90,Yes,Medium,<1L,Monthly
+45-54,Tier3,Service,2L-10L,Low,60-90,Yes,Medium,<1L,Rare
+35-44,Metro,Distributor,2L-10L,Very High,90+,Yes,Medium,1-5L,Rare
+45-54,Tier3,Distributor,<50k,Low,60-90,Yes,Low,<1L,Rare
+45-54,Tier2,Service,2L-10L,Very High,30-60,No,Low,1-5L,Rare
+<25,Tier1,Retailer,10L-50L,Low,<15,Yes,Low,<1L,Monthly
+35-44,Tier3,Retailer,<50k,Low,<15,No,Low,1-5L,Rare
+55+,Tier3,Retailer,50L+,Low,<15,Yes,Medium,20L+,Rare
+35-44,Metro,Trader,<50k,Low,30-60,Yes,Low,20L+,Weekly
+55+,Tier2,Service,<50k,Medium,60-90,Yes,Low,1-5L,Rare
+<25,Tier3,Retailer,50k-2L,Very High,90+,No,Low,5-20L,Monthly
+25-34,Metro,Distributor,50k-2L,Low,15-30,Yes,Medium,5-20L,Rare
+45-54,Tier3,Manufacturer,<50k,Very High,60-90,Yes,High,1-5L,Monthly
+<25,Metro,Manufacturer,2L-10L,High,30-60,No,Medium,20L+,Monthly
+45-54,Metro,Retailer,50k-2L,Low,30-60,No,High,1-5L,Monthly
+25-34,Tier2,Manufacturer,50L+,Very High,<15,No,High,5-20L,Weekly
+25-34,Tier3,Manufacturer,10L-50L,Medium,60-90,No,Low,1-5L,Weekly
+<25,Tier2,Trader,50k-2L,Very High,<15,Yes,Low,20L+,Rare
+25-34,Metro,Distributor,<50k,Low,15-30,Yes,Low,5-20L,Rare
+55+,Tier1,Distributor,2L-10L,High,<15,No,Medium,5-20L,Rare
+25-34,Tier3,Trader,10L-50L,Very High,15-30,Yes,Medium,<1L,Monthly
+45-54,Tier1,Trader,50k-2L,High,30-60,No,Low,<1L,Monthly
+45-54,Tier3,Manufacturer,2L-10L,Medium,<15,No,Medium,5-20L,Monthly
+45-54,Tier2,Service,2L-10L,Very High,<15,No,Medium,5-20L,Rare
+45-54,Tier2,Manufacturer,2L-10L,Very High,90+,Yes,High,1-5L,Rare
+55+,Tier2,Trader,<50k,Medium,30-60,No,Medium,20L+,Rare
+35-44,Tier2,Distributor,50L+,Medium,90+,Yes,High,5-20L,Rare
+<25,Tier2,Manufacturer,2L-10L,Medium,15-30,Yes,Low,20L+,Weekly
+45-54,Tier1,Service,10L-50L,Low,15-30,Yes,Medium,5-20L,Weekly
+25-34,Tier2,Manufacturer,50k-2L,Low,30-60,No,High,20L+,Weekly
+45-54,Metro,Retailer,10L-50L,Very High,15-30,Yes,Medium,<1L,Rare
+25-34,Metro,Manufacturer,<50k,Very High,30-60,No,High,5-20L,Weekly
+25-34,Tier1,Trader,<50k,Very High,15-30,Yes,High,1-5L,Weekly
+45-54,Tier3,Distributor,10L-50L,High,60-90,Yes,Medium,20L+,Rare
+55+,Metro,Distributor,50L+,Medium,<15,Yes,Low,5-20L,Weekly
+25-34,Tier3,Trader,<50k,Very High,60-90,No,High,<1L,Rare
+25-34,Tier1,Retailer,<50k,Medium,30-60,No,Low,<1L,Rare
+45-54,Tier3,Trader,10L-50L,Low,30-60,No,Medium,<1L,Rare
+25-34,Tier3,Manufacturer,<50k,Medium,60-90,No,Medium,<1L,Monthly
+25-34,Tier3,Trader,50L+,High,<15,Yes,Low,5-20L,Rare
+45-54,Tier3,Trader,50L+,High,<15,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,50L+,Medium,90+,No,High,20L+,Weekly
+<25,Metro,Manufacturer,50k-2L,High,15-30,No,Low,1-5L,Rare
+55+,Tier2,Service,50L+,High,90+,No,Medium,20L+,Monthly
+55+,Tier3,Service,50L+,Low,<15,No,Medium,1-5L,Monthly
+25-34,Metro,Distributor,50k-2L,Very High,60-90,Yes,Low,5-20L,Monthly
+55+,Metro,Trader,2L-10L,High,15-30,No,High,5-20L,Weekly
+25-34,Tier1,Distributor,<50k,Very High,60-90,No,Low,20L+,Monthly
+<25,Metro,Retailer,50L+,Medium,90+,Yes,Medium,5-20L,Monthly
+45-54,Tier1,Service,<50k,Medium,30-60,No,Medium,20L+,Rare
+45-54,Tier3,Trader,10L-50L,High,60-90,Yes,Low,1-5L,Monthly
+45-54,Tier3,Retailer,<50k,Medium,90+,No,High,5-20L,Monthly
+55+,Tier2,Retailer,50k-2L,Low,90+,Yes,High,5-20L,Monthly
+<25,Tier2,Trader,<50k,High,90+,No,High,20L+,Rare
+55+,Tier2,Retailer,<50k,High,30-60,No,Low,20L+,Rare
+55+,Metro,Trader,<50k,High,30-60,No,High,20L+,Monthly
+<25,Tier3,Trader,2L-10L,Medium,30-60,No,High,20L+,Weekly
+<25,Tier1,Manufacturer,2L-10L,Medium,15-30,No,High,<1L,Weekly
+<25,Tier2,Distributor,10L-50L,High,30-60,Yes,High,20L+,Rare
+<25,Tier1,Retailer,50k-2L,Very High,30-60,No,Medium,<1L,Monthly
+45-54,Tier1,Retailer,<50k,Medium,30-60,Yes,Low,1-5L,Weekly
+35-44,Tier2,Manufacturer,<50k,Medium,60-90,Yes,Low,20L+,Monthly
+35-44,Tier3,Manufacturer,<50k,High,30-60,Yes,High,<1L,Rare
+<25,Tier2,Manufacturer,<50k,Very High,15-30,Yes,Low,<1L,Weekly
+35-44,Tier1,Service,2L-10L,High,90+,No,Low,<1L,Rare
+35-44,Tier2,Service,10L-50L,Medium,60-90,No,Medium,5-20L,Monthly
+<25,Tier1,Service,50L+,High,<15,No,Low,<1L,Rare
+35-44,Tier1,Trader,50k-2L,High,30-60,No,Medium,20L+,Rare
+55+,Tier2,Retailer,<50k,High,90+,Yes,Low,20L+,Rare
+25-34,Metro,Distributor,10L-50L,Very High,90+,Yes,Medium,20L+,Rare
+25-34,Tier2,Trader,50L+,High,60-90,Yes,Medium,<1L,Weekly
+<25,Metro,Retailer,10L-50L,Medium,<15,No,Low,<1L,Monthly
+45-54,Tier1,Retailer,2L-10L,High,15-30,No,Medium,5-20L,Weekly
+<25,Tier1,Manufacturer,50L+,Very High,90+,No,Medium,1-5L,Monthly
+45-54,Metro,Manufacturer,10L-50L,Low,90+,No,Low,5-20L,Monthly
+25-34,Tier1,Trader,2L-10L,Very High,90+,Yes,Medium,20L+,Monthly
+<25,Metro,Manufacturer,10L-50L,High,90+,No,Medium,20L+,Monthly
+55+,Metro,Retailer,10L-50L,Low,60-90,No,Medium,20L+,Monthly
+35-44,Tier1,Manufacturer,50L+,High,<15,Yes,Medium,5-20L,Weekly
+45-54,Tier3,Service,2L-10L,Very High,90+,Yes,Medium,20L+,Monthly
+35-44,Metro,Manufacturer,<50k,Low,15-30,No,High,20L+,Rare
+35-44,Tier2,Retailer,50k-2L,Low,15-30,No,Medium,20L+,Weekly
+<25,Tier2,Trader,50L+,High,30-60,Yes,Medium,<1L,Weekly
+35-44,Tier1,Distributor,2L-10L,High,90+,No,Medium,1-5L,Monthly
+55+,Tier3,Manufacturer,10L-50L,Very High,90+,Yes,Medium,<1L,Rare
+35-44,Tier1,Retailer,2L-10L,High,90+,Yes,Low,<1L,Rare
+<25,Tier3,Distributor,50k-2L,Low,90+,No,High,1-5L,Monthly
+55+,Metro,Distributor,50k-2L,Medium,90+,Yes,Low,1-5L,Monthly
+25-34,Metro,Service,<50k,Medium,15-30,No,High,5-20L,Rare
+35-44,Metro,Distributor,<50k,Very High,<15,No,Medium,1-5L,Weekly
+<25,Metro,Retailer,50k-2L,High,<15,No,Medium,5-20L,Weekly
+25-34,Tier2,Retailer,50L+,Very High,30-60,No,High,5-20L,Monthly
+25-34,Tier2,Manufacturer,50L+,Medium,15-30,Yes,High,<1L,Weekly
+45-54,Tier1,Manufacturer,10L-50L,Medium,90+,No,Low,20L+,Weekly
+55+,Tier3,Manufacturer,<50k,High,<15,No,High,<1L,Rare
+35-44,Metro,Distributor,10L-50L,Low,60-90,Yes,Medium,<1L,Weekly
+<25,Metro,Distributor,<50k,High,60-90,No,Low,1-5L,Rare
+45-54,Tier3,Service,50k-2L,Medium,60-90,No,High,1-5L,Monthly
+55+,Tier3,Manufacturer,50L+,Low,90+,No,High,5-20L,Monthly
+45-54,Tier1,Trader,50L+,Very High,90+,No,Low,5-20L,Rare
+55+,Tier3,Service,50k-2L,Medium,30-60,Yes,High,5-20L,Rare
+55+,Metro,Trader,10L-50L,Very High,30-60,Yes,Medium,1-5L,Monthly
+35-44,Metro,Distributor,10L-50L,Low,30-60,No,Low,5-20L,Rare
+55+,Metro,Service,2L-10L,Very High,60-90,Yes,High,5-20L,Monthly
+45-54,Metro,Service,<50k,Medium,90+,Yes,Medium,1-5L,Monthly
+55+,Metro,Retailer,10L-50L,High,60-90,Yes,High,20L+,Monthly
+35-44,Tier1,Distributor,50k-2L,Very High,30-60,Yes,Low,<1L,Monthly
+35-44,Metro,Distributor,10L-50L,Medium,90+,No,High,1-5L,Monthly
+45-54,Tier1,Service,50L+,Medium,15-30,Yes,High,5-20L,Monthly
+25-34,Metro,Distributor,<50k,Low,<15,No,High,<1L,Weekly
+25-34,Tier2,Service,2L-10L,Medium,<15,No,Medium,1-5L,Weekly
+55+,Tier2,Retailer,<50k,High,30-60,Yes,Medium,<1L,Monthly
+<25,Tier2,Service,50L+,High,60-90,No,High,<1L,Weekly
+55+,Tier2,Distributor,50L+,Very High,15-30,Yes,High,20L+,Rare
+45-54,Tier1,Distributor,50L+,Very High,90+,No,Low,5-20L,Rare
+45-54,Tier1,Service,50L+,Very High,60-90,No,High,1-5L,Monthly
+45-54,Tier3,Service,50k-2L,Very High,30-60,Yes,Low,5-20L,Weekly
+45-54,Metro,Service,2L-10L,High,60-90,No,Medium,20L+,Rare
+45-54,Tier2,Manufacturer,50L+,Low,30-60,Yes,High,20L+,Rare
+35-44,Tier1,Distributor,50L+,Very High,<15,No,Low,1-5L,Rare
+25-34,Metro,Distributor,10L-50L,Low,<15,No,Medium,1-5L,Rare
+45-54,Metro,Manufacturer,2L-10L,Medium,60-90,Yes,Low,20L+,Weekly
+<25,Tier1,Service,<50k,Medium,15-30,Yes,Medium,1-5L,Rare
+<25,Tier2,Retailer,2L-10L,Very High,90+,Yes,High,<1L,Rare
+<25,Tier3,Service,2L-10L,Medium,30-60,No,Low,<1L,Rare
+<25,Metro,Service,2L-10L,Low,90+,Yes,High,20L+,Monthly
+35-44,Tier3,Manufacturer,50L+,Low,<15,Yes,Low,5-20L,Rare
+<25,Tier2,Distributor,50L+,Medium,15-30,Yes,Medium,1-5L,Rare
+45-54,Tier2,Service,50k-2L,Very High,15-30,Yes,Low,1-5L,Weekly
+55+,Tier3,Distributor,<50k,Low,90+,No,Low,<1L,Rare
+<25,Tier2,Trader,10L-50L,Low,<15,No,High,1-5L,Rare
+35-44,Metro,Distributor,2L-10L,High,90+,No,High,5-20L,Rare
+35-44,Tier3,Retailer,<50k,Very High,60-90,No,High,1-5L,Monthly
+<25,Tier2,Retailer,<50k,High,15-30,No,Medium,1-5L,Weekly
+55+,Tier3,Service,50k-2L,Medium,15-30,No,High,<1L,Weekly
+<25,Metro,Distributor,10L-50L,Medium,60-90,Yes,Low,1-5L,Monthly
+35-44,Tier2,Service,2L-10L,High,<15,No,Medium,20L+,Monthly
+25-34,Metro,Manufacturer,10L-50L,Very High,15-30,Yes,High,20L+,Weekly
+45-54,Tier2,Retailer,50k-2L,Low,30-60,Yes,Low,5-20L,Rare
+35-44,Tier1,Service,50L+,Medium,30-60,Yes,Low,5-20L,Weekly
+<25,Tier2,Manufacturer,<50k,Very High,<15,Yes,Medium,5-20L,Monthly
+45-54,Tier3,Service,2L-10L,Very High,60-90,No,Low,5-20L,Rare
+<25,Tier2,Distributor,50L+,Medium,90+,No,High,<1L,Weekly
+<25,Metro,Distributor,50k-2L,Medium,<15,No,Low,1-5L,Rare
+25-34,Metro,Distributor,10L-50L,Very High,90+,Yes,High,<1L,Rare
+45-54,Tier2,Distributor,<50k,Low,<15,No,High,5-20L,Monthly
+45-54,Tier3,Trader,2L-10L,High,30-60,No,Medium,1-5L,Weekly
+25-34,Tier1,Manufacturer,50L+,Medium,60-90,No,Low,20L+,Monthly
+35-44,Tier3,Manufacturer,50L+,High,30-60,No,Medium,<1L,Weekly
+<25,Tier1,Distributor,<50k,Very High,60-90,No,Medium,1-5L,Weekly
+55+,Metro,Trader,10L-50L,High,90+,No,Medium,20L+,Rare
+<25,Tier3,Distributor,50k-2L,Low,<15,Yes,High,20L+,Rare
+<25,Tier1,Trader,10L-50L,Very High,15-30,Yes,High,5-20L,Rare
+35-44,Tier2,Distributor,10L-50L,Low,15-30,No,High,20L+,Monthly
+<25,Metro,Retailer,10L-50L,Very High,60-90,Yes,High,20L+,Rare
+25-34,Tier2,Retailer,<50k,Low,60-90,Yes,Low,5-20L,Monthly
+25-34,Metro,Service,<50k,Very High,30-60,No,Low,1-5L,Rare
+45-54,Tier3,Distributor,50k-2L,Low,15-30,Yes,High,1-5L,Monthly
+55+,Tier3,Manufacturer,10L-50L,Very High,30-60,No,High,5-20L,Weekly
+<25,Metro,Service,<50k,Low,90+,Yes,Low,<1L,Monthly
+<25,Metro,Retailer,50k-2L,Very High,15-30,No,Medium,5-20L,Monthly
+35-44,Metro,Distributor,50k-2L,Low,90+,Yes,Medium,1-5L,Monthly
+25-34,Tier3,Service,10L-50L,Medium,<15,Yes,High,<1L,Weekly
+55+,Tier1,Distributor,2L-10L,High,30-60,Yes,Medium,5-20L,Monthly
+45-54,Tier2,Retailer,10L-50L,Very High,60-90,Yes,High,1-5L,Weekly
+25-34,Tier2,Service,2L-10L,Low,15-30,No,High,1-5L,Rare
+45-54,Tier3,Retailer,50k-2L,Medium,30-60,Yes,High,1-5L,Rare
+35-44,Tier2,Trader,<50k,Very High,60-90,No,Low,20L+,Weekly
+35-44,Metro,Retailer,50L+,Very High,<15,No,Medium,20L+,Monthly
+<25,Tier1,Distributor,50k-2L,Very High,15-30,Yes,Low,<1L,Rare
+55+,Tier2,Manufacturer,<50k,High,90+,Yes,Medium,<1L,Monthly
+45-54,Tier1,Retailer,50k-2L,Low,<15,No,Low,<1L,Monthly
+25-34,Metro,Manufacturer,10L-50L,Low,60-90,Yes,Low,20L+,Weekly
+35-44,Tier2,Trader,2L-10L,Very High,15-30,No,High,<1L,Rare
+<25,Tier3,Service,50k-2L,Very High,15-30,Yes,High,1-5L,Weekly
+<25,Tier1,Service,<50k,Very High,<15,No,Low,1-5L,Weekly
+45-54,Metro,Manufacturer,10L-50L,Medium,15-30,Yes,Medium,<1L,Weekly
+35-44,Tier1,Service,50L+,Very High,60-90,Yes,Medium,<1L,Weekly
+55+,Tier2,Retailer,10L-50L,High,<15,No,High,20L+,Monthly
+35-44,Tier2,Manufacturer,2L-10L,Low,90+,No,High,1-5L,Rare
+45-54,Tier3,Distributor,10L-50L,High,<15,No,Medium,5-20L,Rare
+45-54,Metro,Retailer,50L+,Very High,<15,Yes,Medium,5-20L,Rare
+35-44,Metro,Retailer,<50k,Medium,90+,Yes,Medium,20L+,Monthly
+45-54,Tier3,Retailer,50k-2L,Very High,60-90,Yes,High,20L+,Monthly
+35-44,Tier3,Distributor,2L-10L,Very High,30-60,Yes,Medium,20L+,Weekly
+25-34,Metro,Trader,50L+,Very High,30-60,No,High,1-5L,Weekly
+35-44,Tier1,Service,2L-10L,Very High,90+,No,Low,<1L,Weekly
+35-44,Tier1,Manufacturer,10L-50L,Very High,60-90,Yes,Low,<1L,Weekly
+45-54,Tier3,Trader,2L-10L,Low,15-30,Yes,Low,20L+,Rare
+45-54,Tier1,Manufacturer,50L+,High,90+,Yes,Medium,1-5L,Weekly
+<25,Metro,Service,50k-2L,Medium,30-60,No,High,5-20L,Monthly
+<25,Tier2,Distributor,50k-2L,Very High,60-90,No,Medium,20L+,Monthly
+25-34,Tier2,Retailer,2L-10L,Medium,<15,Yes,High,1-5L,Monthly
+<25,Tier1,Retailer,<50k,Low,60-90,No,Medium,20L+,Weekly
+35-44,Tier3,Distributor,2L-10L,High,60-90,Yes,Low,1-5L,Rare
+45-54,Tier3,Trader,10L-50L,Very High,30-60,Yes,High,1-5L,Rare
+<25,Tier3,Trader,50k-2L,Low,30-60,No,Medium,20L+,Weekly
+<25,Tier3,Manufacturer,50k-2L,Low,15-30,No,High,<1L,Weekly
+25-34,Tier3,Distributor,50k-2L,High,15-30,No,High,20L+,Monthly
+25-34,Tier1,Trader,<50k,Very High,90+,No,Medium,<1L,Monthly
+35-44,Tier2,Distributor,<50k,High,<15,Yes,Medium,<1L,Rare
+45-54,Tier2,Service,50L+,High,15-30,No,High,5-20L,Monthly
+25-34,Tier1,Retailer,2L-10L,Medium,30-60,No,High,1-5L,Monthly
+<25,Tier3,Retailer,2L-10L,Medium,60-90,No,Low,20L+,Weekly
+45-54,Tier1,Retailer,10L-50L,High,90+,No,High,1-5L,Rare
+45-54,Tier2,Distributor,50k-2L,Medium,15-30,Yes,Low,5-20L,Weekly
+<25,Metro,Distributor,<50k,Low,60-90,Yes,Low,<1L,Rare
+25-34,Tier1,Manufacturer,10L-50L,High,60-90,No,Low,20L+,Weekly
+<25,Tier3,Retailer,10L-50L,Very High,15-30,No,High,1-5L,Rare
+45-54,Tier2,Manufacturer,<50k,Very High,<15,Yes,Low,5-20L,Monthly
+55+,Tier2,Retailer,2L-10L,Low,<15,Yes,High,<1L,Rare
+55+,Tier2,Manufacturer,50k-2L,Very High,90+,No,High,<1L,Rare
+35-44,Tier2,Manufacturer,2L-10L,Very High,<15,Yes,Medium,1-5L,Weekly
+<25,Tier3,Service,10L-50L,High,90+,Yes,High,<1L,Rare
+<25,Metro,Manufacturer,50k-2L,Low,30-60,Yes,High,5-20L,Rare
+35-44,Tier2,Distributor,50L+,High,15-30,Yes,Low,<1L,Rare
+35-44,Tier1,Manufacturer,10L-50L,Low,60-90,No,High,20L+,Weekly
+35-44,Metro,Retailer,2L-10L,High,90+,Yes,High,20L+,Rare
+45-54,Tier2,Manufacturer,2L-10L,High,<15,Yes,Medium,1-5L,Weekly
+<25,Metro,Trader,2L-10L,Medium,90+,No,Medium,5-20L,Monthly
+45-54,Tier1,Retailer,<50k,Very High,90+,No,Low,<1L,Weekly
+35-44,Tier2,Trader,10L-50L,Low,<15,No,Low,<1L,Rare
+<25,Tier1,Retailer,50k-2L,Very High,<15,Yes,Medium,<1L,Monthly
+45-54,Tier3,Distributor,2L-10L,Medium,15-30,No,Medium,20L+,Rare
+45-54,Tier2,Distributor,2L-10L,Low,60-90,Yes,High,5-20L,Weekly
+35-44,Tier2,Distributor,<50k,Medium,15-30,No,Low,<1L,Monthly
+<25,Tier2,Trader,50k-2L,Very High,15-30,Yes,Low,1-5L,Monthly
+35-44,Tier2,Service,10L-50L,High,<15,No,High,5-20L,Monthly
+<25,Tier3,Retailer,50L+,Medium,<15,No,High,5-20L,Rare
+55+,Tier2,Distributor,<50k,Medium,60-90,Yes,Low,<1L,Monthly
+25-34,Metro,Retailer,10L-50L,High,90+,No,Medium,20L+,Monthly
+25-34,Tier2,Trader,50L+,Very High,15-30,No,Medium,5-20L,Monthly
+25-34,Tier3,Service,2L-10L,Medium,60-90,No,High,1-5L,Monthly
+35-44,Tier2,Trader,2L-10L,Very High,15-30,No,Low,5-20L,Weekly
+55+,Metro,Retailer,50k-2L,High,90+,No,High,20L+,Rare
+<25,Tier3,Service,50L+,Low,15-30,Yes,Medium,1-5L,Rare
+45-54,Tier3,Service,2L-10L,Medium,30-60,Yes,Medium,20L+,Monthly
+<25,Metro,Trader,2L-10L,Very High,60-90,No,High,<1L,Weekly
+45-54,Metro,Distributor,50k-2L,High,<15,No,Medium,5-20L,Monthly
+<25,Metro,Retailer,10L-50L,High,15-30,Yes,Low,1-5L,Rare
+55+,Metro,Manufacturer,2L-10L,Medium,60-90,Yes,High,20L+,Rare
+45-54,Metro,Manufacturer,<50k,Low,60-90,No,High,<1L,Rare
+35-44,Tier3,Trader,<50k,Medium,15-30,Yes,High,1-5L,Monthly
+<25,Tier3,Retailer,10L-50L,Very High,<15,No,Medium,5-20L,Monthly
+<25,Tier2,Retailer,50L+,High,<15,No,Low,5-20L,Weekly
+45-54,Tier2,Trader,50k-2L,Low,15-30,No,High,20L+,Weekly
+35-44,Tier1,Retailer,<50k,Very High,60-90,No,High,1-5L,Rare
+35-44,Tier2,Distributor,<50k,Medium,<15,Yes,Medium,<1L,Rare
+55+,Tier2,Trader,10L-50L,High,15-30,Yes,Low,<1L,Weekly
+35-44,Metro,Distributor,50L+,Medium,15-30,Yes,High,<1L,Rare
+35-44,Metro,Retailer,50L+,Low,15-30,No,Medium,20L+,Weekly
+35-44,Tier2,Trader,10L-50L,Low,60-90,Yes,High,<1L,Monthly
+25-34,Tier1,Retailer,<50k,Low,<15,No,Medium,1-5L,Rare
+55+,Metro,Trader,50k-2L,Low,60-90,No,Low,20L+,Rare
+<25,Tier2,Retailer,<50k,Low,30-60,Yes,Medium,5-20L,Weekly
+45-54,Tier2,Distributor,50L+,Medium,<15,No,High,20L+,Monthly
+<25,Tier3,Distributor,<50k,Low,60-90,No,High,20L+,Rare
+55+,Tier1,Retailer,50k-2L,Low,<15,No,Medium,20L+,Rare
+45-54,Tier3,Trader,2L-10L,High,30-60,Yes,Low,1-5L,Weekly
+55+,Tier1,Manufacturer,<50k,Low,90+,No,Low,5-20L,Monthly
+35-44,Metro,Distributor,10L-50L,High,15-30,Yes,High,5-20L,Weekly
+45-54,Tier1,Distributor,2L-10L,High,60-90,No,High,20L+,Monthly
+35-44,Tier2,Manufacturer,10L-50L,High,30-60,Yes,Medium,20L+,Monthly
+<25,Tier2,Retailer,10L-50L,Medium,30-60,No,Medium,20L+,Weekly
+<25,Tier1,Trader,10L-50L,Medium,<15,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,<50k,Very High,<15,Yes,Low,1-5L,Monthly
+45-54,Tier1,Service,50L+,Very High,15-30,No,Low,<1L,Weekly
+55+,Tier3,Distributor,2L-10L,High,<15,No,High,5-20L,Rare
+55+,Tier1,Service,50k-2L,Medium,60-90,No,High,<1L,Rare
+35-44,Metro,Distributor,50L+,Low,60-90,No,High,<1L,Rare
+45-54,Tier3,Distributor,<50k,Very High,60-90,Yes,Medium,20L+,Rare
+<25,Tier3,Service,10L-50L,Medium,90+,No,Low,1-5L,Rare
+55+,Tier1,Service,50k-2L,Low,60-90,Yes,High,<1L,Weekly
+55+,Metro,Retailer,2L-10L,Low,<15,No,High,<1L,Monthly
+<25,Tier3,Service,50L+,Medium,<15,Yes,High,<1L,Weekly
+55+,Tier2,Retailer,50L+,Very High,60-90,Yes,High,20L+,Rare
+35-44,Tier3,Retailer,50k-2L,Medium,30-60,Yes,High,20L+,Rare
+45-54,Tier1,Retailer,<50k,Very High,30-60,No,High,1-5L,Weekly
+<25,Metro,Distributor,2L-10L,High,30-60,No,Low,<1L,Weekly
+45-54,Tier1,Distributor,50k-2L,Medium,15-30,Yes,High,<1L,Monthly
+55+,Tier2,Service,10L-50L,Medium,90+,Yes,Low,1-5L,Rare
+55+,Tier2,Distributor,2L-10L,Very High,60-90,Yes,Medium,1-5L,Weekly
+<25,Tier2,Service,50L+,Very High,15-30,Yes,Low,1-5L,Monthly
+35-44,Tier1,Distributor,50k-2L,Medium,30-60,Yes,Medium,5-20L,Rare
+25-34,Tier3,Trader,50L+,Low,60-90,No,Low,1-5L,Rare
+<25,Tier1,Trader,50L+,Low,15-30,Yes,Low,20L+,Rare
+25-34,Metro,Service,50L+,Low,<15,No,High,5-20L,Weekly
+25-34,Tier3,Distributor,<50k,High,30-60,No,Low,1-5L,Rare
+35-44,Tier2,Distributor,50L+,High,15-30,No,Low,20L+,Rare
+25-34,Tier1,Retailer,10L-50L,Very High,<15,Yes,High,1-5L,Monthly
+25-34,Tier2,Manufacturer,10L-50L,High,30-60,Yes,Medium,1-5L,Weekly
+35-44,Tier2,Service,2L-10L,Low,90+,Yes,High,5-20L,Monthly
+25-34,Metro,Manufacturer,50L+,Medium,30-60,Yes,High,20L+,Weekly
+25-34,Tier3,Manufacturer,50L+,High,90+,No,High,<1L,Rare
+25-34,Metro,Service,50k-2L,High,90+,No,Medium,1-5L,Monthly
+<25,Metro,Distributor,<50k,Low,90+,No,Low,5-20L,Weekly
+<25,Metro,Service,2L-10L,High,60-90,Yes,Low,20L+,Weekly
+<25,Tier2,Manufacturer,50L+,Very High,60-90,Yes,High,1-5L,Rare
+35-44,Metro,Distributor,50k-2L,Medium,90+,Yes,High,<1L,Rare
+55+,Metro,Trader,<50k,Low,<15,Yes,Low,20L+,Monthly
+25-34,Tier3,Service,2L-10L,Very High,90+,Yes,Low,20L+,Monthly
+25-34,Tier3,Service,2L-10L,Low,15-30,Yes,Low,5-20L,Weekly
+35-44,Metro,Distributor,50L+,Very High,90+,No,Medium,1-5L,Monthly
+25-34,Tier3,Trader,2L-10L,Medium,60-90,No,Medium,1-5L,Rare
+<25,Tier3,Trader,50k-2L,Medium,60-90,Yes,High,20L+,Monthly
+55+,Metro,Distributor,2L-10L,Very High,15-30,No,Medium,1-5L,Monthly
+45-54,Tier2,Retailer,10L-50L,Very High,15-30,No,High,20L+,Weekly
+25-34,Metro,Service,50k-2L,Very High,30-60,No,Low,<1L,Rare
+<25,Tier3,Service,<50k,Very High,<15,No,Low,5-20L,Weekly
+45-54,Tier2,Manufacturer,<50k,Very High,<15,Yes,High,1-5L,Rare
+55+,Tier1,Distributor,50L+,Very High,<15,No,Low,1-5L,Rare
+45-54,Tier2,Manufacturer,50L+,Medium,60-90,Yes,High,5-20L,Weekly
+<25,Tier3,Manufacturer,10L-50L,Very High,<15,Yes,High,<1L,Monthly
+45-54,Tier2,Trader,<50k,High,30-60,No,High,<1L,Weekly
+35-44,Metro,Service,<50k,Medium,30-60,Yes,Medium,<1L,Monthly
+45-54,Tier1,Manufacturer,<50k,Low,<15,No,High,<1L,Weekly
+25-34,Tier1,Trader,<50k,Medium,15-30,Yes,High,<1L,Weekly
+25-34,Tier1,Distributor,2L-10L,Low,30-60,Yes,High,20L+,Monthly
+35-44,Tier3,Manufacturer,50k-2L,Low,15-30,No,Medium,1-5L,Monthly
+<25,Tier3,Service,50k-2L,High,60-90,No,Low,1-5L,Monthly
+25-34,Tier1,Manufacturer,10L-50L,Very High,30-60,Yes,Medium,1-5L,Weekly
+55+,Tier2,Distributor,2L-10L,Very High,15-30,No,High,20L+,Monthly
+25-34,Tier1,Manufacturer,<50k,Medium,<15,Yes,Medium,5-20L,Monthly
+25-34,Tier2,Service,<50k,Very High,60-90,No,Low,<1L,Monthly
+<25,Tier2,Trader,50L+,High,90+,Yes,Low,5-20L,Rare
+45-54,Tier3,Service,50L+,Medium,90+,Yes,High,<1L,Monthly
+25-34,Tier2,Trader,10L-50L,Medium,<15,Yes,Low,<1L,Monthly
+35-44,Tier1,Retailer,<50k,Medium,60-90,Yes,Medium,5-20L,Monthly
+45-54,Tier3,Service,10L-50L,Very High,60-90,Yes,Medium,1-5L,Rare
+55+,Metro,Service,2L-10L,Very High,60-90,No,Low,20L+,Rare
+<25,Metro,Distributor,50k-2L,Very High,60-90,Yes,High,5-20L,Monthly
+55+,Tier3,Manufacturer,<50k,Medium,90+,No,High,1-5L,Monthly
+45-54,Tier1,Trader,2L-10L,Medium,15-30,No,Medium,<1L,Monthly
+45-54,Metro,Trader,<50k,Low,60-90,Yes,Low,1-5L,Monthly
+45-54,Metro,Distributor,50L+,Low,15-30,Yes,Medium,<1L,Rare
+55+,Tier2,Distributor,10L-50L,Very High,60-90,No,Medium,<1L,Monthly
+45-54,Tier2,Manufacturer,50L+,Medium,30-60,Yes,Medium,1-5L,Rare
+55+,Tier1,Manufacturer,50k-2L,Very High,30-60,Yes,High,<1L,Weekly
+45-54,Tier3,Service,50L+,Very High,30-60,No,Low,20L+,Rare
+35-44,Tier1,Retailer,<50k,Low,60-90,No,Low,1-5L,Weekly
+45-54,Tier3,Manufacturer,50L+,High,15-30,No,High,5-20L,Rare
+55+,Metro,Distributor,<50k,Very High,90+,No,Medium,<1L,Rare
+25-34,Tier2,Manufacturer,50k-2L,High,<15,No,Medium,<1L,Rare
+45-54,Tier1,Trader,50L+,High,90+,No,High,20L+,Monthly
+25-34,Tier1,Retailer,10L-50L,Medium,60-90,Yes,Low,20L+,Rare
+35-44,Tier3,Service,10L-50L,Medium,30-60,No,High,5-20L,Monthly
+<25,Tier3,Trader,10L-50L,Very High,30-60,No,Low,<1L,Rare
+35-44,Tier1,Trader,50L+,Low,15-30,Yes,Low,5-20L,Rare
+45-54,Tier3,Retailer,50L+,Low,60-90,Yes,Low,5-20L,Weekly
+25-34,Tier1,Service,50L+,Very High,90+,Yes,Medium,<1L,Rare
+25-34,Tier1,Distributor,<50k,Very High,60-90,Yes,Medium,5-20L,Monthly
+55+,Tier1,Service,50k-2L,Low,60-90,Yes,High,5-20L,Weekly
+25-34,Metro,Manufacturer,10L-50L,High,30-60,Yes,High,20L+,Weekly
+55+,Tier3,Trader,<50k,Very High,90+,No,Medium,20L+,Rare
+<25,Tier2,Manufacturer,10L-50L,High,<15,Yes,High,5-20L,Rare
+45-54,Tier2,Distributor,<50k,Very High,30-60,Yes,Medium,<1L,Weekly
+55+,Tier3,Manufacturer,50L+,Very High,90+,Yes,Medium,20L+,Monthly
+<25,Tier1,Service,10L-50L,High,15-30,Yes,Low,5-20L,Rare
+25-34,Tier2,Manufacturer,50L+,High,30-60,No,Low,1-5L,Weekly
+25-34,Tier2,Distributor,10L-50L,Low,15-30,Yes,Medium,1-5L,Monthly
+<25,Tier3,Distributor,2L-10L,Very High,30-60,Yes,Low,5-20L,Rare
+25-34,Tier2,Distributor,<50k,Medium,60-90,No,Medium,1-5L,Weekly
+<25,Tier1,Service,2L-10L,Medium,90+,No,Low,20L+,Weekly
+55+,Tier3,Distributor,<50k,Very High,15-30,No,High,<1L,Rare
+55+,Tier1,Trader,50k-2L,Very High,30-60,Yes,High,5-20L,Monthly
+<25,Tier2,Distributor,10L-50L,Very High,15-30,No,Medium,20L+,Monthly
+55+,Tier2,Manufacturer,50k-2L,High,30-60,No,Medium,<1L,Weekly
+55+,Tier1,Manufacturer,50k-2L,Medium,30-60,No,Low,1-5L,Monthly
+55+,Metro,Manufacturer,<50k,Medium,<15,Yes,Low,1-5L,Weekly
+35-44,Tier2,Service,2L-10L,Medium,<15,Yes,Medium,1-5L,Rare
+45-54,Metro,Manufacturer,50L+,Very High,<15,No,High,1-5L,Monthly
+25-34,Tier2,Service,<50k,High,15-30,Yes,High,20L+,Rare
+35-44,Metro,Service,50L+,Very High,60-90,Yes,Medium,20L+,Weekly
+55+,Metro,Distributor,50k-2L,Low,30-60,Yes,High,<1L,Rare
+<25,Metro,Trader,50L+,Low,90+,Yes,Medium,5-20L,Monthly
+55+,Tier1,Distributor,2L-10L,Medium,<15,Yes,Low,<1L,Rare
+45-54,Metro,Distributor,<50k,Very High,15-30,No,High,5-20L,Monthly
+55+,Metro,Service,2L-10L,Low,15-30,No,High,1-5L,Monthly
+<25,Metro,Service,2L-10L,Low,15-30,No,Low,1-5L,Monthly
+45-54,Tier2,Manufacturer,<50k,Very High,90+,No,Low,1-5L,Monthly
+55+,Metro,Manufacturer,2L-10L,High,90+,Yes,High,1-5L,Monthly
+45-54,Tier2,Distributor,10L-50L,Very High,<15,No,High,20L+,Weekly
+25-34,Metro,Retailer,10L-50L,Very High,90+,No,Medium,<1L,Rare
+25-34,Metro,Retailer,10L-50L,High,<15,Yes,Medium,5-20L,Weekly
+55+,Tier1,Manufacturer,50L+,Medium,90+,Yes,High,5-20L,Rare
+45-54,Tier2,Retailer,2L-10L,Medium,90+,Yes,Medium,20L+,Rare
+<25,Metro,Manufacturer,<50k,Medium,90+,Yes,Low,1-5L,Rare
+55+,Tier2,Service,<50k,High,<15,No,Medium,<1L,Weekly
+25-34,Tier2,Distributor,50L+,Low,30-60,Yes,Medium,1-5L,Monthly
+25-34,Tier3,Trader,<50k,High,<15,Yes,High,20L+,Monthly
+55+,Tier1,Distributor,10L-50L,Very High,30-60,Yes,Medium,5-20L,Weekly
+45-54,Tier1,Manufacturer,2L-10L,High,15-30,Yes,High,20L+,Monthly
+25-34,Tier1,Manufacturer,<50k,Low,15-30,Yes,High,5-20L,Rare
+45-54,Tier3,Distributor,<50k,Low,<15,Yes,High,<1L,Monthly
+25-34,Tier3,Manufacturer,50k-2L,Very High,30-60,No,Low,5-20L,Monthly
+25-34,Tier1,Retailer,50k-2L,Medium,30-60,No,Medium,<1L,Monthly
+35-44,Tier3,Retailer,50k-2L,Low,30-60,No,Medium,1-5L,Rare
+25-34,Tier3,Manufacturer,2L-10L,Low,15-30,Yes,Medium,1-5L,Monthly
+<25,Tier3,Manufacturer,10L-50L,Low,<15,Yes,High,20L+,Monthly
+55+,Tier1,Retailer,10L-50L,Very High,60-90,No,Low,<1L,Monthly
+55+,Tier1,Manufacturer,10L-50L,Low,30-60,No,High,1-5L,Weekly
+45-54,Tier1,Manufacturer,2L-10L,Medium,30-60,No,Medium,<1L,Weekly
+25-34,Tier3,Distributor,2L-10L,Very High,60-90,No,High,1-5L,Monthly
+<25,Tier1,Trader,50k-2L,Medium,<15,Yes,High,1-5L,Weekly
+45-54,Tier3,Retailer,<50k,Low,30-60,No,Medium,5-20L,Weekly
+35-44,Metro,Distributor,50L+,Low,<15,Yes,High,20L+,Rare
+45-54,Tier3,Trader,50L+,Medium,30-60,Yes,High,5-20L,Weekly
+45-54,Tier2,Manufacturer,<50k,Very High,90+,Yes,Low,<1L,Weekly
+25-34,Tier1,Manufacturer,50k-2L,Very High,30-60,No,High,1-5L,Monthly
+35-44,Tier1,Distributor,<50k,Medium,90+,No,Low,20L+,Rare
+45-54,Tier2,Manufacturer,<50k,Low,<15,No,Medium,1-5L,Rare
+<25,Tier3,Service,50L+,High,30-60,Yes,Low,1-5L,Rare
+<25,Metro,Distributor,50k-2L,Medium,15-30,Yes,High,5-20L,Weekly
+55+,Tier2,Trader,2L-10L,Medium,15-30,No,Medium,<1L,Monthly
+35-44,Tier2,Distributor,50L+,Medium,60-90,Yes,High,20L+,Rare
+35-44,Tier3,Retailer,2L-10L,Low,15-30,No,High,20L+,Rare
+55+,Tier1,Distributor,50k-2L,Very High,90+,Yes,Low,20L+,Weekly
+45-54,Tier3,Manufacturer,<50k,Low,15-30,Yes,High,<1L,Rare
+35-44,Tier2,Manufacturer,10L-50L,Medium,15-30,Yes,Low,20L+,Monthly
+<25,Tier2,Service,10L-50L,Low,15-30,Yes,Medium,<1L,Rare
+<25,Tier1,Service,50k-2L,Low,30-60,Yes,Medium,20L+,Monthly
+25-34,Tier1,Service,10L-50L,Medium,60-90,Yes,High,1-5L,Monthly
+35-44,Tier1,Trader,2L-10L,Low,<15,Yes,Low,<1L,Monthly
+45-54,Tier3,Service,10L-50L,High,60-90,No,High,5-20L,Weekly
+55+,Tier1,Trader,50k-2L,Low,90+,Yes,High,20L+,Weekly
+55+,Tier2,Service,50k-2L,Low,30-60,Yes,High,5-20L,Monthly
+45-54,Tier2,Trader,2L-10L,Very High,30-60,No,High,<1L,Monthly
+25-34,Metro,Distributor,10L-50L,Very High,15-30,No,Low,1-5L,Rare
+55+,Tier3,Distributor,10L-50L,Medium,15-30,No,High,5-20L,Rare
+35-44,Metro,Manufacturer,<50k,Medium,90+,No,Medium,5-20L,Rare
+25-34,Tier2,Trader,50L+,Very High,30-60,Yes,Low,1-5L,Weekly
+35-44,Metro,Retailer,50k-2L,High,<15,Yes,High,1-5L,Rare
+<25,Tier2,Manufacturer,<50k,Low,60-90,No,Low,<1L,Monthly
+25-34,Metro,Distributor,50k-2L,High,30-60,Yes,High,20L+,Monthly
+55+,Tier1,Trader,<50k,High,<15,No,Medium,5-20L,Weekly
+25-34,Metro,Service,50L+,Very High,<15,Yes,Medium,5-20L,Weekly
+25-34,Tier1,Retailer,<50k,Medium,60-90,Yes,Medium,<1L,Rare
+25-34,Tier1,Distributor,50k-2L,Low,<15,Yes,Low,20L+,Weekly
+25-34,Tier3,Manufacturer,10L-50L,Medium,90+,Yes,Medium,<1L,Monthly
+35-44,Tier1,Trader,50k-2L,High,<15,Yes,High,5-20L,Monthly
+<25,Tier1,Retailer,2L-10L,High,90+,No,High,5-20L,Weekly
+45-54,Metro,Trader,2L-10L,Medium,<15,Yes,High,1-5L,Monthly
+25-34,Tier2,Service,2L-10L,Medium,15-30,Yes,Low,1-5L,Weekly
+55+,Tier3,Manufacturer,2L-10L,Very High,<15,Yes,Low,20L+,Monthly
+25-34,Tier1,Trader,50L+,Medium,90+,Yes,Medium,5-20L,Rare
+55+,Tier3,Distributor,10L-50L,Medium,<15,Yes,Low,5-20L,Weekly
+35-44,Metro,Manufacturer,10L-50L,Very High,<15,No,High,1-5L,Weekly
+55+,Tier1,Distributor,50k-2L,Medium,<15,Yes,High,<1L,Weekly
+45-54,Metro,Trader,<50k,High,90+,No,High,<1L,Monthly
+<25,Tier3,Manufacturer,50k-2L,Medium,<15,Yes,Low,5-20L,Rare
+55+,Metro,Distributor,50k-2L,Low,60-90,Yes,High,5-20L,Weekly
+55+,Tier3,Service,50k-2L,High,60-90,No,Medium,20L+,Monthly
+<25,Metro,Service,50k-2L,Very High,90+,Yes,Low,20L+,Weekly
+45-54,Tier3,Trader,10L-50L,High,15-30,Yes,High,1-5L,Monthly
+25-34,Tier2,Manufacturer,<50k,Very High,60-90,No,High,5-20L,Rare
+55+,Metro,Retailer,50k-2L,Low,30-60,Yes,Low,<1L,Monthly
+<25,Metro,Manufacturer,10L-50L,Low,60-90,No,Low,20L+,Monthly
+35-44,Tier2,Service,50k-2L,High,30-60,No,Medium,1-5L,Weekly
+<25,Tier2,Distributor,2L-10L,Medium,90+,No,Low,1-5L,Monthly
+35-44,Metro,Retailer,50k-2L,High,15-30,Yes,High,<1L,Weekly
+45-54,Tier2,Trader,50k-2L,High,30-60,Yes,Medium,20L+,Monthly
+25-34,Tier1,Retailer,50L+,Low,30-60,No,High,<1L,Rare
+<25,Tier3,Trader,2L-10L,Very High,60-90,Yes,High,1-5L,Monthly
+55+,Tier3,Retailer,<50k,High,30-60,No,High,5-20L,Weekly
+45-54,Tier3,Trader,50k-2L,Medium,90+,Yes,Low,<1L,Monthly
+<25,Tier1,Trader,<50k,Low,90+,No,Low,1-5L,Monthly
+55+,Tier2,Retailer,2L-10L,High,90+,Yes,High,5-20L,Rare
+<25,Tier2,Retailer,50k-2L,High,60-90,No,Low,5-20L,Weekly
+35-44,Metro,Trader,50L+,Medium,15-30,Yes,High,20L+,Rare
+<25,Tier2,Service,10L-50L,High,60-90,No,Low,20L+,Monthly
+<25,Metro,Retailer,50L+,High,90+,Yes,Low,1-5L,Rare
+<25,Tier1,Manufacturer,50L+,High,60-90,No,Low,<1L,Monthly
+45-54,Tier3,Distributor,10L-50L,High,90+,Yes,Medium,5-20L,Monthly
+<25,Tier3,Trader,10L-50L,Medium,<15,Yes,Low,20L+,Rare
+55+,Tier3,Trader,10L-50L,High,<15,No,Medium,20L+,Rare
+35-44,Tier2,Distributor,50k-2L,High,30-60,Yes,Medium,<1L,Monthly
+35-44,Metro,Service,<50k,High,15-30,Yes,Medium,20L+,Rare
+<25,Metro,Distributor,<50k,Low,<15,Yes,High,1-5L,Rare
+45-54,Tier1,Retailer,10L-50L,Medium,90+,Yes,Low,<1L,Monthly
+45-54,Tier2,Distributor,50L+,Low,60-90,No,High,5-20L,Weekly
+55+,Tier1,Trader,2L-10L,Low,60-90,Yes,Medium,1-5L,Rare
+<25,Metro,Distributor,10L-50L,Medium,30-60,Yes,Low,5-20L,Rare
+35-44,Metro,Manufacturer,50L+,Low,60-90,No,High,5-20L,Weekly
+45-54,Tier3,Retailer,50L+,Low,<15,Yes,Medium,20L+,Rare
+<25,Tier2,Distributor,50k-2L,Low,60-90,No,High,1-5L,Monthly
+45-54,Metro,Trader,50k-2L,Medium,<15,Yes,High,1-5L,Rare
+45-54,Tier3,Retailer,<50k,High,<15,No,Low,<1L,Monthly
+35-44,Tier2,Trader,<50k,Very High,15-30,Yes,Low,1-5L,Weekly
+25-34,Tier1,Service,2L-10L,Very High,30-60,No,High,<1L,Weekly
+55+,Tier2,Manufacturer,2L-10L,Medium,90+,No,Low,1-5L,Weekly
+55+,Tier2,Service,2L-10L,Very High,<15,No,Low,5-20L,Rare
+35-44,Metro,Manufacturer,2L-10L,Medium,30-60,Yes,High,<1L,Weekly
+45-54,Metro,Distributor,50L+,Medium,90+,No,Low,1-5L,Rare
+<25,Tier2,Retailer,50L+,Very High,60-90,Yes,Low,<1L,Rare
+45-54,Metro,Distributor,<50k,Low,30-60,No,Medium,20L+,Rare
+35-44,Metro,Manufacturer,50k-2L,High,30-60,No,Low,20L+,Weekly
+55+,Metro,Manufacturer,50k-2L,Very High,30-60,No,Medium,<1L,Weekly
+45-54,Tier3,Manufacturer,10L-50L,Very High,60-90,Yes,High,<1L,Rare
+55+,Tier3,Trader,50L+,Very High,60-90,Yes,Medium,5-20L,Weekly
+<25,Tier2,Retailer,2L-10L,Very High,30-60,No,High,1-5L,Rare
+55+,Metro,Distributor,2L-10L,Medium,15-30,No,Low,20L+,Weekly
+55+,Tier3,Distributor,10L-50L,Medium,<15,No,Low,20L+,Monthly
+25-34,Tier2,Service,50k-2L,High,60-90,No,Medium,1-5L,Weekly
+25-34,Metro,Manufacturer,2L-10L,High,15-30,No,High,20L+,Weekly
+25-34,Tier1,Manufacturer,50k-2L,Very High,60-90,No,Low,20L+,Weekly
+55+,Metro,Manufacturer,10L-50L,Very High,30-60,No,Medium,<1L,Rare
+35-44,Metro,Distributor,50k-2L,Very High,15-30,No,Medium,20L+,Rare
+55+,Tier3,Service,50k-2L,High,90+,Yes,Medium,20L+,Monthly
+35-44,Tier2,Trader,50k-2L,Very High,<15,No,Low,20L+,Monthly
+35-44,Tier2,Retailer,2L-10L,Low,<15,Yes,High,1-5L,Monthly
+25-34,Tier3,Trader,<50k,High,60-90,No,Low,5-20L,Rare
+45-54,Metro,Distributor,50L+,Low,<15,Yes,Low,<1L,Monthly
+<25,Tier1,Manufacturer,50k-2L,Very High,90+,Yes,High,5-20L,Monthly
+25-34,Metro,Retailer,50k-2L,Medium,15-30,No,Medium,20L+,Weekly
+25-34,Metro,Distributor,50k-2L,Low,15-30,Yes,Low,20L+,Monthly
+45-54,Tier1,Distributor,<50k,High,30-60,Yes,Medium,20L+,Weekly
+<25,Tier3,Distributor,10L-50L,Low,15-30,No,Medium,5-20L,Rare
+55+,Tier2,Retailer,2L-10L,High,60-90,No,High,1-5L,Rare
+55+,Tier3,Retailer,<50k,Very High,90+,No,High,1-5L,Weekly
+25-34,Tier3,Service,50k-2L,Low,30-60,Yes,High,<1L,Monthly
+<25,Metro,Service,<50k,Medium,60-90,No,Medium,5-20L,Rare
+25-34,Tier2,Trader,<50k,Low,60-90,Yes,Medium,1-5L,Weekly
+35-44,Tier2,Retailer,<50k,Medium,60-90,No,Low,<1L,Rare
+25-34,Tier3,Retailer,10L-50L,High,<15,No,Medium,20L+,Rare
+25-34,Tier1,Retailer,50L+,Very High,60-90,Yes,High,20L+,Monthly
+55+,Tier3,Service,2L-10L,Very High,<15,Yes,High,<1L,Rare
+55+,Tier1,Distributor,10L-50L,Medium,15-30,Yes,High,1-5L,Weekly
+55+,Tier2,Manufacturer,10L-50L,High,<15,No,High,5-20L,Monthly
+35-44,Tier3,Service,50L+,Very High,60-90,No,Medium,<1L,Weekly
+55+,Metro,Retailer,10L-50L,High,90+,No,High,1-5L,Weekly
+<25,Tier3,Service,<50k,Medium,90+,Yes,Low,<1L,Weekly
+45-54,Tier2,Trader,<50k,Medium,15-30,Yes,Medium,1-5L,Monthly
+<25,Metro,Retailer,50k-2L,Low,60-90,Yes,High,20L+,Rare
+<25,Metro,Trader,10L-50L,Very High,<15,Yes,Low,<1L,Weekly
+55+,Tier1,Retailer,50k-2L,Very High,90+,No,High,5-20L,Rare
+45-54,Metro,Service,2L-10L,Low,30-60,Yes,Medium,<1L,Rare
+45-54,Metro,Distributor,<50k,Medium,60-90,Yes,Medium,20L+,Weekly
+45-54,Tier3,Manufacturer,2L-10L,Medium,60-90,No,Low,20L+,Rare
+35-44,Tier2,Trader,50L+,Medium,30-60,No,Medium,1-5L,Monthly
+55+,Tier1,Service,<50k,Medium,90+,Yes,Low,20L+,Monthly
+45-54,Tier3,Distributor,2L-10L,High,30-60,Yes,High,1-5L,Rare
+35-44,Metro,Service,50L+,Very High,15-30,Yes,Medium,20L+,Rare
+25-34,Metro,Trader,2L-10L,Very High,<15,Yes,High,1-5L,Monthly
+25-34,Tier1,Manufacturer,50L+,Medium,<15,Yes,High,5-20L,Rare
+35-44,Tier2,Service,50L+,Medium,90+,Yes,Medium,1-5L,Rare
+35-44,Tier1,Retailer,<50k,Medium,30-60,No,High,1-5L,Rare
+55+,Tier3,Distributor,50k-2L,Very High,60-90,No,Low,5-20L,Rare
+55+,Tier1,Service,50L+,Very High,60-90,No,Low,1-5L,Weekly
+25-34,Metro,Distributor,50L+,Medium,60-90,No,Low,1-5L,Rare
+45-54,Tier3,Retailer,<50k,High,15-30,Yes,Medium,5-20L,Monthly
+25-34,Metro,Manufacturer,50k-2L,Low,15-30,Yes,High,20L+,Weekly
+45-54,Tier2,Manufacturer,10L-50L,Low,60-90,Yes,High,<1L,Weekly
+45-54,Metro,Retailer,10L-50L,Low,90+,Yes,High,1-5L,Monthly
+55+,Metro,Distributor,50k-2L,Very High,15-30,No,High,20L+,Rare
+<25,Tier1,Service,2L-10L,Very High,15-30,Yes,Low,<1L,Weekly
+<25,Metro,Retailer,<50k,Low,<15,Yes,Medium,5-20L,Weekly
+35-44,Tier3,Trader,50k-2L,Low,<15,Yes,Low,1-5L,Rare
+55+,Tier3,Distributor,10L-50L,High,90+,Yes,Low,1-5L,Rare
+45-54,Tier2,Manufacturer,50L+,Very High,15-30,No,Medium,5-20L,Monthly
+<25,Tier3,Retailer,10L-50L,Very High,15-30,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Manufacturer,50L+,Low,30-60,No,Low,<1L,Rare
+<25,Tier2,Distributor,<50k,High,90+,Yes,High,<1L,Rare
+<25,Tier3,Manufacturer,50L+,High,90+,Yes,Medium,5-20L,Monthly
+<25,Tier1,Retailer,50k-2L,Low,30-60,Yes,Medium,1-5L,Weekly
+55+,Tier3,Distributor,50L+,Low,30-60,No,Low,20L+,Rare
+25-34,Tier3,Trader,2L-10L,Very High,<15,Yes,High,1-5L,Monthly
+45-54,Metro,Retailer,50k-2L,Low,90+,Yes,Medium,5-20L,Weekly
+55+,Tier3,Service,<50k,Medium,90+,Yes,Low,20L+,Weekly
+55+,Tier3,Retailer,50k-2L,High,30-60,No,Medium,<1L,Weekly
+55+,Tier1,Distributor,2L-10L,Low,60-90,No,High,<1L,Weekly
+55+,Tier1,Retailer,<50k,Medium,60-90,Yes,Low,20L+,Monthly
+55+,Metro,Trader,10L-50L,High,<15,No,Low,20L+,Rare
+35-44,Tier3,Trader,2L-10L,Medium,60-90,Yes,High,5-20L,Weekly
+45-54,Metro,Service,<50k,Medium,60-90,Yes,Low,1-5L,Weekly
+55+,Tier3,Manufacturer,50L+,Low,60-90,No,High,<1L,Rare
+45-54,Tier2,Distributor,50k-2L,High,15-30,Yes,Low,1-5L,Weekly
+35-44,Tier2,Distributor,<50k,Medium,<15,Yes,High,<1L,Weekly
+35-44,Metro,Manufacturer,50k-2L,Very High,30-60,No,Medium,1-5L,Rare
+45-54,Metro,Trader,50L+,High,60-90,No,Medium,<1L,Rare
+<25,Metro,Trader,<50k,Very High,15-30,No,Medium,1-5L,Weekly
+25-34,Tier1,Retailer,10L-50L,Low,60-90,No,Low,5-20L,Rare
+<25,Tier1,Service,2L-10L,Very High,15-30,Yes,High,<1L,Monthly
+<25,Tier1,Service,<50k,High,<15,Yes,High,5-20L,Monthly
+<25,Metro,Service,50L+,Medium,60-90,Yes,Medium,<1L,Weekly
+55+,Tier3,Retailer,<50k,Medium,15-30,Yes,Medium,<1L,Weekly
+35-44,Tier2,Service,50k-2L,High,90+,Yes,Medium,<1L,Rare
+<25,Metro,Manufacturer,<50k,Medium,90+,Yes,High,1-5L,Rare
+35-44,Tier1,Retailer,10L-50L,Very High,15-30,Yes,Medium,<1L,Weekly
+45-54,Tier1,Manufacturer,<50k,Medium,60-90,Yes,Low,5-20L,Weekly
+25-34,Metro,Retailer,2L-10L,Medium,60-90,No,Medium,1-5L,Monthly
+45-54,Metro,Service,<50k,Very High,<15,Yes,Medium,1-5L,Rare
+45-54,Tier1,Manufacturer,50k-2L,Very High,<15,Yes,High,<1L,Weekly
+55+,Tier3,Manufacturer,<50k,Very High,30-60,Yes,Low,20L+,Weekly
+25-34,Tier1,Manufacturer,10L-50L,Low,<15,Yes,High,1-5L,Rare
+45-54,Tier1,Retailer,50L+,Very High,60-90,Yes,Low,<1L,Rare
+45-54,Metro,Distributor,<50k,Very High,30-60,No,Low,5-20L,Weekly
+25-34,Tier3,Service,<50k,Low,<15,No,Medium,20L+,Weekly
+25-34,Tier1,Manufacturer,2L-10L,Medium,15-30,No,Medium,1-5L,Weekly
+45-54,Tier1,Distributor,10L-50L,Very High,90+,Yes,High,20L+,Rare
+25-34,Tier2,Service,50L+,High,<15,Yes,High,1-5L,Weekly
+45-54,Metro,Service,50k-2L,Very High,<15,Yes,High,20L+,Weekly
+45-54,Tier2,Manufacturer,<50k,Very High,15-30,Yes,Low,20L+,Weekly
+55+,Tier2,Manufacturer,50L+,Low,60-90,No,High,5-20L,Monthly
+<25,Tier1,Retailer,50k-2L,High,15-30,No,Low,20L+,Monthly
+45-54,Metro,Distributor,10L-50L,Medium,<15,Yes,Low,5-20L,Rare
+35-44,Tier3,Distributor,10L-50L,Medium,60-90,Yes,Low,<1L,Weekly
+<25,Tier1,Manufacturer,50L+,High,30-60,No,Low,1-5L,Weekly
+<25,Tier3,Service,50k-2L,Very High,<15,No,Low,5-20L,Rare
+<25,Tier3,Manufacturer,10L-50L,Low,15-30,No,Medium,1-5L,Rare
+55+,Metro,Service,50L+,High,30-60,No,Low,5-20L,Rare
+45-54,Tier2,Service,10L-50L,High,90+,No,Low,1-5L,Weekly
+55+,Metro,Manufacturer,10L-50L,Medium,30-60,No,Medium,5-20L,Monthly
+45-54,Tier3,Trader,10L-50L,Low,15-30,No,Medium,1-5L,Rare
+55+,Tier1,Distributor,2L-10L,High,30-60,Yes,Medium,<1L,Weekly
+55+,Tier3,Service,50k-2L,Low,15-30,Yes,High,1-5L,Rare
+35-44,Tier1,Service,50L+,Very High,<15,No,High,<1L,Weekly
+55+,Tier1,Trader,50L+,Medium,60-90,Yes,Low,<1L,Rare
+25-34,Metro,Retailer,50k-2L,Very High,90+,No,Low,<1L,Weekly
+35-44,Tier3,Trader,50k-2L,Low,60-90,Yes,Low,20L+,Rare
+55+,Tier2,Trader,50k-2L,Very High,60-90,No,Low,1-5L,Monthly
+<25,Tier3,Service,50k-2L,Medium,60-90,Yes,Medium,20L+,Rare
+25-34,Tier3,Distributor,<50k,Low,15-30,No,High,20L+,Rare
+25-34,Tier2,Trader,50L+,High,15-30,Yes,Medium,1-5L,Monthly
+25-34,Metro,Retailer,<50k,Very High,90+,Yes,High,<1L,Rare
+35-44,Tier3,Manufacturer,10L-50L,Medium,15-30,No,Medium,20L+,Monthly
+55+,Tier3,Trader,10L-50L,High,15-30,No,Low,20L+,Weekly
+55+,Tier1,Trader,50L+,Medium,15-30,No,High,5-20L,Monthly
+<25,Tier3,Retailer,10L-50L,Low,15-30,Yes,Low,1-5L,Monthly
+<25,Tier2,Distributor,50k-2L,Low,<15,Yes,High,20L+,Weekly
+25-34,Tier1,Trader,<50k,Very High,90+,Yes,High,1-5L,Monthly
+<25,Metro,Trader,50k-2L,Medium,15-30,Yes,Low,1-5L,Monthly
+35-44,Tier1,Distributor,10L-50L,Medium,90+,No,Low,20L+,Weekly
+55+,Tier2,Retailer,<50k,Medium,30-60,No,Low,1-5L,Rare
+25-34,Tier2,Trader,50k-2L,Low,<15,Yes,Medium,<1L,Rare
+<25,Tier1,Distributor,50L+,Very High,15-30,No,High,20L+,Monthly
+35-44,Metro,Trader,50k-2L,Medium,<15,No,High,20L+,Rare
+35-44,Tier1,Manufacturer,10L-50L,Medium,<15,No,High,20L+,Rare
+<25,Metro,Service,<50k,High,30-60,No,Low,5-20L,Monthly
+55+,Tier1,Manufacturer,50L+,Medium,90+,Yes,High,5-20L,Weekly
+<25,Tier2,Trader,<50k,Very High,<15,No,High,5-20L,Rare
+25-34,Tier3,Retailer,50L+,High,60-90,No,Low,5-20L,Monthly
+<25,Tier3,Service,<50k,High,30-60,No,Low,20L+,Weekly
+35-44,Metro,Manufacturer,10L-50L,High,60-90,Yes,High,<1L,Rare
+<25,Metro,Distributor,50L+,Low,30-60,No,Medium,1-5L,Weekly
+55+,Metro,Retailer,2L-10L,High,60-90,Yes,Low,1-5L,Monthly
+45-54,Tier2,Manufacturer,<50k,Medium,60-90,Yes,Medium,20L+,Weekly
+<25,Tier1,Distributor,<50k,Low,<15,No,Medium,<1L,Weekly
+55+,Tier2,Trader,50k-2L,Low,<15,No,Medium,1-5L,Monthly
+55+,Tier3,Distributor,50L+,Low,30-60,Yes,Medium,<1L,Rare
+35-44,Metro,Manufacturer,2L-10L,Low,90+,Yes,Low,20L+,Rare
+55+,Tier1,Manufacturer,10L-50L,Low,<15,Yes,High,5-20L,Weekly
+55+,Tier3,Trader,50k-2L,Low,<15,Yes,High,<1L,Weekly
+55+,Tier3,Distributor,2L-10L,Low,15-30,No,Low,1-5L,Weekly
+55+,Tier3,Distributor,50L+,High,<15,Yes,Low,1-5L,Weekly
+25-34,Tier2,Trader,2L-10L,Very High,90+,No,Medium,1-5L,Rare
+25-34,Metro,Distributor,<50k,Medium,15-30,No,Medium,5-20L,Monthly
+35-44,Tier3,Trader,<50k,Medium,60-90,Yes,Low,<1L,Monthly
+<25,Metro,Retailer,50k-2L,High,60-90,No,High,<1L,Monthly
+55+,Tier2,Manufacturer,50L+,High,15-30,Yes,Medium,1-5L,Weekly
+<25,Tier3,Retailer,50L+,Low,15-30,Yes,Low,<1L,Weekly
+<25,Tier2,Service,2L-10L,Very High,15-30,Yes,Low,1-5L,Monthly
+35-44,Tier2,Service,50k-2L,Low,30-60,No,Low,<1L,Rare
+55+,Metro,Service,50L+,High,90+,No,Medium,5-20L,Monthly
+55+,Tier3,Trader,<50k,Low,90+,Yes,Low,5-20L,Rare
+45-54,Tier2,Distributor,2L-10L,Medium,60-90,No,High,20L+,Weekly
+<25,Tier3,Retailer,10L-50L,Medium,60-90,No,Low,20L+,Monthly
+<25,Metro,Retailer,<50k,Low,60-90,No,Medium,20L+,Monthly
+25-34,Tier2,Retailer,50k-2L,Very High,<15,No,High,<1L,Weekly
+45-54,Metro,Retailer,50L+,Low,60-90,No,High,5-20L,Rare
+25-34,Tier3,Service,<50k,Low,15-30,Yes,Low,5-20L,Monthly
+25-34,Tier3,Retailer,10L-50L,Very High,60-90,No,Low,5-20L,Monthly
+25-34,Metro,Distributor,10L-50L,Very High,15-30,No,High,1-5L,Rare
+35-44,Tier1,Service,50k-2L,Very High,30-60,Yes,Low,<1L,Monthly
+35-44,Tier2,Retailer,<50k,Medium,<15,No,Medium,<1L,Monthly
+25-34,Tier3,Trader,2L-10L,Low,<15,No,High,20L+,Weekly
+45-54,Tier3,Manufacturer,<50k,High,90+,No,Low,1-5L,Rare
+<25,Tier2,Manufacturer,10L-50L,Very High,30-60,Yes,High,1-5L,Monthly
+45-54,Metro,Manufacturer,50k-2L,Very High,15-30,No,Low,5-20L,Monthly
+55+,Metro,Service,50k-2L,Low,30-60,No,Low,20L+,Weekly
+35-44,Metro,Retailer,2L-10L,High,<15,Yes,Medium,<1L,Monthly
+<25,Tier1,Service,50k-2L,Low,15-30,Yes,Low,1-5L,Weekly
+<25,Tier1,Distributor,50k-2L,Low,30-60,No,Low,5-20L,Monthly
+55+,Tier3,Trader,50k-2L,Very High,<15,Yes,Low,<1L,Weekly
+55+,Metro,Trader,50k-2L,Very High,15-30,Yes,Medium,5-20L,Rare
+25-34,Tier2,Manufacturer,50k-2L,Medium,15-30,Yes,Low,<1L,Rare
+35-44,Tier3,Manufacturer,10L-50L,High,<15,No,Low,5-20L,Monthly
+35-44,Tier2,Manufacturer,<50k,High,15-30,No,Low,<1L,Monthly
+45-54,Tier3,Retailer,50L+,Very High,<15,Yes,High,20L+,Weekly
+25-34,Tier1,Distributor,50k-2L,Very High,60-90,Yes,Medium,<1L,Weekly
+25-34,Tier3,Distributor,50L+,Very High,60-90,Yes,High,<1L,Rare
+25-34,Tier1,Distributor,50L+,High,15-30,Yes,Medium,<1L,Monthly
+25-34,Tier3,Distributor,10L-50L,Medium,15-30,No,Medium,5-20L,Weekly
+35-44,Metro,Manufacturer,50k-2L,High,<15,Yes,High,1-5L,Rare
+35-44,Tier2,Trader,50L+,Very High,15-30,No,Medium,<1L,Rare
+25-34,Metro,Manufacturer,50k-2L,Very High,90+,Yes,Medium,<1L,Weekly
+45-54,Tier3,Distributor,2L-10L,Medium,60-90,No,High,20L+,Monthly
+<25,Tier3,Manufacturer,2L-10L,Low,15-30,No,Low,<1L,Rare
+<25,Tier3,Distributor,2L-10L,Low,15-30,Yes,Medium,20L+,Weekly
+45-54,Tier1,Service,50L+,High,30-60,No,High,<1L,Rare
+25-34,Tier2,Trader,2L-10L,Low,15-30,No,Medium,5-20L,Monthly
+35-44,Tier2,Service,10L-50L,Low,90+,No,High,1-5L,Weekly
+<25,Tier3,Retailer,10L-50L,High,60-90,Yes,Low,1-5L,Monthly
+55+,Tier3,Manufacturer,50L+,Very High,30-60,No,Medium,1-5L,Monthly
+55+,Tier1,Retailer,50k-2L,Low,<15,No,Low,5-20L,Rare
+45-54,Metro,Manufacturer,<50k,Very High,<15,Yes,Low,20L+,Monthly
+25-34,Metro,Service,50k-2L,High,60-90,Yes,High,1-5L,Rare
+<25,Tier2,Distributor,50k-2L,Very High,<15,No,Medium,5-20L,Weekly
+25-34,Tier1,Distributor,50k-2L,Very High,90+,No,Medium,5-20L,Weekly
+<25,Tier3,Manufacturer,50k-2L,High,15-30,Yes,Medium,<1L,Rare
+45-54,Tier2,Distributor,<50k,Very High,60-90,Yes,Medium,20L+,Rare
+45-54,Tier1,Service,2L-10L,Low,30-60,No,Medium,5-20L,Rare
+55+,Metro,Distributor,50k-2L,Low,15-30,No,High,20L+,Monthly
+25-34,Tier1,Service,10L-50L,Low,<15,Yes,Medium,1-5L,Weekly
+55+,Metro,Retailer,50L+,Low,<15,Yes,Low,1-5L,Weekly
+25-34,Tier1,Service,50L+,Very High,30-60,No,Low,1-5L,Monthly
+55+,Tier2,Trader,10L-50L,Low,90+,No,Medium,<1L,Rare
+35-44,Metro,Trader,50k-2L,Very High,30-60,Yes,High,<1L,Weekly
+35-44,Tier2,Trader,<50k,Medium,60-90,No,High,20L+,Monthly
+35-44,Tier2,Manufacturer,2L-10L,Very High,30-60,No,Medium,20L+,Rare
+35-44,Metro,Manufacturer,50L+,Low,<15,No,Low,<1L,Weekly
+<25,Metro,Manufacturer,2L-10L,Medium,90+,No,Medium,5-20L,Rare
+35-44,Tier3,Service,<50k,High,90+,Yes,Medium,20L+,Monthly
+45-54,Tier3,Manufacturer,50L+,Very High,30-60,Yes,Medium,20L+,Weekly
+45-54,Tier3,Retailer,2L-10L,Low,60-90,No,High,1-5L,Rare
+<25,Tier2,Trader,<50k,Low,<15,No,High,20L+,Rare
+35-44,Tier2,Service,2L-10L,Low,15-30,No,Low,20L+,Rare
+35-44,Tier3,Trader,50k-2L,High,90+,No,Low,5-20L,Monthly
+35-44,Tier2,Manufacturer,<50k,Medium,30-60,Yes,Medium,20L+,Rare
+55+,Tier2,Service,2L-10L,Medium,60-90,No,Low,5-20L,Weekly
+25-34,Metro,Distributor,50k-2L,Low,60-90,No,Medium,1-5L,Weekly
+55+,Metro,Retailer,50k-2L,Very High,<15,Yes,Low,<1L,Rare
+25-34,Tier2,Manufacturer,<50k,Low,90+,Yes,Medium,1-5L,Monthly
+35-44,Tier3,Manufacturer,10L-50L,Low,<15,No,High,5-20L,Weekly
+35-44,Tier1,Retailer,50L+,Very High,15-30,Yes,Medium,5-20L,Weekly
+55+,Tier3,Retailer,<50k,Low,15-30,Yes,High,20L+,Weekly
+55+,Tier1,Distributor,50k-2L,High,15-30,No,High,20L+,Rare
+25-34,Tier3,Manufacturer,50k-2L,Low,60-90,No,Low,<1L,Weekly
+45-54,Metro,Manufacturer,<50k,High,90+,Yes,Low,5-20L,Rare
+25-34,Tier2,Trader,10L-50L,Low,<15,No,High,5-20L,Rare
+55+,Tier2,Service,50L+,Medium,<15,Yes,Medium,1-5L,Rare
+55+,Metro,Service,2L-10L,Very High,15-30,Yes,Medium,<1L,Rare
+<25,Tier1,Trader,<50k,Medium,90+,Yes,Low,1-5L,Rare
+55+,Tier1,Service,50L+,Low,90+,No,Medium,20L+,Weekly
+<25,Tier1,Retailer,50L+,Low,30-60,No,Medium,20L+,Rare
+45-54,Metro,Service,50k-2L,High,90+,Yes,Medium,1-5L,Rare
+25-34,Tier1,Service,2L-10L,Low,90+,Yes,High,20L+,Rare
+25-34,Metro,Trader,<50k,Low,<15,No,High,1-5L,Rare
+<25,Tier3,Distributor,50k-2L,Low,90+,Yes,Medium,5-20L,Rare
+25-34,Tier3,Service,50k-2L,Medium,90+,Yes,Low,5-20L,Rare
+55+,Metro,Service,10L-50L,High,<15,No,Medium,20L+,Weekly
+35-44,Tier2,Distributor,50L+,Medium,90+,No,Low,<1L,Rare
+<25,Tier3,Trader,<50k,High,<15,No,High,5-20L,Rare
+25-34,Tier1,Distributor,<50k,Medium,30-60,No,Medium,20L+,Weekly
+<25,Metro,Trader,<50k,Low,60-90,Yes,Medium,<1L,Weekly
+<25,Tier1,Retailer,50k-2L,Medium,<15,No,Low,20L+,Monthly
+35-44,Tier1,Trader,10L-50L,Medium,<15,No,Low,1-5L,Weekly
+55+,Tier2,Retailer,2L-10L,High,90+,Yes,Medium,20L+,Weekly
+<25,Tier1,Retailer,50k-2L,High,<15,Yes,Medium,1-5L,Rare
+25-34,Tier2,Trader,2L-10L,Medium,15-30,Yes,Low,5-20L,Monthly
+45-54,Tier3,Manufacturer,10L-50L,High,15-30,No,High,5-20L,Rare
+<25,Metro,Trader,50L+,High,30-60,Yes,Low,20L+,Monthly
+<25,Tier1,Service,<50k,High,<15,No,Medium,<1L,Rare
+35-44,Metro,Service,2L-10L,Very High,90+,Yes,High,20L+,Weekly
+55+,Tier1,Manufacturer,50k-2L,High,90+,No,High,20L+,Weekly
+45-54,Metro,Retailer,2L-10L,Very High,60-90,Yes,High,5-20L,Monthly
+25-34,Tier1,Manufacturer,50L+,Very High,30-60,No,High,5-20L,Rare
+45-54,Tier1,Service,<50k,High,90+,No,Medium,20L+,Rare
+25-34,Tier1,Manufacturer,2L-10L,Medium,60-90,Yes,High,5-20L,Weekly
+55+,Tier1,Trader,50L+,High,90+,Yes,Low,1-5L,Weekly
+25-34,Tier1,Manufacturer,50k-2L,Low,60-90,No,Low,20L+,Monthly
+35-44,Tier1,Retailer,10L-50L,Medium,15-30,Yes,Low,5-20L,Weekly
+35-44,Tier1,Trader,50k-2L,Very High,15-30,No,Medium,20L+,Monthly
+35-44,Tier1,Distributor,<50k,Very High,90+,No,High,5-20L,Monthly
+35-44,Tier1,Service,50k-2L,Medium,30-60,No,Low,1-5L,Monthly
+45-54,Metro,Service,50k-2L,Medium,<15,Yes,Low,1-5L,Monthly
+55+,Tier2,Manufacturer,50k-2L,High,30-60,No,Low,20L+,Weekly
+25-34,Tier1,Trader,50k-2L,Very High,30-60,No,High,1-5L,Monthly
+25-34,Tier2,Distributor,<50k,Low,<15,No,Low,1-5L,Weekly
+35-44,Tier1,Trader,50L+,High,15-30,No,High,5-20L,Monthly
+35-44,Tier1,Service,2L-10L,Medium,15-30,Yes,High,20L+,Weekly
+<25,Metro,Trader,10L-50L,Very High,<15,Yes,High,5-20L,Monthly
+55+,Tier3,Distributor,2L-10L,Medium,60-90,No,Medium,5-20L,Weekly
+45-54,Tier3,Manufacturer,2L-10L,Medium,30-60,Yes,Medium,<1L,Rare
+25-34,Metro,Retailer,10L-50L,Medium,90+,Yes,High,1-5L,Monthly
+<25,Tier2,Trader,<50k,High,15-30,No,High,5-20L,Monthly
+<25,Tier3,Retailer,10L-50L,Low,90+,Yes,Medium,5-20L,Rare
+25-34,Metro,Service,<50k,Low,<15,Yes,Medium,5-20L,Rare
+45-54,Metro,Manufacturer,2L-10L,Very High,90+,Yes,High,1-5L,Monthly
+<25,Tier3,Manufacturer,<50k,Medium,90+,Yes,Medium,1-5L,Weekly
+<25,Tier2,Trader,50L+,Low,30-60,Yes,Low,1-5L,Monthly
+55+,Metro,Manufacturer,10L-50L,Medium,<15,Yes,High,20L+,Weekly
+45-54,Tier1,Trader,50L+,Very High,90+,No,High,5-20L,Rare
+<25,Tier2,Trader,2L-10L,Medium,15-30,Yes,Medium,1-5L,Weekly
+45-54,Tier2,Retailer,10L-50L,Low,<15,No,Low,5-20L,Monthly
+25-34,Tier3,Manufacturer,2L-10L,Medium,15-30,No,Medium,20L+,Rare
+35-44,Tier3,Trader,50L+,Low,60-90,No,Low,<1L,Rare
+<25,Tier1,Retailer,2L-10L,Very High,90+,Yes,Low,20L+,Monthly
+55+,Metro,Distributor,10L-50L,Medium,<15,Yes,High,1-5L,Monthly
+25-34,Tier3,Retailer,10L-50L,Low,15-30,No,Low,1-5L,Rare
+45-54,Tier3,Retailer,2L-10L,Very High,90+,No,High,20L+,Weekly
+25-34,Tier2,Trader,10L-50L,Medium,30-60,No,Low,5-20L,Weekly
+<25,Tier3,Service,10L-50L,Very High,15-30,Yes,High,1-5L,Weekly
+45-54,Tier3,Service,2L-10L,Low,15-30,Yes,Low,1-5L,Monthly
+35-44,Tier3,Service,50L+,Medium,60-90,Yes,Medium,20L+,Rare
+25-34,Tier3,Retailer,10L-50L,Medium,30-60,No,Low,5-20L,Weekly
+<25,Tier2,Trader,10L-50L,Medium,60-90,Yes,Medium,20L+,Rare
+55+,Tier1,Manufacturer,10L-50L,Very High,30-60,Yes,Low,20L+,Weekly
+45-54,Tier1,Retailer,10L-50L,Very High,15-30,No,Low,5-20L,Rare
+25-34,Metro,Retailer,2L-10L,Low,60-90,Yes,High,5-20L,Monthly
+25-34,Tier3,Trader,50L+,High,90+,No,Low,<1L,Monthly
+35-44,Tier2,Distributor,50L+,Medium,30-60,Yes,Low,20L+,Monthly
+35-44,Metro,Retailer,<50k,Medium,15-30,No,Low,5-20L,Weekly
+55+,Metro,Distributor,10L-50L,Low,<15,Yes,Medium,1-5L,Monthly
+55+,Tier1,Distributor,10L-50L,Medium,30-60,No,High,<1L,Monthly
+<25,Tier2,Service,<50k,Very High,30-60,Yes,High,20L+,Monthly
+<25,Tier2,Trader,50L+,Very High,90+,No,Low,5-20L,Rare
+55+,Tier2,Distributor,50k-2L,Medium,30-60,No,Low,<1L,Rare
+55+,Tier1,Trader,50k-2L,Medium,30-60,Yes,Medium,<1L,Rare
+45-54,Tier1,Service,50L+,Very High,90+,Yes,Low,1-5L,Rare
+35-44,Tier1,Trader,10L-50L,Medium,90+,No,High,<1L,Rare
+<25,Tier1,Retailer,50k-2L,Very High,60-90,Yes,High,20L+,Rare
+35-44,Tier1,Distributor,2L-10L,High,15-30,No,Medium,5-20L,Rare
+35-44,Tier3,Trader,2L-10L,High,15-30,No,Medium,<1L,Monthly
+55+,Tier3,Manufacturer,<50k,Medium,60-90,Yes,High,<1L,Monthly
+45-54,Tier2,Trader,50L+,Medium,15-30,Yes,Medium,20L+,Weekly
+25-34,Metro,Distributor,50L+,Medium,30-60,Yes,Low,1-5L,Monthly
+45-54,Tier2,Service,50k-2L,Very High,60-90,No,Low,1-5L,Rare
+45-54,Metro,Service,10L-50L,High,60-90,No,Medium,5-20L,Rare
+35-44,Tier1,Distributor,50L+,High,15-30,Yes,High,20L+,Weekly
+45-54,Metro,Retailer,50k-2L,Low,<15,No,Medium,1-5L,Monthly
+<25,Tier2,Retailer,50k-2L,Low,15-30,No,High,5-20L,Monthly
+35-44,Tier2,Service,50L+,Medium,<15,Yes,Medium,5-20L,Weekly
+<25,Metro,Service,50k-2L,Very High,60-90,No,Medium,1-5L,Rare
+25-34,Tier3,Distributor,<50k,Medium,<15,No,Medium,20L+,Rare
+35-44,Tier1,Retailer,<50k,High,30-60,No,Low,<1L,Rare
+25-34,Tier1,Service,50L+,Medium,90+,Yes,Low,1-5L,Rare
+35-44,Tier2,Retailer,10L-50L,Medium,<15,Yes,High,<1L,Weekly
+55+,Tier3,Service,<50k,High,90+,No,Medium,<1L,Monthly
+45-54,Metro,Trader,<50k,High,30-60,Yes,Low,20L+,Rare
+55+,Tier1,Manufacturer,50L+,High,90+,No,Medium,20L+,Monthly
+25-34,Tier3,Trader,2L-10L,High,30-60,Yes,High,5-20L,Monthly
+45-54,Tier1,Service,50k-2L,Low,90+,No,Low,20L+,Rare
+35-44,Tier3,Manufacturer,<50k,Very High,90+,No,High,5-20L,Rare
+45-54,Tier3,Manufacturer,2L-10L,Very High,15-30,No,Low,1-5L,Rare
+<25,Tier2,Service,10L-50L,High,<15,No,Medium,<1L,Monthly
+45-54,Tier1,Service,2L-10L,Very High,90+,Yes,High,20L+,Weekly
+<25,Metro,Retailer,50L+,Very High,60-90,No,Low,1-5L,Rare
+45-54,Tier2,Service,10L-50L,Very High,15-30,No,Low,5-20L,Monthly
+<25,Tier2,Distributor,10L-50L,Very High,<15,Yes,Medium,20L+,Monthly
+25-34,Metro,Service,2L-10L,High,15-30,Yes,High,<1L,Rare
+55+,Tier2,Distributor,50L+,Medium,<15,No,High,1-5L,Weekly
+35-44,Tier3,Service,<50k,Medium,30-60,No,High,20L+,Rare
+45-54,Tier3,Retailer,2L-10L,Medium,90+,Yes,Medium,20L+,Rare
+55+,Tier1,Distributor,<50k,Low,60-90,No,Low,1-5L,Weekly
+35-44,Tier1,Trader,2L-10L,Very High,15-30,No,Low,5-20L,Rare
+35-44,Metro,Distributor,<50k,High,15-30,No,High,5-20L,Rare
+<25,Tier1,Retailer,2L-10L,High,15-30,No,Low,20L+,Weekly
+25-34,Tier3,Distributor,10L-50L,Low,15-30,No,High,5-20L,Monthly
+25-34,Metro,Service,50k-2L,High,90+,No,Medium,5-20L,Monthly
+55+,Metro,Service,10L-50L,Medium,<15,No,Medium,1-5L,Monthly
+25-34,Tier1,Retailer,<50k,Low,90+,No,Medium,5-20L,Monthly
+45-54,Tier3,Manufacturer,50L+,High,30-60,No,High,5-20L,Monthly
+25-34,Metro,Service,10L-50L,Low,90+,Yes,Low,1-5L,Rare
+55+,Tier3,Trader,50k-2L,Low,90+,Yes,Medium,20L+,Weekly
+25-34,Tier3,Retailer,<50k,High,30-60,Yes,High,20L+,Monthly
+45-54,Tier3,Distributor,10L-50L,Medium,90+,No,High,1-5L,Weekly
+<25,Tier1,Distributor,2L-10L,High,<15,No,Medium,<1L,Monthly
+55+,Tier2,Trader,50L+,Very High,60-90,No,Medium,1-5L,Rare
+<25,Tier2,Service,<50k,Very High,30-60,Yes,Medium,<1L,Monthly
+<25,Metro,Retailer,10L-50L,High,15-30,Yes,Low,5-20L,Monthly
+<25,Tier3,Trader,<50k,Medium,<15,No,Low,20L+,Weekly
+35-44,Tier1,Service,2L-10L,Very High,60-90,Yes,High,<1L,Weekly
+35-44,Tier3,Retailer,50k-2L,Very High,<15,Yes,Medium,<1L,Rare
+<25,Tier3,Distributor,10L-50L,High,<15,No,Medium,5-20L,Weekly
+55+,Tier1,Retailer,<50k,High,15-30,No,Low,20L+,Weekly
+45-54,Tier2,Manufacturer,<50k,High,60-90,Yes,Medium,5-20L,Weekly
+45-54,Tier3,Retailer,<50k,Low,<15,No,High,20L+,Rare
+25-34,Tier3,Manufacturer,50k-2L,Low,15-30,Yes,Medium,20L+,Rare
+55+,Tier2,Retailer,<50k,Low,30-60,Yes,Low,5-20L,Rare
+35-44,Tier1,Manufacturer,50L+,High,15-30,Yes,High,<1L,Weekly
+<25,Metro,Distributor,50L+,Medium,90+,No,High,1-5L,Weekly
+25-34,Tier2,Service,<50k,Very High,15-30,Yes,Medium,20L+,Rare
+45-54,Metro,Manufacturer,50L+,Low,15-30,Yes,High,20L+,Weekly
+35-44,Metro,Manufacturer,10L-50L,Medium,15-30,No,Medium,1-5L,Weekly
+35-44,Tier2,Distributor,50L+,High,<15,No,Medium,1-5L,Monthly
+<25,Tier3,Manufacturer,<50k,Low,60-90,Yes,Low,5-20L,Rare
+45-54,Metro,Trader,2L-10L,High,15-30,No,High,20L+,Rare
+55+,Metro,Distributor,10L-50L,Medium,15-30,No,Medium,5-20L,Weekly
+35-44,Tier1,Trader,50k-2L,Low,90+,Yes,Medium,1-5L,Weekly
+<25,Tier3,Distributor,<50k,Low,90+,No,Medium,5-20L,Monthly
+55+,Metro,Manufacturer,50k-2L,Low,30-60,Yes,High,20L+,Rare
+45-54,Tier1,Trader,2L-10L,Low,30-60,No,High,<1L,Rare
+35-44,Tier3,Manufacturer,50k-2L,Medium,90+,No,High,<1L,Weekly
+55+,Tier2,Distributor,<50k,Low,60-90,Yes,Medium,20L+,Rare
+55+,Tier2,Manufacturer,<50k,Very High,30-60,Yes,High,5-20L,Weekly
+55+,Tier1,Trader,2L-10L,Very High,60-90,No,Medium,1-5L,Monthly
+35-44,Tier2,Trader,<50k,High,90+,No,High,1-5L,Weekly
+35-44,Metro,Manufacturer,2L-10L,Low,30-60,No,High,<1L,Monthly
+25-34,Tier3,Retailer,2L-10L,Very High,15-30,Yes,Medium,5-20L,Weekly
+45-54,Metro,Distributor,<50k,Very High,90+,No,High,1-5L,Monthly
+<25,Metro,Distributor,50L+,Very High,30-60,Yes,Medium,1-5L,Monthly
+55+,Tier2,Manufacturer,2L-10L,Medium,60-90,No,High,20L+,Rare
+25-34,Metro,Retailer,<50k,Low,60-90,No,High,5-20L,Weekly
+<25,Tier2,Trader,50L+,Medium,30-60,No,High,5-20L,Rare
+25-34,Tier3,Service,2L-10L,Medium,60-90,No,High,1-5L,Rare
+35-44,Tier3,Service,50L+,Very High,30-60,No,Low,5-20L,Weekly
+55+,Metro,Manufacturer,10L-50L,Very High,30-60,Yes,Medium,5-20L,Rare
+<25,Tier1,Retailer,10L-50L,High,60-90,Yes,Low,5-20L,Rare
+<25,Tier2,Retailer,50L+,Low,<15,Yes,High,20L+,Rare
+<25,Tier2,Distributor,2L-10L,Low,15-30,No,High,1-5L,Weekly
+<25,Metro,Trader,<50k,Very High,90+,Yes,Medium,<1L,Rare
+<25,Tier2,Retailer,50k-2L,Very High,15-30,Yes,Medium,5-20L,Rare
+25-34,Tier2,Service,<50k,Low,90+,No,Medium,1-5L,Rare
+55+,Tier1,Trader,50k-2L,High,90+,No,Medium,<1L,Weekly
+35-44,Tier1,Trader,50k-2L,Very High,15-30,Yes,High,20L+,Monthly
+35-44,Metro,Manufacturer,2L-10L,High,30-60,Yes,Medium,1-5L,Monthly
+35-44,Tier1,Retailer,50L+,Medium,60-90,Yes,Low,20L+,Monthly
+35-44,Metro,Manufacturer,<50k,Very High,<15,Yes,Medium,1-5L,Monthly
+25-34,Tier3,Retailer,50L+,Medium,<15,Yes,Medium,20L+,Rare
+45-54,Metro,Distributor,10L-50L,Very High,<15,Yes,Low,1-5L,Weekly
+55+,Tier3,Manufacturer,2L-10L,Medium,15-30,Yes,Low,20L+,Rare
+<25,Metro,Manufacturer,2L-10L,Very High,15-30,No,Low,<1L,Weekly
+45-54,Tier2,Service,10L-50L,High,30-60,Yes,Low,1-5L,Rare
+35-44,Tier1,Manufacturer,<50k,High,<15,No,Medium,<1L,Monthly
+45-54,Tier3,Retailer,10L-50L,High,30-60,No,Low,5-20L,Monthly
+55+,Metro,Service,<50k,Medium,<15,No,High,<1L,Weekly
+<25,Tier1,Manufacturer,50k-2L,High,15-30,Yes,Medium,1-5L,Rare
+<25,Metro,Manufacturer,2L-10L,Medium,60-90,Yes,High,<1L,Monthly
+55+,Tier1,Distributor,<50k,Very High,60-90,No,Medium,1-5L,Weekly
+55+,Tier1,Manufacturer,50L+,Medium,60-90,Yes,Medium,20L+,Rare
+35-44,Metro,Trader,50L+,Very High,60-90,Yes,High,5-20L,Weekly
+<25,Tier3,Service,2L-10L,Low,90+,No,Low,<1L,Rare
+45-54,Tier3,Trader,10L-50L,Low,<15,Yes,Low,5-20L,Rare
+25-34,Tier2,Service,10L-50L,Low,60-90,No,High,<1L,Rare
+25-34,Tier1,Distributor,<50k,Medium,90+,No,Low,1-5L,Weekly
+55+,Tier2,Manufacturer,10L-50L,Low,90+,No,Medium,<1L,Weekly
+35-44,Tier2,Manufacturer,2L-10L,Low,90+,No,Medium,5-20L,Rare
+25-34,Metro,Manufacturer,<50k,Low,30-60,Yes,Medium,<1L,Monthly
+<25,Metro,Service,50k-2L,Very High,30-60,No,Low,5-20L,Rare
+55+,Metro,Manufacturer,10L-50L,High,90+,Yes,Low,5-20L,Weekly
+45-54,Tier1,Trader,10L-50L,Medium,60-90,Yes,High,1-5L,Rare
+55+,Metro,Manufacturer,<50k,Low,<15,Yes,Medium,20L+,Weekly
+45-54,Metro,Distributor,50L+,Very High,15-30,Yes,High,20L+,Rare
+55+,Tier1,Trader,10L-50L,High,30-60,No,Low,<1L,Rare
+55+,Tier1,Manufacturer,2L-10L,High,60-90,No,High,5-20L,Monthly
+55+,Tier3,Manufacturer,10L-50L,High,60-90,No,Low,1-5L,Monthly
+45-54,Metro,Retailer,50k-2L,Very High,15-30,No,Medium,20L+,Weekly
+45-54,Metro,Service,10L-50L,Low,15-30,No,Medium,1-5L,Rare
+55+,Metro,Trader,50L+,High,60-90,Yes,Low,1-5L,Weekly
+25-34,Tier3,Retailer,10L-50L,Very High,15-30,No,Low,5-20L,Rare
+35-44,Metro,Distributor,<50k,Very High,60-90,Yes,Low,<1L,Rare
+35-44,Tier3,Service,10L-50L,Medium,15-30,Yes,Medium,5-20L,Rare
+35-44,Tier2,Trader,50L+,Very High,15-30,No,Low,20L+,Monthly
+45-54,Tier3,Manufacturer,<50k,High,60-90,Yes,Medium,20L+,Weekly
+45-54,Tier2,Trader,2L-10L,High,90+,Yes,High,1-5L,Rare
+25-34,Metro,Manufacturer,<50k,Very High,60-90,No,Medium,5-20L,Rare
+35-44,Tier2,Service,50k-2L,High,<15,No,High,5-20L,Weekly
+35-44,Tier3,Manufacturer,<50k,Very High,15-30,No,Medium,1-5L,Weekly
+55+,Tier1,Distributor,2L-10L,High,30-60,Yes,Medium,<1L,Rare
+45-54,Tier2,Manufacturer,10L-50L,Medium,15-30,No,Low,1-5L,Monthly
+35-44,Tier2,Distributor,<50k,Low,<15,No,Medium,1-5L,Monthly
+25-34,Metro,Service,<50k,Medium,30-60,Yes,Low,20L+,Rare
+25-34,Tier3,Service,<50k,Medium,30-60,No,Low,5-20L,Monthly
+35-44,Tier2,Trader,<50k,Low,60-90,Yes,Low,20L+,Weekly
+45-54,Tier2,Distributor,2L-10L,High,90+,Yes,Medium,1-5L,Monthly
+25-34,Tier2,Distributor,50L+,Low,60-90,No,Low,5-20L,Weekly
+55+,Tier2,Retailer,50L+,Very High,30-60,Yes,High,1-5L,Weekly
+25-34,Tier1,Retailer,<50k,Low,30-60,Yes,High,1-5L,Weekly
+<25,Tier3,Retailer,2L-10L,Medium,90+,No,Medium,<1L,Weekly
+<25,Metro,Manufacturer,2L-10L,Low,15-30,No,Low,20L+,Monthly
+45-54,Metro,Retailer,<50k,High,90+,No,High,20L+,Weekly
+35-44,Tier1,Distributor,50k-2L,Medium,60-90,Yes,Medium,1-5L,Rare
+45-54,Tier3,Manufacturer,<50k,Very High,15-30,Yes,Medium,<1L,Weekly
+45-54,Tier2,Service,50k-2L,High,60-90,No,Medium,1-5L,Rare
+45-54,Tier1,Trader,<50k,Medium,90+,No,Medium,1-5L,Weekly
+45-54,Tier3,Retailer,50k-2L,Very High,15-30,No,Medium,1-5L,Weekly
+55+,Tier2,Service,50k-2L,High,90+,Yes,Low,<1L,Monthly
+55+,Tier1,Distributor,<50k,Very High,<15,No,Low,5-20L,Weekly
+25-34,Tier3,Trader,50k-2L,Low,30-60,Yes,Low,<1L,Weekly
+<25,Metro,Service,10L-50L,Low,15-30,No,Low,1-5L,Monthly
+45-54,Metro,Trader,50L+,Very High,30-60,Yes,Medium,5-20L,Monthly
+25-34,Tier3,Retailer,2L-10L,Low,<15,Yes,Medium,1-5L,Rare
+<25,Metro,Distributor,50k-2L,Very High,15-30,No,High,<1L,Monthly
+35-44,Tier3,Trader,50k-2L,High,30-60,Yes,High,<1L,Rare
+55+,Tier2,Service,2L-10L,Medium,30-60,Yes,Low,5-20L,Weekly
+<25,Tier3,Retailer,50k-2L,Very High,15-30,No,Medium,<1L,Rare
+35-44,Tier2,Retailer,2L-10L,Medium,30-60,No,High,1-5L,Monthly
+<25,Tier1,Service,<50k,Medium,30-60,Yes,High,5-20L,Weekly
+55+,Tier3,Service,10L-50L,Very High,15-30,Yes,High,20L+,Rare
+55+,Tier1,Trader,10L-50L,Low,30-60,Yes,High,1-5L,Rare
+25-34,Metro,Manufacturer,50L+,High,30-60,No,Low,20L+,Rare
+45-54,Tier2,Retailer,50k-2L,Medium,60-90,Yes,Medium,5-20L,Weekly
+<25,Tier3,Trader,50L+,High,60-90,Yes,Low,5-20L,Rare
+<25,Tier1,Service,<50k,Medium,<15,No,High,1-5L,Rare
+35-44,Tier2,Trader,10L-50L,Very High,60-90,No,High,<1L,Monthly
+55+,Tier2,Service,<50k,Low,60-90,No,Medium,1-5L,Rare
+<25,Metro,Distributor,<50k,High,<15,No,Medium,<1L,Weekly
+55+,Metro,Service,50k-2L,Medium,30-60,No,Low,<1L,Monthly
+<25,Tier2,Service,<50k,Very High,30-60,Yes,Medium,1-5L,Weekly
+25-34,Tier2,Service,10L-50L,Very High,60-90,Yes,Low,5-20L,Monthly
+45-54,Tier3,Manufacturer,50L+,Medium,<15,Yes,Low,1-5L,Monthly
+<25,Tier2,Service,10L-50L,Medium,30-60,No,High,20L+,Rare
+55+,Tier3,Retailer,50k-2L,Medium,90+,No,Low,5-20L,Weekly
+25-34,Tier2,Retailer,10L-50L,Low,15-30,No,High,<1L,Rare
+<25,Metro,Trader,2L-10L,Medium,15-30,Yes,Low,5-20L,Monthly
+35-44,Tier3,Manufacturer,50L+,Medium,15-30,No,Low,1-5L,Rare
+45-54,Tier1,Trader,2L-10L,Low,60-90,No,Medium,5-20L,Monthly
+<25,Metro,Retailer,2L-10L,Very High,15-30,No,Medium,<1L,Monthly
+25-34,Tier3,Retailer,50k-2L,Medium,15-30,Yes,High,<1L,Weekly
+35-44,Tier3,Distributor,<50k,High,90+,No,Medium,5-20L,Weekly
+25-34,Tier1,Service,2L-10L,Very High,30-60,No,Low,20L+,Weekly
+25-34,Tier3,Retailer,10L-50L,High,90+,Yes,High,<1L,Weekly
+35-44,Tier2,Trader,<50k,Medium,60-90,No,High,20L+,Rare
+25-34,Tier1,Trader,10L-50L,Low,15-30,No,High,<1L,Weekly
+35-44,Metro,Service,10L-50L,Low,30-60,No,Low,5-20L,Weekly
+<25,Metro,Service,<50k,Low,15-30,Yes,Medium,<1L,Weekly
+35-44,Tier2,Distributor,<50k,Medium,15-30,No,High,20L+,Monthly
+35-44,Metro,Manufacturer,10L-50L,Medium,60-90,No,Low,20L+,Monthly
+45-54,Tier3,Trader,50k-2L,High,15-30,Yes,Medium,5-20L,Weekly
+35-44,Tier3,Service,50L+,Low,<15,Yes,Medium,20L+,Monthly
+35-44,Tier2,Trader,50L+,Medium,30-60,No,High,20L+,Monthly
+<25,Metro,Service,50k-2L,Very High,30-60,Yes,Low,5-20L,Rare
+45-54,Metro,Retailer,<50k,Medium,<15,No,Medium,<1L,Monthly
+55+,Tier2,Trader,10L-50L,Medium,60-90,Yes,Low,5-20L,Rare
+<25,Tier1,Retailer,50L+,Very High,15-30,No,Medium,<1L,Monthly
+<25,Metro,Trader,10L-50L,Low,15-30,No,High,<1L,Weekly
+55+,Tier1,Manufacturer,50k-2L,Very High,30-60,No,High,<1L,Monthly
+35-44,Metro,Distributor,10L-50L,Low,60-90,Yes,Medium,1-5L,Monthly
+25-34,Metro,Retailer,50k-2L,Very High,60-90,Yes,Low,<1L,Rare
+45-54,Metro,Service,<50k,High,60-90,No,Medium,5-20L,Weekly
+25-34,Metro,Manufacturer,50k-2L,Low,15-30,No,Low,5-20L,Rare
+55+,Tier3,Trader,50k-2L,Medium,60-90,No,Medium,5-20L,Weekly
+<25,Tier1,Retailer,50L+,High,<15,No,High,1-5L,Weekly
+<25,Tier1,Trader,10L-50L,Low,90+,Yes,Low,20L+,Rare
+45-54,Metro,Trader,50L+,Low,60-90,Yes,High,1-5L,Monthly
+<25,Metro,Trader,2L-10L,Low,90+,No,Low,5-20L,Weekly
+<25,Tier1,Distributor,50k-2L,Very High,15-30,Yes,Medium,5-20L,Monthly
+45-54,Tier3,Distributor,2L-10L,Low,60-90,Yes,High,20L+,Rare
+45-54,Tier2,Service,50L+,Medium,30-60,Yes,High,1-5L,Rare
+55+,Tier2,Retailer,10L-50L,Low,15-30,No,Low,5-20L,Rare
+<25,Tier1,Manufacturer,50L+,Medium,<15,No,Low,<1L,Rare
+<25,Metro,Manufacturer,10L-50L,Medium,<15,Yes,Low,<1L,Weekly
+55+,Metro,Manufacturer,10L-50L,Medium,90+,Yes,High,5-20L,Rare
+35-44,Tier3,Trader,<50k,High,90+,No,Medium,<1L,Monthly
+35-44,Tier2,Distributor,50k-2L,Medium,30-60,No,Low,20L+,Monthly
+35-44,Tier3,Retailer,50L+,Very High,30-60,No,Medium,5-20L,Weekly
+55+,Tier2,Trader,10L-50L,Low,<15,Yes,Low,1-5L,Rare
+<25,Tier1,Distributor,50L+,Very High,60-90,Yes,Medium,5-20L,Weekly
+55+,Tier2,Distributor,50L+,High,<15,Yes,Low,20L+,Weekly
+55+,Tier3,Retailer,10L-50L,Low,<15,No,Medium,1-5L,Weekly
+35-44,Tier3,Retailer,2L-10L,Medium,30-60,No,High,20L+,Rare
+25-34,Tier3,Retailer,50k-2L,Low,90+,No,Low,<1L,Monthly
+<25,Tier1,Trader,50k-2L,High,30-60,No,Low,<1L,Monthly
+35-44,Tier2,Service,<50k,High,30-60,No,High,<1L,Weekly
+25-34,Tier2,Retailer,<50k,Very High,30-60,Yes,Low,20L+,Weekly
+25-34,Tier3,Service,<50k,Low,<15,Yes,Low,20L+,Monthly
+45-54,Tier2,Trader,50k-2L,Low,60-90,Yes,High,5-20L,Monthly
+<25,Metro,Service,2L-10L,Low,<15,No,High,1-5L,Rare
+25-34,Metro,Manufacturer,50k-2L,Very High,15-30,Yes,Medium,1-5L,Weekly
+35-44,Metro,Service,50k-2L,High,30-60,No,High,20L+,Rare
+45-54,Tier2,Retailer,50k-2L,Medium,30-60,Yes,High,20L+,Monthly
+<25,Tier1,Trader,50k-2L,Low,15-30,Yes,Low,<1L,Monthly
+55+,Tier1,Retailer,2L-10L,Very High,30-60,No,High,20L+,Monthly
+35-44,Tier1,Manufacturer,<50k,Very High,30-60,Yes,Low,<1L,Monthly
+25-34,Tier1,Retailer,50L+,Medium,30-60,Yes,High,20L+,Rare
+25-34,Metro,Retailer,<50k,High,15-30,Yes,High,1-5L,Monthly
+35-44,Metro,Retailer,<50k,Low,<15,Yes,Medium,5-20L,Weekly
+25-34,Tier3,Distributor,50L+,Low,30-60,Yes,High,20L+,Monthly
+45-54,Tier2,Manufacturer,50k-2L,Very High,60-90,Yes,High,<1L,Weekly
+<25,Tier2,Retailer,2L-10L,High,15-30,Yes,Low,5-20L,Monthly
+45-54,Tier1,Retailer,2L-10L,Low,90+,No,Low,<1L,Rare
+25-34,Metro,Retailer,<50k,Medium,15-30,Yes,Medium,<1L,Weekly
+55+,Tier1,Trader,50L+,High,<15,No,High,5-20L,Rare
+<25,Tier3,Distributor,10L-50L,High,15-30,Yes,Low,5-20L,Monthly
+<25,Tier2,Trader,50k-2L,Very High,90+,No,High,5-20L,Rare
+35-44,Tier2,Distributor,<50k,Very High,60-90,No,Medium,20L+,Monthly
+35-44,Tier1,Retailer,2L-10L,Low,90+,Yes,Low,5-20L,Rare
+55+,Tier3,Manufacturer,50L+,Very High,15-30,No,Low,20L+,Rare
+<25,Tier2,Service,50L+,High,90+,No,Medium,1-5L,Weekly
+55+,Tier3,Service,<50k,Low,15-30,Yes,High,1-5L,Monthly
+35-44,Tier3,Retailer,10L-50L,Low,60-90,No,Low,<1L,Rare
+35-44,Tier1,Trader,2L-10L,High,60-90,Yes,Low,<1L,Monthly
+<25,Metro,Manufacturer,<50k,Low,<15,No,Medium,20L+,Weekly
+45-54,Tier1,Distributor,10L-50L,Medium,60-90,No,Medium,<1L,Rare
+25-34,Metro,Retailer,50L+,Medium,30-60,No,Medium,1-5L,Monthly
+35-44,Tier3,Manufacturer,50k-2L,Low,90+,No,High,20L+,Rare
+35-44,Metro,Manufacturer,2L-10L,Very High,90+,Yes,High,20L+,Rare
+45-54,Tier3,Distributor,2L-10L,Medium,15-30,Yes,High,5-20L,Rare
+45-54,Tier2,Manufacturer,10L-50L,Low,60-90,Yes,Medium,20L+,Rare
+55+,Tier2,Trader,<50k,Medium,<15,Yes,Low,<1L,Weekly
+55+,Tier2,Trader,50L+,Very High,<15,Yes,High,1-5L,Weekly
+25-34,Tier1,Trader,10L-50L,High,<15,No,Medium,<1L,Monthly
+25-34,Tier1,Manufacturer,50k-2L,Low,30-60,Yes,High,1-5L,Monthly
+<25,Tier3,Trader,50k-2L,Low,60-90,No,Low,5-20L,Rare
+55+,Tier2,Distributor,50k-2L,Low,<15,Yes,Low,1-5L,Rare
+35-44,Tier1,Manufacturer,10L-50L,Low,30-60,Yes,Medium,5-20L,Rare
+55+,Tier2,Service,50L+,Low,90+,Yes,Low,<1L,Weekly
+35-44,Tier1,Manufacturer,2L-10L,Low,15-30,Yes,Medium,5-20L,Rare
+45-54,Metro,Distributor,<50k,Very High,60-90,No,Medium,20L+,Monthly
+55+,Metro,Service,2L-10L,High,60-90,Yes,Medium,20L+,Rare
+45-54,Tier2,Manufacturer,50L+,Very High,90+,No,Medium,1-5L,Weekly
+25-34,Tier3,Trader,2L-10L,Very High,60-90,No,Low,<1L,Rare
+25-34,Tier1,Retailer,10L-50L,High,60-90,Yes,Low,<1L,Weekly
+<25,Tier1,Retailer,50k-2L,Very High,60-90,No,Low,1-5L,Weekly
+55+,Metro,Trader,50L+,Medium,60-90,No,Low,20L+,Weekly
+45-54,Metro,Retailer,50L+,Very High,30-60,Yes,Medium,5-20L,Weekly
+35-44,Tier3,Retailer,2L-10L,Low,30-60,No,Medium,1-5L,Monthly
+25-34,Tier3,Trader,10L-50L,Medium,15-30,Yes,Low,5-20L,Weekly
+25-34,Tier3,Trader,2L-10L,Medium,60-90,Yes,High,5-20L,Monthly
+35-44,Tier2,Manufacturer,2L-10L,High,90+,No,High,<1L,Monthly
+45-54,Metro,Manufacturer,50L+,Very High,<15,No,High,20L+,Rare
+45-54,Tier2,Trader,2L-10L,Very High,15-30,No,Low,5-20L,Rare
+55+,Metro,Distributor,50k-2L,Medium,<15,No,Medium,20L+,Weekly
+55+,Metro,Retailer,2L-10L,Very High,<15,No,Medium,<1L,Rare
+<25,Tier1,Manufacturer,50k-2L,Very High,60-90,No,High,1-5L,Weekly
+25-34,Metro,Retailer,50L+,High,90+,No,High,1-5L,Rare
+55+,Metro,Service,10L-50L,Medium,<15,Yes,Medium,<1L,Weekly
+45-54,Tier2,Trader,50k-2L,Low,<15,Yes,High,<1L,Rare
+35-44,Metro,Distributor,10L-50L,Medium,15-30,Yes,High,5-20L,Rare
+45-54,Tier2,Service,10L-50L,High,90+,No,Medium,<1L,Monthly
+25-34,Tier3,Service,50k-2L,High,90+,No,High,1-5L,Rare
+45-54,Metro,Service,50L+,High,<15,No,High,20L+,Rare
+<25,Metro,Trader,<50k,Very High,90+,Yes,Low,20L+,Weekly
+25-34,Tier2,Manufacturer,10L-50L,Medium,15-30,Yes,High,20L+,Monthly
+35-44,Tier3,Trader,10L-50L,Very High,15-30,Yes,Low,20L+,Weekly
+<25,Tier1,Manufacturer,50L+,Very High,15-30,No,Medium,<1L,Rare
+25-34,Tier3,Service,50L+,Medium,60-90,Yes,Low,<1L,Weekly
+35-44,Tier2,Service,2L-10L,High,<15,Yes,Medium,20L+,Monthly
+<25,Tier3,Distributor,50L+,Low,90+,No,Low,<1L,Weekly
+<25,Tier2,Manufacturer,10L-50L,Low,15-30,Yes,Low,5-20L,Rare
+25-34,Tier2,Service,50k-2L,Medium,<15,Yes,Low,<1L,Weekly
+55+,Tier1,Retailer,<50k,Medium,<15,Yes,High,5-20L,Rare
+<25,Metro,Distributor,2L-10L,High,60-90,No,High,5-20L,Monthly
+<25,Tier2,Trader,50k-2L,Medium,90+,Yes,High,<1L,Monthly
+35-44,Tier2,Distributor,<50k,Medium,90+,No,High,20L+,Weekly
+45-54,Tier1,Retailer,<50k,High,15-30,No,High,5-20L,Monthly
+25-34,Tier2,Manufacturer,<50k,High,15-30,Yes,Low,<1L,Weekly
+25-34,Metro,Trader,50k-2L,Very High,<15,Yes,High,1-5L,Rare
+55+,Tier1,Trader,2L-10L,Medium,90+,No,Medium,20L+,Weekly
+55+,Metro,Manufacturer,2L-10L,Low,90+,No,Low,1-5L,Rare
+25-34,Metro,Distributor,<50k,Medium,15-30,No,Low,5-20L,Monthly
+55+,Tier1,Service,50k-2L,Low,30-60,No,Medium,1-5L,Rare
+35-44,Tier2,Distributor,<50k,Low,<15,No,High,<1L,Rare
+25-34,Metro,Retailer,50L+,Low,90+,Yes,Medium,20L+,Rare
+55+,Metro,Service,2L-10L,Very High,60-90,No,Low,5-20L,Rare
+25-34,Metro,Distributor,10L-50L,High,60-90,Yes,Low,<1L,Rare
+45-54,Metro,Manufacturer,<50k,High,30-60,No,Low,20L+,Weekly
+<25,Tier1,Retailer,50L+,Very High,15-30,Yes,Medium,5-20L,Rare
+25-34,Tier1,Retailer,2L-10L,High,15-30,No,High,5-20L,Rare
+<25,Tier3,Retailer,50k-2L,Very High,15-30,Yes,Low,5-20L,Rare
+55+,Tier3,Service,2L-10L,Medium,60-90,Yes,High,5-20L,Rare
+<25,Metro,Trader,50k-2L,Very High,15-30,No,Low,1-5L,Rare
+25-34,Tier2,Service,50k-2L,High,60-90,No,High,1-5L,Rare
+45-54,Metro,Distributor,<50k,High,30-60,Yes,Medium,1-5L,Monthly
+55+,Tier2,Trader,<50k,Medium,<15,Yes,Low,5-20L,Weekly
+25-34,Metro,Distributor,2L-10L,Very High,90+,Yes,Low,1-5L,Rare
+55+,Tier3,Trader,50L+,Medium,30-60,No,Low,20L+,Weekly
+35-44,Tier3,Service,2L-10L,Low,60-90,No,Medium,5-20L,Monthly
+<25,Tier2,Retailer,10L-50L,Very High,30-60,No,Medium,20L+,Monthly
+35-44,Metro,Manufacturer,50k-2L,Medium,90+,No,High,20L+,Rare
+25-34,Tier2,Retailer,50k-2L,Medium,<15,Yes,Medium,1-5L,Weekly
+45-54,Tier3,Service,<50k,High,90+,No,Low,5-20L,Rare
+55+,Metro,Trader,50L+,Very High,60-90,No,High,1-5L,Monthly
+<25,Metro,Retailer,<50k,Low,90+,No,Medium,1-5L,Monthly
+55+,Tier2,Service,10L-50L,Low,30-60,No,High,1-5L,Weekly
+25-34,Tier1,Distributor,2L-10L,Very High,15-30,No,High,5-20L,Rare
+55+,Tier2,Manufacturer,2L-10L,Very High,30-60,Yes,High,5-20L,Weekly
+<25,Tier3,Retailer,50L+,Medium,60-90,No,Low,1-5L,Weekly
+25-34,Tier3,Trader,<50k,High,<15,Yes,Low,20L+,Monthly
+55+,Tier3,Distributor,<50k,High,90+,No,Medium,20L+,Weekly
+45-54,Tier3,Service,10L-50L,High,<15,No,Low,5-20L,Monthly
+25-34,Tier3,Manufacturer,2L-10L,Very High,60-90,No,High,<1L,Rare
+25-34,Tier1,Trader,<50k,High,90+,No,High,1-5L,Weekly
+45-54,Metro,Service,50L+,Medium,30-60,Yes,Low,1-5L,Weekly
+35-44,Tier2,Service,2L-10L,Very High,30-60,Yes,High,<1L,Rare
+<25,Tier2,Retailer,10L-50L,Very High,60-90,No,Low,5-20L,Weekly
+35-44,Tier3,Retailer,50L+,High,90+,Yes,High,20L+,Rare
+55+,Tier2,Trader,50k-2L,Low,30-60,Yes,Medium,5-20L,Monthly
+45-54,Tier3,Service,10L-50L,Low,60-90,No,Medium,20L+,Monthly
+35-44,Tier1,Retailer,50L+,Medium,60-90,Yes,Low,20L+,Weekly
+25-34,Tier1,Manufacturer,<50k,High,<15,Yes,Low,5-20L,Monthly
+55+,Metro,Manufacturer,50k-2L,High,30-60,No,Low,1-5L,Monthly
+55+,Tier1,Service,10L-50L,Very High,90+,No,Low,1-5L,Rare
+35-44,Tier1,Retailer,<50k,Very High,30-60,Yes,Low,1-5L,Monthly
+35-44,Metro,Trader,50k-2L,High,30-60,No,High,20L+,Monthly
+45-54,Tier2,Trader,2L-10L,Very High,30-60,No,Medium,1-5L,Monthly
+<25,Tier3,Trader,<50k,High,60-90,No,High,20L+,Rare
+35-44,Tier3,Manufacturer,50L+,Medium,15-30,Yes,Medium,1-5L,Weekly
+35-44,Tier2,Retailer,10L-50L,Very High,15-30,No,High,5-20L,Rare
+25-34,Metro,Retailer,50k-2L,High,<15,No,High,<1L,Weekly
+55+,Tier2,Manufacturer,<50k,Very High,30-60,Yes,High,20L+,Weekly
+<25,Tier1,Trader,2L-10L,Medium,15-30,Yes,Low,5-20L,Monthly
+25-34,Metro,Trader,10L-50L,Very High,<15,Yes,Medium,20L+,Monthly
+45-54,Metro,Service,10L-50L,High,60-90,Yes,Low,20L+,Rare
+45-54,Metro,Distributor,<50k,Very High,30-60,Yes,Low,5-20L,Rare
+35-44,Tier3,Retailer,2L-10L,Very High,90+,No,High,1-5L,Rare
+35-44,Tier2,Retailer,50k-2L,High,60-90,Yes,Medium,20L+,Monthly
+45-54,Metro,Retailer,<50k,Low,<15,No,Medium,<1L,Weekly
+35-44,Metro,Distributor,50k-2L,Very High,60-90,Yes,Medium,<1L,Rare
+<25,Metro,Service,10L-50L,Very High,90+,No,Medium,5-20L,Weekly
+35-44,Tier2,Distributor,50k-2L,Medium,60-90,No,Low,<1L,Monthly
+55+,Tier3,Trader,2L-10L,Low,<15,Yes,Low,5-20L,Monthly
+35-44,Tier1,Trader,50L+,Medium,90+,Yes,Medium,5-20L,Monthly
+25-34,Tier3,Retailer,2L-10L,High,90+,Yes,Low,20L+,Monthly
+<25,Metro,Manufacturer,50k-2L,High,60-90,Yes,Medium,5-20L,Weekly
+25-34,Tier3,Retailer,<50k,Medium,90+,Yes,Low,5-20L,Weekly
+25-34,Tier3,Manufacturer,10L-50L,Very High,60-90,Yes,High,1-5L,Rare
+55+,Tier1,Distributor,50L+,Low,30-60,No,High,20L+,Weekly
+<25,Tier2,Trader,<50k,Medium,90+,No,Medium,<1L,Weekly
+<25,Tier2,Manufacturer,<50k,Medium,60-90,No,Medium,1-5L,Weekly
+<25,Tier3,Distributor,2L-10L,High,30-60,No,Low,1-5L,Rare
+<25,Tier3,Trader,50k-2L,Very High,90+,No,Medium,20L+,Weekly
+<25,Tier2,Manufacturer,2L-10L,Low,30-60,Yes,Medium,20L+,Weekly
+55+,Tier2,Retailer,50k-2L,Medium,90+,Yes,Low,1-5L,Weekly
+35-44,Tier1,Retailer,2L-10L,Low,<15,No,Medium,20L+,Monthly
+25-34,Metro,Retailer,<50k,Low,<15,No,Medium,20L+,Weekly
+<25,Tier3,Distributor,10L-50L,Medium,60-90,Yes,High,5-20L,Rare
+35-44,Tier2,Retailer,50k-2L,Low,15-30,Yes,High,20L+,Rare
+35-44,Tier3,Service,50L+,High,<15,Yes,High,5-20L,Rare
+25-34,Tier3,Trader,50L+,Very High,15-30,Yes,Medium,1-5L,Rare
+55+,Tier2,Distributor,<50k,Very High,30-60,No,Low,1-5L,Monthly
+45-54,Tier1,Retailer,2L-10L,Very High,30-60,No,High,<1L,Rare
+45-54,Tier3,Trader,2L-10L,High,15-30,Yes,Medium,20L+,Monthly
+35-44,Tier1,Manufacturer,<50k,High,60-90,Yes,High,1-5L,Monthly
+25-34,Tier2,Retailer,50L+,High,90+,No,Low,5-20L,Monthly
+45-54,Metro,Trader,50L+,Very High,15-30,No,Low,1-5L,Rare
+35-44,Metro,Service,2L-10L,Low,15-30,No,Low,20L+,Rare
+55+,Tier3,Manufacturer,50k-2L,High,15-30,Yes,Low,<1L,Monthly
+45-54,Tier2,Service,10L-50L,Medium,15-30,No,Low,<1L,Monthly
+35-44,Tier1,Trader,50k-2L,High,15-30,Yes,Low,1-5L,Rare
+35-44,Tier3,Service,50L+,Medium,60-90,Yes,Medium,<1L,Weekly
+<25,Tier2,Trader,50k-2L,Very High,<15,Yes,High,20L+,Weekly
+55+,Tier2,Trader,10L-50L,Medium,90+,No,Low,20L+,Weekly
+<25,Tier1,Service,50k-2L,High,<15,No,High,<1L,Rare
+25-34,Tier3,Trader,50k-2L,High,15-30,Yes,High,5-20L,Rare
+<25,Tier2,Retailer,50k-2L,Low,<15,No,Medium,<1L,Monthly
+<25,Tier2,Trader,50k-2L,Very High,60-90,Yes,Low,<1L,Rare
+45-54,Tier2,Distributor,<50k,Medium,30-60,No,Low,1-5L,Rare
+35-44,Tier1,Trader,50L+,Very High,<15,Yes,Medium,5-20L,Rare
+55+,Tier3,Distributor,10L-50L,High,90+,Yes,Medium,<1L,Monthly
+<25,Tier3,Trader,50L+,Low,60-90,No,Medium,1-5L,Monthly
+55+,Tier3,Trader,<50k,High,30-60,No,Medium,1-5L,Weekly
+<25,Tier3,Service,<50k,High,60-90,Yes,Medium,1-5L,Weekly
+25-34,Metro,Retailer,<50k,High,15-30,No,High,20L+,Rare
+<25,Metro,Retailer,<50k,Medium,30-60,Yes,Medium,1-5L,Rare
+45-54,Tier3,Manufacturer,50k-2L,High,90+,Yes,Low,1-5L,Monthly
+35-44,Tier1,Service,50L+,Very High,30-60,Yes,Low,20L+,Weekly
+25-34,Metro,Service,2L-10L,Very High,90+,Yes,Medium,20L+,Weekly
+<25,Tier2,Retailer,10L-50L,Low,15-30,Yes,Medium,1-5L,Weekly
+55+,Metro,Service,<50k,Very High,90+,Yes,Medium,<1L,Rare
+25-34,Tier2,Retailer,50L+,High,60-90,Yes,Medium,5-20L,Rare
+25-34,Tier3,Service,<50k,High,<15,Yes,Medium,20L+,Rare
+<25,Metro,Trader,<50k,Very High,60-90,No,Low,5-20L,Monthly
+25-34,Tier1,Retailer,<50k,Low,60-90,No,High,20L+,Weekly
+55+,Metro,Retailer,<50k,Low,30-60,Yes,Medium,1-5L,Monthly
+25-34,Metro,Distributor,<50k,Very High,15-30,Yes,Medium,20L+,Weekly
+55+,Metro,Service,10L-50L,Medium,<15,Yes,Medium,1-5L,Rare
+<25,Tier3,Service,50L+,Medium,90+,No,Low,5-20L,Monthly
+35-44,Tier1,Retailer,<50k,Medium,30-60,Yes,Low,<1L,Monthly
+25-34,Metro,Trader,<50k,Medium,15-30,Yes,High,1-5L,Rare
+35-44,Tier1,Trader,<50k,Very High,<15,Yes,High,5-20L,Weekly
+55+,Tier3,Trader,<50k,Low,60-90,No,High,5-20L,Weekly
+25-34,Tier2,Service,50k-2L,High,15-30,No,High,20L+,Weekly
+45-54,Metro,Distributor,50k-2L,High,15-30,No,Low,1-5L,Weekly
+35-44,Tier1,Retailer,2L-10L,Very High,15-30,Yes,High,5-20L,Rare
+25-34,Tier1,Manufacturer,<50k,High,60-90,Yes,Medium,<1L,Rare
+35-44,Tier3,Distributor,2L-10L,Medium,90+,No,Low,20L+,Rare
+25-34,Metro,Manufacturer,10L-50L,Low,30-60,Yes,Low,20L+,Rare
+<25,Tier2,Distributor,2L-10L,Very High,90+,No,Low,5-20L,Monthly
+35-44,Tier1,Trader,50L+,Low,<15,No,Medium,1-5L,Monthly
+45-54,Metro,Service,50k-2L,Very High,30-60,Yes,Low,20L+,Monthly
+45-54,Tier2,Manufacturer,50k-2L,Very High,<15,Yes,Medium,1-5L,Rare
+55+,Tier1,Distributor,<50k,Very High,60-90,Yes,High,5-20L,Weekly
+25-34,Tier1,Service,<50k,Very High,90+,Yes,Low,5-20L,Monthly
+35-44,Tier2,Manufacturer,10L-50L,Low,15-30,No,Medium,1-5L,Monthly
+55+,Tier2,Retailer,10L-50L,High,30-60,No,Low,<1L,Rare
+35-44,Tier3,Distributor,50L+,Very High,15-30,No,High,20L+,Weekly
+25-34,Metro,Retailer,<50k,Medium,<15,No,Low,5-20L,Weekly
+45-54,Metro,Trader,<50k,Very High,15-30,No,High,<1L,Weekly
+<25,Tier3,Retailer,10L-50L,Low,15-30,No,Low,<1L,Rare
+45-54,Tier1,Retailer,10L-50L,Very High,60-90,Yes,Medium,1-5L,Weekly
+55+,Tier2,Distributor,10L-50L,Medium,60-90,No,High,1-5L,Monthly
+<25,Tier2,Trader,50k-2L,Low,90+,Yes,Low,1-5L,Monthly
+55+,Tier2,Retailer,2L-10L,Very High,<15,Yes,High,<1L,Monthly
+25-34,Tier1,Service,2L-10L,Medium,60-90,No,High,20L+,Rare
+<25,Tier2,Manufacturer,<50k,Low,60-90,No,Medium,1-5L,Weekly
+55+,Tier2,Retailer,50k-2L,Very High,90+,Yes,Medium,20L+,Rare
+25-34,Tier3,Trader,10L-50L,Medium,30-60,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,<50k,Low,90+,No,Medium,<1L,Rare
+25-34,Metro,Manufacturer,50k-2L,Very High,15-30,No,High,20L+,Monthly
+35-44,Tier3,Trader,50L+,Low,15-30,Yes,High,20L+,Rare
+25-34,Tier3,Distributor,50k-2L,Medium,60-90,No,Low,<1L,Rare
+25-34,Metro,Trader,<50k,Very High,60-90,No,Low,20L+,Rare
+35-44,Tier3,Distributor,2L-10L,Very High,90+,No,Low,<1L,Monthly
+55+,Tier1,Trader,10L-50L,Very High,90+,No,Medium,<1L,Rare
+55+,Tier2,Manufacturer,50L+,Medium,<15,No,High,5-20L,Rare
+25-34,Tier1,Manufacturer,50k-2L,High,15-30,Yes,High,1-5L,Monthly
+35-44,Metro,Trader,<50k,Very High,90+,No,Low,5-20L,Weekly
+35-44,Metro,Retailer,<50k,Medium,30-60,No,Low,<1L,Rare
+45-54,Tier3,Manufacturer,10L-50L,Low,<15,Yes,High,<1L,Monthly
+55+,Tier1,Distributor,<50k,Low,90+,Yes,Medium,20L+,Rare
+<25,Tier1,Distributor,<50k,Medium,60-90,No,Low,<1L,Monthly
+55+,Metro,Service,10L-50L,High,90+,No,Low,<1L,Weekly
+55+,Tier1,Distributor,50L+,Medium,60-90,Yes,High,<1L,Weekly
+45-54,Metro,Service,2L-10L,Low,60-90,No,High,1-5L,Rare
+<25,Tier1,Trader,2L-10L,Low,15-30,No,Low,5-20L,Monthly
+45-54,Tier1,Trader,50k-2L,Very High,15-30,No,Low,5-20L,Weekly
+<25,Tier1,Trader,50L+,High,90+,Yes,Medium,1-5L,Weekly
+25-34,Metro,Retailer,50k-2L,Medium,90+,No,Medium,1-5L,Monthly
+<25,Tier3,Retailer,2L-10L,Low,30-60,No,Medium,1-5L,Rare
+45-54,Tier1,Service,10L-50L,Low,<15,Yes,Medium,5-20L,Weekly
+55+,Metro,Distributor,<50k,Low,<15,No,Low,5-20L,Weekly
+<25,Metro,Distributor,2L-10L,Medium,90+,No,Low,<1L,Weekly
+<25,Tier1,Trader,50L+,Medium,15-30,No,Low,5-20L,Rare
+35-44,Tier1,Manufacturer,2L-10L,High,30-60,No,Medium,20L+,Weekly
+55+,Tier3,Retailer,50L+,Very High,<15,Yes,Low,5-20L,Monthly
+25-34,Metro,Retailer,50L+,Very High,90+,Yes,High,1-5L,Rare
+45-54,Metro,Trader,50L+,Very High,15-30,No,Medium,5-20L,Weekly
+25-34,Tier2,Retailer,50k-2L,Low,15-30,No,High,<1L,Monthly
+55+,Metro,Trader,10L-50L,Very High,15-30,No,Medium,5-20L,Monthly
+<25,Tier3,Service,2L-10L,Low,60-90,No,Low,1-5L,Rare
+<25,Tier2,Distributor,10L-50L,High,15-30,Yes,Medium,20L+,Monthly
+55+,Tier2,Manufacturer,<50k,Low,90+,Yes,High,1-5L,Rare
+<25,Tier2,Distributor,2L-10L,High,30-60,Yes,Medium,20L+,Rare
+<25,Tier1,Distributor,10L-50L,High,90+,No,High,<1L,Rare
+<25,Tier1,Service,10L-50L,Very High,15-30,No,Low,<1L,Monthly
+45-54,Metro,Retailer,<50k,Very High,30-60,No,High,5-20L,Rare
+45-54,Tier2,Manufacturer,50L+,Low,<15,Yes,Low,<1L,Rare
+35-44,Tier3,Retailer,2L-10L,Medium,<15,Yes,High,<1L,Monthly
+25-34,Tier1,Distributor,2L-10L,Very High,90+,Yes,Low,1-5L,Rare
+55+,Tier3,Trader,<50k,Very High,30-60,Yes,High,1-5L,Weekly
+55+,Tier3,Distributor,50L+,Medium,90+,Yes,Low,5-20L,Monthly
+55+,Tier1,Retailer,2L-10L,Medium,30-60,No,Low,5-20L,Monthly
+35-44,Tier1,Distributor,2L-10L,Very High,30-60,No,Low,5-20L,Monthly
+45-54,Tier1,Trader,2L-10L,Medium,90+,No,High,5-20L,Weekly
+35-44,Tier1,Service,50L+,Low,30-60,Yes,High,1-5L,Rare
+55+,Tier2,Retailer,<50k,High,15-30,No,Low,5-20L,Monthly
+25-34,Tier2,Distributor,2L-10L,High,30-60,No,Medium,5-20L,Monthly
+<25,Tier2,Retailer,10L-50L,Very High,30-60,Yes,Low,<1L,Monthly
+45-54,Tier2,Service,50L+,Very High,90+,Yes,Medium,5-20L,Weekly
+45-54,Metro,Distributor,50k-2L,Low,<15,Yes,Low,20L+,Weekly
+35-44,Tier2,Distributor,<50k,Medium,60-90,No,High,<1L,Weekly
+45-54,Tier1,Retailer,10L-50L,Very High,30-60,Yes,Medium,1-5L,Rare
+55+,Tier3,Retailer,2L-10L,High,60-90,No,High,20L+,Rare
+55+,Tier2,Trader,50k-2L,Low,30-60,No,Medium,5-20L,Weekly
+35-44,Metro,Service,<50k,Low,90+,Yes,Medium,<1L,Rare
+55+,Tier1,Trader,50L+,Medium,90+,No,Medium,5-20L,Weekly
+25-34,Tier3,Distributor,50k-2L,Very High,30-60,Yes,Medium,<1L,Rare
+35-44,Tier3,Retailer,50k-2L,Very High,90+,Yes,High,5-20L,Rare
+25-34,Tier2,Distributor,10L-50L,Low,90+,No,Medium,20L+,Weekly
+<25,Tier3,Distributor,<50k,High,30-60,No,Low,1-5L,Monthly
+25-34,Tier2,Manufacturer,10L-50L,Very High,<15,No,Low,20L+,Monthly
+<25,Tier2,Manufacturer,10L-50L,High,30-60,Yes,Medium,20L+,Rare
+<25,Tier1,Distributor,2L-10L,Low,<15,No,High,1-5L,Rare
+25-34,Tier1,Retailer,50L+,Very High,90+,Yes,High,<1L,Rare
+35-44,Metro,Distributor,50k-2L,High,<15,Yes,Medium,<1L,Rare
+55+,Tier1,Manufacturer,<50k,Low,90+,No,High,1-5L,Rare
+55+,Tier1,Retailer,50L+,High,<15,No,High,5-20L,Rare
+<25,Tier2,Distributor,50L+,Very High,<15,No,High,<1L,Weekly
+<25,Tier1,Service,<50k,Medium,30-60,No,Medium,20L+,Monthly
+35-44,Tier2,Service,50L+,High,<15,Yes,Low,1-5L,Monthly
+45-54,Tier2,Distributor,2L-10L,Medium,90+,No,Low,20L+,Weekly
+25-34,Tier1,Retailer,50L+,Very High,30-60,Yes,Low,<1L,Weekly
+<25,Metro,Distributor,2L-10L,Medium,<15,No,Low,1-5L,Monthly
+55+,Metro,Distributor,50k-2L,Low,30-60,No,Low,1-5L,Monthly
+35-44,Tier3,Manufacturer,50k-2L,Medium,60-90,No,High,<1L,Rare
+25-34,Tier3,Service,10L-50L,High,30-60,Yes,High,<1L,Monthly
+35-44,Tier1,Manufacturer,2L-10L,High,60-90,No,High,1-5L,Rare
+25-34,Metro,Manufacturer,50k-2L,Medium,60-90,Yes,Medium,5-20L,Rare
+25-34,Tier2,Distributor,50L+,Low,30-60,No,High,1-5L,Monthly
+<25,Tier3,Manufacturer,<50k,Very High,90+,No,Low,5-20L,Rare
+35-44,Tier2,Service,<50k,Medium,90+,Yes,High,20L+,Rare
+35-44,Tier3,Manufacturer,2L-10L,High,90+,Yes,Low,5-20L,Weekly
+55+,Tier1,Service,10L-50L,High,15-30,No,High,5-20L,Monthly
+55+,Metro,Manufacturer,50L+,Medium,60-90,No,Low,<1L,Weekly
+<25,Tier3,Service,2L-10L,Medium,30-60,Yes,High,1-5L,Rare
+<25,Metro,Manufacturer,<50k,Medium,90+,No,Low,20L+,Rare
+45-54,Tier2,Manufacturer,2L-10L,Very High,90+,Yes,Low,1-5L,Weekly
+55+,Tier1,Retailer,50L+,High,30-60,No,Medium,5-20L,Weekly
+25-34,Metro,Service,50k-2L,High,60-90,Yes,High,5-20L,Weekly
+35-44,Tier1,Service,50L+,High,30-60,Yes,Low,5-20L,Rare
+<25,Metro,Service,50k-2L,Very High,15-30,Yes,High,1-5L,Monthly
+35-44,Tier2,Trader,50k-2L,Low,15-30,Yes,Low,5-20L,Rare
+35-44,Tier2,Manufacturer,50k-2L,High,30-60,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Service,2L-10L,High,60-90,No,Medium,20L+,Monthly
+55+,Tier2,Trader,<50k,Low,90+,No,Medium,20L+,Weekly
+<25,Tier3,Retailer,2L-10L,Very High,15-30,No,Medium,1-5L,Rare
+35-44,Metro,Service,<50k,Low,15-30,No,Low,20L+,Monthly
+<25,Tier2,Service,50L+,Low,60-90,No,High,<1L,Monthly
+25-34,Tier3,Trader,10L-50L,Low,15-30,No,Medium,5-20L,Rare
+45-54,Tier1,Manufacturer,50L+,Low,15-30,No,Medium,5-20L,Weekly
+25-34,Tier3,Retailer,2L-10L,Very High,60-90,No,Medium,5-20L,Weekly
+<25,Tier1,Service,2L-10L,Very High,30-60,No,High,<1L,Weekly
+<25,Tier1,Manufacturer,<50k,Low,90+,Yes,Low,5-20L,Rare
+55+,Metro,Retailer,2L-10L,Medium,90+,Yes,Low,1-5L,Weekly
+35-44,Metro,Distributor,50k-2L,Medium,15-30,No,Low,5-20L,Monthly
+35-44,Tier3,Distributor,2L-10L,Medium,90+,Yes,Low,1-5L,Weekly
+25-34,Metro,Retailer,<50k,Medium,30-60,No,High,20L+,Weekly
+45-54,Metro,Trader,<50k,High,15-30,Yes,High,1-5L,Monthly
+35-44,Metro,Retailer,50k-2L,Very High,90+,Yes,High,1-5L,Monthly
+55+,Tier3,Retailer,<50k,Very High,<15,Yes,Medium,1-5L,Weekly
+25-34,Tier2,Trader,10L-50L,Low,<15,No,High,5-20L,Monthly
+25-34,Metro,Trader,50L+,High,<15,No,Low,<1L,Rare
+55+,Metro,Manufacturer,2L-10L,Low,<15,No,High,<1L,Monthly
+45-54,Tier3,Manufacturer,10L-50L,Low,<15,No,Medium,1-5L,Rare
+55+,Tier2,Trader,2L-10L,Very High,15-30,Yes,Low,5-20L,Monthly
+45-54,Metro,Distributor,10L-50L,High,60-90,No,High,<1L,Rare
+55+,Tier1,Distributor,2L-10L,Medium,60-90,Yes,Low,20L+,Rare
+55+,Tier3,Retailer,50k-2L,Very High,15-30,No,Low,20L+,Weekly
+<25,Metro,Service,<50k,High,15-30,Yes,High,5-20L,Monthly
+25-34,Metro,Retailer,<50k,High,30-60,Yes,High,20L+,Monthly
+55+,Tier1,Retailer,50k-2L,Very High,60-90,Yes,Medium,20L+,Monthly
+55+,Tier1,Service,10L-50L,Very High,<15,Yes,High,20L+,Rare
+35-44,Tier3,Trader,50L+,Low,15-30,No,High,<1L,Weekly
+25-34,Tier3,Distributor,10L-50L,Low,<15,No,High,20L+,Monthly
+35-44,Tier1,Retailer,<50k,Low,60-90,Yes,Low,1-5L,Weekly
+25-34,Tier3,Service,50L+,Medium,90+,No,Medium,1-5L,Weekly
+35-44,Tier1,Manufacturer,2L-10L,Very High,90+,No,Low,20L+,Rare
+55+,Metro,Retailer,50L+,High,15-30,Yes,High,1-5L,Monthly
+55+,Tier1,Distributor,10L-50L,Very High,30-60,No,Medium,<1L,Weekly
+<25,Tier1,Trader,50k-2L,High,<15,No,High,5-20L,Monthly
+35-44,Tier2,Retailer,2L-10L,Medium,15-30,No,Low,1-5L,Monthly
+45-54,Tier1,Retailer,10L-50L,Very High,30-60,Yes,Low,20L+,Monthly
+<25,Tier1,Service,2L-10L,High,<15,No,High,5-20L,Weekly
+35-44,Tier2,Manufacturer,50L+,High,60-90,Yes,Medium,5-20L,Rare
+35-44,Tier3,Manufacturer,<50k,Low,90+,Yes,Low,20L+,Rare
+<25,Tier2,Trader,10L-50L,Medium,30-60,Yes,High,1-5L,Weekly
+55+,Metro,Distributor,50k-2L,Very High,<15,No,High,<1L,Monthly
+35-44,Tier2,Trader,50L+,Low,15-30,No,High,1-5L,Monthly
+55+,Metro,Retailer,10L-50L,Medium,<15,No,Medium,1-5L,Rare
+<25,Tier3,Retailer,50k-2L,Low,15-30,Yes,High,<1L,Weekly
+55+,Tier2,Manufacturer,10L-50L,Very High,90+,No,High,5-20L,Weekly
+25-34,Tier2,Distributor,50L+,High,90+,Yes,Low,<1L,Rare
+45-54,Tier3,Service,10L-50L,Very High,<15,No,High,<1L,Weekly
+35-44,Metro,Distributor,2L-10L,Medium,<15,Yes,Medium,20L+,Weekly
+45-54,Tier2,Retailer,50L+,Very High,15-30,No,High,20L+,Rare
+55+,Metro,Service,10L-50L,Medium,15-30,No,Medium,1-5L,Rare
+35-44,Tier2,Distributor,<50k,Low,30-60,No,High,20L+,Weekly
+55+,Tier1,Distributor,10L-50L,Medium,30-60,Yes,High,<1L,Weekly
+25-34,Tier2,Service,2L-10L,High,30-60,Yes,High,<1L,Rare
+<25,Tier3,Retailer,50k-2L,High,<15,No,Medium,20L+,Rare
+35-44,Tier3,Distributor,50k-2L,High,30-60,Yes,Low,20L+,Monthly
+25-34,Metro,Service,50k-2L,Low,<15,Yes,Medium,20L+,Weekly
+25-34,Tier2,Retailer,<50k,Medium,90+,Yes,Low,<1L,Weekly
+35-44,Metro,Service,2L-10L,Low,60-90,No,Medium,5-20L,Rare
+55+,Metro,Service,50L+,Very High,90+,No,High,5-20L,Rare
+25-34,Tier1,Distributor,50k-2L,Very High,<15,No,High,20L+,Monthly
+45-54,Tier1,Retailer,2L-10L,Very High,<15,Yes,Low,1-5L,Monthly
+25-34,Tier3,Distributor,10L-50L,Very High,60-90,No,Low,1-5L,Rare
+55+,Metro,Trader,<50k,High,15-30,Yes,Medium,5-20L,Weekly
+55+,Tier3,Trader,2L-10L,Medium,15-30,Yes,Medium,20L+,Monthly
+45-54,Tier2,Retailer,2L-10L,High,15-30,No,Low,<1L,Rare
+25-34,Metro,Service,50L+,Medium,30-60,No,Low,1-5L,Rare
+55+,Metro,Distributor,2L-10L,Medium,15-30,No,Medium,1-5L,Rare
+35-44,Tier2,Distributor,50L+,Low,30-60,Yes,Low,<1L,Weekly
+<25,Tier2,Retailer,<50k,Very High,30-60,Yes,Low,<1L,Rare
+<25,Tier3,Retailer,<50k,Medium,15-30,No,Low,20L+,Rare
+<25,Tier3,Trader,10L-50L,Very High,15-30,Yes,Low,<1L,Weekly
+25-34,Tier2,Manufacturer,50L+,Very High,60-90,No,High,<1L,Rare
+45-54,Tier3,Retailer,50L+,Very High,60-90,No,High,<1L,Rare
+55+,Tier2,Manufacturer,50k-2L,High,30-60,No,Low,5-20L,Monthly
+35-44,Metro,Retailer,50k-2L,Very High,60-90,No,Medium,<1L,Rare
+35-44,Metro,Service,10L-50L,Medium,30-60,No,High,1-5L,Weekly
+25-34,Tier1,Service,<50k,High,<15,No,Medium,20L+,Monthly
+<25,Metro,Trader,50k-2L,Very High,30-60,Yes,Medium,20L+,Rare
+25-34,Tier2,Trader,2L-10L,Low,30-60,Yes,High,20L+,Weekly
+45-54,Tier3,Manufacturer,<50k,Very High,60-90,No,Medium,5-20L,Rare
+45-54,Tier1,Retailer,2L-10L,Very High,<15,No,Medium,1-5L,Monthly
+55+,Tier3,Distributor,50L+,High,90+,Yes,Low,<1L,Weekly
+55+,Tier2,Trader,<50k,Medium,90+,Yes,Low,1-5L,Monthly
+45-54,Metro,Distributor,10L-50L,Very High,90+,No,Low,20L+,Weekly
+45-54,Tier1,Distributor,50L+,High,<15,No,High,<1L,Weekly
+45-54,Tier2,Retailer,50L+,High,15-30,Yes,Low,20L+,Rare
+25-34,Tier1,Manufacturer,2L-10L,Medium,<15,No,Medium,20L+,Weekly
+45-54,Tier1,Retailer,50L+,High,60-90,Yes,Medium,20L+,Weekly
+35-44,Metro,Trader,50k-2L,Medium,30-60,No,Medium,1-5L,Rare
+<25,Tier2,Distributor,<50k,Low,30-60,Yes,Medium,1-5L,Weekly
+45-54,Tier3,Retailer,50k-2L,Very High,60-90,No,Medium,20L+,Weekly
+<25,Tier1,Retailer,2L-10L,High,60-90,No,High,20L+,Weekly
+25-34,Tier1,Retailer,2L-10L,Low,30-60,No,Medium,<1L,Weekly
+<25,Tier3,Trader,<50k,High,15-30,Yes,High,20L+,Rare
+25-34,Tier2,Manufacturer,50L+,High,15-30,No,Medium,20L+,Rare
+35-44,Tier1,Retailer,10L-50L,Low,15-30,Yes,High,20L+,Monthly
+25-34,Tier1,Trader,2L-10L,High,60-90,Yes,High,20L+,Weekly
+25-34,Tier1,Distributor,<50k,High,30-60,Yes,Medium,1-5L,Rare
+55+,Tier2,Service,10L-50L,Low,30-60,Yes,Medium,20L+,Weekly
+45-54,Tier2,Trader,50L+,High,30-60,No,Medium,5-20L,Rare
+45-54,Tier3,Service,2L-10L,Medium,<15,No,Medium,20L+,Monthly
+35-44,Tier2,Retailer,<50k,High,<15,No,Low,1-5L,Weekly
+35-44,Tier2,Retailer,<50k,Very High,90+,Yes,Low,5-20L,Monthly
+45-54,Metro,Trader,<50k,High,<15,No,High,5-20L,Monthly
+55+,Tier3,Service,2L-10L,Very High,15-30,Yes,High,20L+,Monthly
+45-54,Tier1,Retailer,10L-50L,Very High,15-30,Yes,Low,20L+,Rare
+55+,Tier2,Distributor,<50k,High,15-30,Yes,High,1-5L,Weekly
+35-44,Tier1,Manufacturer,50L+,Low,15-30,No,Medium,5-20L,Rare
+<25,Tier1,Manufacturer,<50k,Medium,90+,Yes,High,5-20L,Rare
+35-44,Metro,Retailer,10L-50L,Medium,15-30,No,High,1-5L,Weekly
+35-44,Tier2,Service,2L-10L,High,60-90,No,High,20L+,Weekly
+25-34,Tier3,Retailer,<50k,Low,60-90,No,Low,<1L,Weekly
+25-34,Tier2,Service,<50k,Low,60-90,Yes,Low,<1L,Weekly
+25-34,Tier1,Distributor,50L+,Medium,<15,No,High,5-20L,Rare
+25-34,Tier3,Service,50L+,Low,30-60,Yes,Medium,5-20L,Weekly
+55+,Tier2,Retailer,<50k,High,90+,Yes,High,20L+,Weekly
+45-54,Tier1,Distributor,<50k,High,60-90,Yes,Low,<1L,Weekly
+<25,Tier1,Trader,50L+,Low,60-90,Yes,Medium,5-20L,Monthly
+35-44,Metro,Manufacturer,10L-50L,High,15-30,No,High,20L+,Weekly
+55+,Metro,Retailer,50k-2L,Very High,60-90,No,Low,<1L,Weekly
+<25,Metro,Retailer,50k-2L,Medium,15-30,No,Medium,1-5L,Rare
+55+,Tier1,Retailer,<50k,High,15-30,No,High,5-20L,Monthly
+55+,Tier2,Distributor,50L+,Low,30-60,Yes,Low,1-5L,Rare
+35-44,Metro,Trader,2L-10L,Medium,<15,Yes,Medium,<1L,Monthly
+45-54,Tier2,Service,2L-10L,High,15-30,Yes,High,20L+,Rare
+25-34,Metro,Trader,50k-2L,Medium,15-30,Yes,Medium,20L+,Rare
+45-54,Tier3,Distributor,10L-50L,Low,30-60,No,Medium,<1L,Weekly
+35-44,Tier3,Retailer,50k-2L,Very High,15-30,No,Medium,1-5L,Weekly
+35-44,Metro,Manufacturer,<50k,Very High,90+,Yes,Low,20L+,Monthly
+35-44,Tier1,Retailer,10L-50L,High,<15,Yes,High,5-20L,Monthly
+<25,Metro,Service,2L-10L,Very High,90+,Yes,Medium,1-5L,Monthly
+45-54,Metro,Manufacturer,50L+,High,60-90,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,50L+,Medium,<15,No,Medium,5-20L,Rare
+55+,Tier3,Manufacturer,<50k,High,60-90,Yes,Low,<1L,Monthly
+55+,Tier2,Trader,50k-2L,High,15-30,No,Medium,20L+,Weekly
+55+,Metro,Distributor,<50k,High,30-60,No,Low,1-5L,Weekly
+35-44,Tier1,Retailer,50L+,Very High,90+,Yes,Low,20L+,Rare
+45-54,Metro,Service,2L-10L,High,60-90,Yes,Medium,20L+,Rare
+35-44,Tier1,Trader,50L+,Low,15-30,No,Medium,1-5L,Weekly
+<25,Tier2,Retailer,10L-50L,High,90+,No,Low,<1L,Rare
+55+,Tier2,Trader,50L+,Medium,90+,Yes,Low,1-5L,Rare
+35-44,Tier3,Service,50L+,Low,60-90,No,Medium,<1L,Weekly
+35-44,Tier1,Retailer,10L-50L,Medium,15-30,Yes,Low,5-20L,Monthly
+<25,Tier1,Service,50k-2L,Medium,30-60,Yes,Low,<1L,Monthly
+25-34,Tier3,Manufacturer,50L+,Medium,60-90,No,Medium,<1L,Weekly
+45-54,Tier3,Service,<50k,Low,90+,No,Medium,1-5L,Monthly
+25-34,Tier1,Manufacturer,50L+,Low,90+,Yes,High,20L+,Weekly
+55+,Tier3,Retailer,<50k,Very High,<15,Yes,Medium,20L+,Weekly
+35-44,Tier2,Manufacturer,10L-50L,Low,15-30,No,Medium,<1L,Rare
+<25,Metro,Retailer,50L+,High,<15,No,Medium,<1L,Monthly
+<25,Tier2,Retailer,10L-50L,Medium,30-60,No,High,1-5L,Weekly
+45-54,Tier3,Distributor,10L-50L,Very High,60-90,No,Low,<1L,Monthly
+25-34,Tier1,Retailer,50k-2L,Low,90+,Yes,Medium,1-5L,Monthly
+45-54,Tier1,Manufacturer,50L+,Medium,15-30,Yes,Medium,5-20L,Monthly
+35-44,Tier2,Distributor,<50k,Low,90+,Yes,High,<1L,Weekly
+45-54,Tier1,Distributor,<50k,Very High,<15,No,High,5-20L,Rare
+<25,Tier3,Retailer,50L+,Low,<15,No,High,<1L,Monthly
+<25,Tier2,Service,50k-2L,Low,60-90,Yes,Low,<1L,Weekly
+55+,Tier1,Service,50k-2L,Medium,15-30,No,High,5-20L,Monthly
+55+,Metro,Distributor,50k-2L,High,15-30,No,Low,5-20L,Rare
+35-44,Metro,Retailer,<50k,Low,60-90,No,Medium,1-5L,Monthly
+25-34,Tier3,Service,10L-50L,Very High,<15,No,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,50k-2L,Low,<15,No,Medium,5-20L,Monthly
+35-44,Tier3,Retailer,<50k,Low,<15,No,High,<1L,Monthly
+55+,Tier2,Distributor,<50k,High,90+,Yes,Medium,1-5L,Monthly
+45-54,Metro,Distributor,10L-50L,Medium,30-60,Yes,High,<1L,Rare
+55+,Tier2,Trader,50L+,Very High,<15,Yes,Low,20L+,Monthly
+45-54,Tier1,Service,50L+,Medium,30-60,Yes,Medium,1-5L,Weekly
+25-34,Tier3,Service,50k-2L,Medium,30-60,No,Low,1-5L,Monthly
+35-44,Tier3,Service,50k-2L,Medium,15-30,Yes,High,1-5L,Monthly
+45-54,Tier3,Manufacturer,10L-50L,Low,60-90,Yes,High,20L+,Monthly
+<25,Tier2,Retailer,50k-2L,High,90+,Yes,Medium,5-20L,Rare
+<25,Metro,Distributor,10L-50L,Low,30-60,Yes,Medium,<1L,Weekly
+45-54,Tier2,Service,<50k,Very High,90+,No,High,20L+,Monthly
+45-54,Tier2,Trader,50k-2L,High,15-30,No,Medium,5-20L,Weekly
+45-54,Tier1,Service,<50k,Medium,<15,Yes,Medium,1-5L,Weekly
+<25,Tier1,Retailer,2L-10L,High,30-60,Yes,Low,5-20L,Rare
+<25,Tier1,Retailer,10L-50L,Very High,60-90,No,High,5-20L,Weekly
+45-54,Metro,Distributor,2L-10L,Low,15-30,No,Low,5-20L,Monthly
+55+,Metro,Manufacturer,50k-2L,Low,90+,Yes,Medium,<1L,Rare
+55+,Tier1,Distributor,<50k,Medium,<15,No,Low,5-20L,Rare
+25-34,Tier1,Service,50k-2L,Low,90+,No,High,5-20L,Weekly
+35-44,Metro,Trader,2L-10L,Low,60-90,Yes,Low,5-20L,Rare
+55+,Tier3,Distributor,50k-2L,Very High,30-60,No,Low,5-20L,Weekly
+<25,Metro,Manufacturer,50L+,High,60-90,Yes,Medium,20L+,Weekly
+55+,Metro,Distributor,2L-10L,Low,90+,Yes,High,20L+,Rare
+25-34,Metro,Retailer,50k-2L,Very High,90+,No,Medium,5-20L,Monthly
+25-34,Tier1,Service,<50k,Very High,60-90,No,Medium,5-20L,Weekly
+35-44,Tier3,Service,50k-2L,Medium,60-90,No,High,5-20L,Rare
+55+,Metro,Service,<50k,Very High,60-90,No,Low,1-5L,Rare
+<25,Tier1,Service,50L+,Medium,<15,No,Medium,5-20L,Weekly
+<25,Tier2,Service,50k-2L,Low,90+,No,Low,5-20L,Weekly
+45-54,Tier2,Service,50L+,Medium,15-30,Yes,High,20L+,Weekly
+<25,Metro,Trader,2L-10L,Very High,<15,No,Medium,20L+,Weekly
+35-44,Tier2,Manufacturer,<50k,High,<15,Yes,Low,20L+,Monthly
+35-44,Tier3,Service,2L-10L,High,<15,No,Low,<1L,Monthly
+<25,Tier2,Manufacturer,<50k,Low,15-30,No,Medium,1-5L,Monthly
+<25,Tier2,Service,50L+,Low,60-90,No,High,5-20L,Monthly
+45-54,Tier3,Distributor,10L-50L,High,90+,No,Low,20L+,Rare
+<25,Metro,Service,50k-2L,Medium,30-60,No,High,<1L,Weekly
+45-54,Metro,Retailer,50L+,Low,30-60,Yes,Medium,5-20L,Rare
+45-54,Tier3,Trader,<50k,Very High,90+,Yes,Low,5-20L,Rare
+<25,Tier3,Distributor,<50k,Low,15-30,Yes,Low,20L+,Monthly
+25-34,Tier3,Distributor,<50k,Medium,30-60,No,Low,5-20L,Rare
+25-34,Tier2,Retailer,<50k,Low,<15,No,High,5-20L,Monthly
+45-54,Tier3,Service,50k-2L,Very High,30-60,No,Low,5-20L,Weekly
+<25,Tier1,Trader,2L-10L,Very High,90+,Yes,Low,20L+,Monthly
+25-34,Tier2,Distributor,10L-50L,Very High,<15,Yes,Medium,<1L,Weekly
+<25,Metro,Trader,50k-2L,Medium,30-60,No,Low,5-20L,Monthly
+<25,Metro,Distributor,<50k,Medium,90+,Yes,High,<1L,Rare
+<25,Metro,Service,50k-2L,Very High,15-30,No,Medium,5-20L,Rare
+55+,Tier2,Distributor,50L+,Very High,90+,No,Medium,20L+,Monthly
+<25,Tier1,Distributor,<50k,Medium,15-30,Yes,Low,<1L,Weekly
+55+,Tier3,Manufacturer,10L-50L,Medium,<15,Yes,Medium,20L+,Weekly
+45-54,Tier3,Service,<50k,Medium,90+,Yes,Low,1-5L,Monthly
+25-34,Metro,Retailer,10L-50L,High,60-90,Yes,Medium,5-20L,Rare
+25-34,Metro,Retailer,10L-50L,Medium,60-90,No,High,1-5L,Weekly
+25-34,Tier2,Service,2L-10L,Very High,60-90,No,Low,1-5L,Monthly
+25-34,Tier1,Retailer,2L-10L,High,60-90,Yes,High,1-5L,Weekly
+25-34,Tier3,Service,50k-2L,Medium,60-90,Yes,Low,5-20L,Rare
+25-34,Tier2,Retailer,50k-2L,Very High,15-30,Yes,High,20L+,Weekly
+25-34,Tier3,Manufacturer,10L-50L,Low,90+,Yes,High,1-5L,Monthly
+45-54,Metro,Retailer,<50k,High,<15,No,Medium,<1L,Weekly
+<25,Tier3,Distributor,50L+,Very High,60-90,No,Low,5-20L,Weekly
+35-44,Tier1,Service,50L+,Low,60-90,No,Medium,20L+,Rare
+55+,Tier1,Trader,<50k,Very High,<15,No,High,20L+,Rare
+35-44,Metro,Trader,<50k,Medium,<15,No,Low,1-5L,Rare
+35-44,Tier1,Service,2L-10L,Medium,60-90,No,High,5-20L,Rare
+<25,Tier1,Manufacturer,50L+,Low,15-30,No,High,1-5L,Monthly
+<25,Tier2,Retailer,10L-50L,Medium,<15,Yes,High,<1L,Weekly
+<25,Tier3,Manufacturer,50k-2L,Very High,90+,No,High,20L+,Weekly
+25-34,Metro,Trader,2L-10L,Low,90+,Yes,Medium,20L+,Weekly
+45-54,Metro,Service,50L+,Very High,15-30,Yes,High,5-20L,Weekly
+25-34,Metro,Service,<50k,Very High,30-60,Yes,Medium,20L+,Monthly
+45-54,Metro,Manufacturer,50L+,Very High,15-30,No,High,5-20L,Rare
+45-54,Metro,Manufacturer,10L-50L,Medium,60-90,No,Low,1-5L,Weekly
+35-44,Tier1,Retailer,2L-10L,Medium,30-60,No,High,<1L,Weekly
+35-44,Tier2,Distributor,<50k,Very High,60-90,No,High,5-20L,Rare
+45-54,Metro,Distributor,10L-50L,High,90+,Yes,Low,1-5L,Rare
+45-54,Tier2,Retailer,50k-2L,Very High,<15,No,Low,<1L,Weekly
+25-34,Tier2,Distributor,2L-10L,Very High,60-90,Yes,High,20L+,Rare
+25-34,Tier1,Trader,10L-50L,Low,90+,No,High,<1L,Weekly
+35-44,Metro,Distributor,10L-50L,Very High,15-30,No,Medium,<1L,Weekly
+<25,Tier1,Retailer,<50k,Medium,60-90,Yes,Low,<1L,Weekly
+45-54,Metro,Distributor,50k-2L,Low,90+,Yes,Low,20L+,Weekly
+25-34,Tier1,Service,10L-50L,High,<15,Yes,Medium,5-20L,Weekly
+35-44,Tier2,Manufacturer,2L-10L,Low,60-90,No,High,5-20L,Weekly
+25-34,Metro,Trader,10L-50L,High,90+,No,High,<1L,Rare
+45-54,Tier3,Service,50L+,Low,60-90,Yes,Low,1-5L,Monthly
+45-54,Tier2,Service,2L-10L,Low,<15,No,Medium,1-5L,Monthly
+55+,Tier3,Retailer,2L-10L,High,60-90,Yes,High,<1L,Weekly
+<25,Tier2,Manufacturer,10L-50L,Medium,60-90,No,Low,<1L,Rare
+55+,Tier1,Manufacturer,<50k,Medium,90+,Yes,High,1-5L,Weekly
+35-44,Metro,Trader,2L-10L,Medium,30-60,Yes,High,<1L,Rare
+25-34,Tier2,Retailer,50L+,Low,60-90,No,High,<1L,Weekly
+35-44,Tier1,Trader,<50k,Very High,30-60,Yes,Low,5-20L,Weekly
+45-54,Metro,Distributor,<50k,Low,15-30,No,Medium,5-20L,Monthly
+55+,Metro,Service,<50k,Very High,60-90,No,Medium,<1L,Rare
+55+,Tier2,Trader,2L-10L,Very High,30-60,Yes,High,<1L,Rare
+55+,Metro,Service,<50k,Medium,15-30,Yes,Medium,20L+,Monthly
+35-44,Tier2,Retailer,10L-50L,Very High,90+,No,High,5-20L,Monthly
+45-54,Metro,Distributor,<50k,Low,60-90,No,Low,<1L,Monthly
+25-34,Tier3,Retailer,50L+,Low,90+,Yes,Low,20L+,Monthly
+25-34,Tier1,Distributor,50k-2L,Medium,15-30,Yes,Low,20L+,Rare
+35-44,Tier3,Distributor,50L+,High,90+,Yes,High,20L+,Rare
+55+,Tier2,Service,2L-10L,Low,90+,No,Medium,20L+,Monthly
+<25,Tier3,Retailer,<50k,Very High,<15,No,Low,5-20L,Weekly
+35-44,Tier2,Retailer,<50k,Low,15-30,No,High,20L+,Weekly
+35-44,Metro,Trader,10L-50L,Low,90+,Yes,Medium,5-20L,Weekly
+45-54,Metro,Retailer,<50k,Low,30-60,Yes,Medium,20L+,Weekly
+25-34,Tier2,Trader,50L+,High,15-30,No,Medium,20L+,Rare
+35-44,Tier3,Manufacturer,2L-10L,Very High,<15,No,High,1-5L,Rare
+35-44,Metro,Manufacturer,50k-2L,Medium,60-90,Yes,High,5-20L,Rare
+55+,Tier1,Manufacturer,<50k,Low,90+,No,High,1-5L,Weekly
+55+,Metro,Retailer,50k-2L,Very High,30-60,Yes,Low,1-5L,Monthly
+<25,Tier1,Retailer,<50k,Very High,<15,Yes,High,20L+,Weekly
+45-54,Tier3,Trader,2L-10L,Medium,15-30,Yes,Low,5-20L,Rare
+<25,Tier1,Distributor,50L+,Low,90+,No,Low,<1L,Weekly
+55+,Tier1,Trader,2L-10L,High,<15,No,Low,20L+,Monthly
+25-34,Tier1,Manufacturer,50k-2L,Very High,<15,Yes,High,5-20L,Monthly
+55+,Tier1,Trader,<50k,Medium,30-60,Yes,Low,1-5L,Weekly
+45-54,Metro,Distributor,50k-2L,High,60-90,No,High,5-20L,Rare
+55+,Tier1,Retailer,50L+,Very High,60-90,Yes,High,20L+,Rare
+45-54,Metro,Trader,2L-10L,Low,60-90,No,Low,5-20L,Rare
+45-54,Tier1,Manufacturer,50k-2L,Very High,15-30,No,Low,1-5L,Weekly
+45-54,Tier2,Manufacturer,50k-2L,High,<15,No,Low,5-20L,Rare
+45-54,Tier3,Retailer,50L+,High,15-30,Yes,High,5-20L,Weekly
+45-54,Tier1,Trader,<50k,Low,<15,Yes,High,1-5L,Rare
+25-34,Tier2,Distributor,50k-2L,Low,30-60,Yes,Low,20L+,Monthly
+<25,Tier1,Retailer,50L+,Medium,30-60,Yes,Low,<1L,Monthly
+35-44,Tier1,Trader,<50k,Low,15-30,No,Medium,1-5L,Rare
+<25,Tier1,Service,<50k,Medium,15-30,Yes,Low,1-5L,Weekly
+45-54,Tier2,Manufacturer,2L-10L,High,30-60,No,Medium,20L+,Rare
+25-34,Tier3,Distributor,50L+,High,90+,Yes,Medium,20L+,Weekly
+55+,Tier2,Distributor,<50k,Very High,60-90,Yes,High,5-20L,Monthly
+25-34,Tier3,Distributor,2L-10L,Very High,60-90,Yes,High,1-5L,Weekly
+45-54,Tier1,Manufacturer,10L-50L,Medium,30-60,Yes,Medium,5-20L,Rare
+25-34,Metro,Trader,50L+,Low,60-90,Yes,Medium,5-20L,Monthly
+25-34,Tier1,Retailer,10L-50L,Low,90+,No,Low,20L+,Weekly
+45-54,Tier3,Trader,<50k,Very High,90+,Yes,Medium,20L+,Weekly
+25-34,Tier2,Retailer,50L+,High,<15,Yes,Low,5-20L,Monthly
+35-44,Tier1,Distributor,2L-10L,Medium,15-30,Yes,High,1-5L,Rare
+35-44,Tier2,Trader,<50k,High,60-90,Yes,Low,1-5L,Monthly
+25-34,Tier2,Distributor,50L+,High,90+,Yes,High,5-20L,Rare
+55+,Tier2,Service,50L+,Low,15-30,No,Medium,<1L,Rare
+45-54,Tier1,Distributor,10L-50L,Medium,15-30,Yes,Medium,<1L,Weekly
+35-44,Tier2,Distributor,<50k,High,<15,No,Medium,20L+,Rare
+55+,Tier2,Retailer,2L-10L,Very High,15-30,Yes,Low,1-5L,Rare
+25-34,Tier1,Service,2L-10L,Very High,15-30,No,High,5-20L,Monthly
+55+,Tier2,Distributor,<50k,Low,30-60,Yes,High,5-20L,Monthly
+<25,Tier1,Distributor,<50k,Very High,<15,Yes,High,1-5L,Rare
+35-44,Tier3,Service,50k-2L,Very High,<15,No,High,20L+,Weekly
+25-34,Tier3,Service,10L-50L,High,60-90,Yes,High,20L+,Monthly
+45-54,Tier3,Trader,<50k,Very High,15-30,No,Low,<1L,Weekly
+25-34,Tier2,Retailer,<50k,Very High,60-90,Yes,High,1-5L,Monthly
+45-54,Metro,Service,50k-2L,High,90+,No,Medium,1-5L,Monthly
+25-34,Metro,Service,50k-2L,Low,15-30,No,High,5-20L,Rare
+55+,Tier2,Manufacturer,50L+,Low,90+,No,Medium,1-5L,Monthly
+55+,Metro,Service,2L-10L,Medium,30-60,Yes,Low,<1L,Monthly
+55+,Tier1,Retailer,10L-50L,Very High,15-30,No,Low,1-5L,Weekly
+<25,Metro,Distributor,50L+,High,60-90,Yes,Medium,5-20L,Monthly
+45-54,Tier2,Distributor,<50k,Medium,60-90,No,High,<1L,Monthly
+55+,Tier2,Distributor,50k-2L,Low,15-30,No,Low,5-20L,Weekly
+<25,Tier1,Distributor,2L-10L,Low,60-90,No,Low,1-5L,Rare
+45-54,Tier3,Manufacturer,50L+,High,15-30,Yes,Low,20L+,Rare
+25-34,Tier2,Service,2L-10L,Medium,<15,Yes,High,1-5L,Monthly
+<25,Tier1,Distributor,50k-2L,Medium,60-90,Yes,Medium,1-5L,Monthly
+35-44,Metro,Trader,50L+,High,15-30,No,Medium,5-20L,Weekly
+<25,Metro,Distributor,50L+,High,15-30,Yes,High,20L+,Rare
+<25,Tier1,Service,2L-10L,Medium,60-90,Yes,Low,1-5L,Rare
+45-54,Tier1,Distributor,50k-2L,Low,<15,No,High,<1L,Rare
+25-34,Tier2,Manufacturer,<50k,Very High,60-90,No,High,<1L,Weekly
+35-44,Metro,Retailer,50L+,Low,15-30,Yes,Medium,5-20L,Weekly
+55+,Tier1,Retailer,<50k,High,<15,Yes,High,5-20L,Weekly
+55+,Metro,Service,50k-2L,Medium,90+,Yes,High,20L+,Monthly
+<25,Tier1,Retailer,50L+,Medium,30-60,No,Low,5-20L,Rare
+45-54,Metro,Retailer,50L+,Very High,60-90,No,Low,20L+,Monthly
+45-54,Tier3,Trader,<50k,Medium,15-30,No,Medium,1-5L,Monthly
+55+,Tier2,Service,10L-50L,Very High,<15,No,Low,<1L,Weekly
+35-44,Metro,Service,<50k,Low,<15,No,High,<1L,Rare
+25-34,Tier3,Retailer,<50k,Low,90+,Yes,High,<1L,Monthly
+35-44,Metro,Retailer,10L-50L,Medium,60-90,Yes,High,5-20L,Rare
+25-34,Metro,Retailer,50k-2L,Medium,<15,Yes,Medium,5-20L,Monthly
+55+,Tier3,Manufacturer,50k-2L,High,90+,No,Low,1-5L,Weekly
+25-34,Metro,Distributor,50L+,High,15-30,No,High,5-20L,Monthly
+45-54,Metro,Manufacturer,2L-10L,Medium,90+,Yes,Low,20L+,Weekly
+<25,Tier2,Service,2L-10L,Medium,60-90,Yes,Low,<1L,Rare
+<25,Tier3,Trader,50L+,Low,90+,Yes,Low,1-5L,Monthly
+55+,Tier3,Distributor,2L-10L,Medium,<15,No,Low,20L+,Monthly
+45-54,Tier1,Trader,<50k,High,<15,No,Medium,20L+,Weekly
+35-44,Metro,Service,<50k,Low,30-60,No,Medium,5-20L,Weekly
+45-54,Tier2,Service,10L-50L,Very High,90+,No,Medium,5-20L,Rare
+<25,Metro,Trader,10L-50L,High,15-30,No,High,<1L,Weekly
+<25,Metro,Trader,50L+,High,60-90,Yes,High,1-5L,Rare
+45-54,Tier1,Trader,50L+,Low,30-60,Yes,High,20L+,Monthly
+45-54,Metro,Service,50L+,Very High,90+,No,Medium,5-20L,Rare
+<25,Tier2,Retailer,<50k,High,15-30,No,Low,5-20L,Rare
+35-44,Tier2,Trader,2L-10L,Medium,30-60,Yes,Medium,1-5L,Rare
+55+,Tier1,Distributor,50L+,High,<15,No,High,1-5L,Monthly
+55+,Metro,Service,50L+,Low,60-90,No,High,5-20L,Monthly
+45-54,Tier2,Manufacturer,<50k,Low,90+,Yes,Low,5-20L,Weekly
+55+,Metro,Manufacturer,<50k,Low,15-30,No,Medium,<1L,Rare
+<25,Metro,Distributor,<50k,High,<15,No,Low,1-5L,Monthly
+<25,Metro,Retailer,2L-10L,Very High,30-60,Yes,Medium,20L+,Rare
+45-54,Tier1,Trader,50L+,Medium,60-90,No,High,5-20L,Rare
+45-54,Metro,Service,50k-2L,Low,30-60,No,Low,5-20L,Rare
+45-54,Tier2,Trader,50k-2L,Very High,30-60,Yes,Low,5-20L,Monthly
+35-44,Metro,Service,50L+,Medium,15-30,Yes,Medium,5-20L,Rare
+55+,Tier2,Manufacturer,50L+,Low,<15,No,Medium,<1L,Rare
+45-54,Metro,Trader,50L+,Medium,90+,Yes,Medium,1-5L,Weekly
+25-34,Tier2,Distributor,50L+,Medium,15-30,Yes,High,5-20L,Rare
+25-34,Tier2,Retailer,2L-10L,Very High,60-90,No,Medium,1-5L,Weekly
+<25,Metro,Distributor,50k-2L,Medium,30-60,Yes,High,20L+,Rare
+55+,Metro,Retailer,10L-50L,Low,60-90,No,Medium,20L+,Weekly
+45-54,Tier2,Trader,50k-2L,Very High,15-30,Yes,Medium,20L+,Monthly
+25-34,Tier3,Trader,50k-2L,High,15-30,Yes,High,20L+,Monthly
+55+,Tier1,Retailer,<50k,High,90+,No,Medium,1-5L,Rare
+<25,Tier3,Manufacturer,50L+,Very High,30-60,No,High,20L+,Weekly
+35-44,Tier3,Service,50L+,High,15-30,No,High,20L+,Monthly
+55+,Metro,Distributor,50L+,Medium,60-90,Yes,Medium,5-20L,Rare
+55+,Tier1,Distributor,<50k,Low,90+,No,Medium,5-20L,Rare
+35-44,Tier3,Distributor,2L-10L,Medium,60-90,No,Low,5-20L,Weekly
+55+,Metro,Trader,2L-10L,Very High,30-60,Yes,Medium,<1L,Weekly
+<25,Tier3,Distributor,10L-50L,Low,90+,Yes,Low,5-20L,Rare
+<25,Tier3,Service,2L-10L,Very High,90+,Yes,Medium,20L+,Weekly
+35-44,Metro,Service,2L-10L,Very High,90+,No,High,1-5L,Weekly
+45-54,Metro,Retailer,50L+,Very High,<15,Yes,High,20L+,Monthly
+25-34,Metro,Trader,50k-2L,Medium,90+,Yes,Low,1-5L,Weekly
+45-54,Tier1,Service,2L-10L,Low,60-90,No,Medium,20L+,Rare
+55+,Tier3,Manufacturer,2L-10L,Low,60-90,Yes,Low,<1L,Weekly
+25-34,Metro,Trader,<50k,Low,30-60,Yes,Medium,5-20L,Rare
+35-44,Tier2,Trader,10L-50L,Medium,15-30,No,Medium,20L+,Rare
+35-44,Tier3,Service,<50k,High,15-30,Yes,High,5-20L,Weekly
+25-34,Tier2,Manufacturer,50L+,Medium,<15,No,Low,<1L,Weekly
+<25,Tier1,Retailer,50k-2L,Medium,90+,No,High,<1L,Weekly
+25-34,Metro,Service,10L-50L,Very High,<15,No,High,5-20L,Monthly
+55+,Tier2,Manufacturer,<50k,Low,30-60,No,High,5-20L,Monthly
+<25,Tier1,Trader,2L-10L,Low,30-60,No,Low,1-5L,Weekly
+35-44,Metro,Manufacturer,2L-10L,High,15-30,Yes,Medium,5-20L,Rare
+25-34,Tier2,Trader,10L-50L,High,30-60,No,Medium,5-20L,Weekly
+45-54,Tier2,Service,2L-10L,Very High,90+,No,Low,1-5L,Monthly
+45-54,Tier1,Service,<50k,Low,60-90,No,Medium,20L+,Monthly
+55+,Metro,Distributor,<50k,High,30-60,No,Low,1-5L,Weekly
+45-54,Metro,Distributor,2L-10L,High,<15,Yes,Low,20L+,Rare
+25-34,Tier2,Distributor,2L-10L,Low,90+,Yes,Medium,20L+,Rare
+25-34,Tier2,Service,50L+,Medium,30-60,Yes,High,20L+,Monthly
+45-54,Tier2,Retailer,50k-2L,High,30-60,No,Low,1-5L,Monthly
+25-34,Metro,Service,10L-50L,Low,90+,Yes,Low,1-5L,Monthly
+55+,Tier1,Manufacturer,<50k,High,30-60,Yes,Low,<1L,Rare
+<25,Tier1,Service,10L-50L,Very High,60-90,No,Low,20L+,Monthly
+55+,Metro,Service,50L+,High,15-30,No,Medium,1-5L,Monthly
+55+,Tier3,Trader,<50k,Low,90+,Yes,Medium,<1L,Rare
+25-34,Tier1,Trader,50L+,High,<15,Yes,Low,20L+,Monthly
+<25,Tier2,Trader,50L+,Very High,30-60,Yes,High,1-5L,Monthly
+25-34,Tier3,Service,2L-10L,Very High,15-30,Yes,Medium,1-5L,Weekly
+35-44,Tier3,Retailer,10L-50L,High,<15,No,High,1-5L,Monthly
+25-34,Tier1,Manufacturer,10L-50L,High,<15,No,High,5-20L,Weekly
+25-34,Tier3,Manufacturer,2L-10L,Very High,60-90,No,Low,<1L,Monthly
+25-34,Tier3,Retailer,10L-50L,Very High,15-30,No,Medium,1-5L,Monthly
+<25,Tier1,Retailer,2L-10L,Medium,90+,No,Low,5-20L,Weekly
+25-34,Tier1,Manufacturer,<50k,Medium,15-30,Yes,Low,<1L,Monthly
+<25,Tier3,Distributor,50L+,Very High,15-30,No,High,<1L,Weekly
+45-54,Tier2,Trader,50L+,High,<15,No,High,5-20L,Monthly
+35-44,Metro,Trader,10L-50L,Low,60-90,Yes,High,<1L,Weekly
+<25,Tier3,Manufacturer,50k-2L,High,60-90,No,Low,5-20L,Weekly
+45-54,Tier3,Retailer,50L+,High,15-30,Yes,Low,20L+,Monthly
+<25,Tier2,Distributor,2L-10L,Medium,15-30,No,Low,1-5L,Monthly
+<25,Tier3,Manufacturer,50k-2L,Medium,30-60,No,Low,5-20L,Weekly
+35-44,Tier3,Trader,50k-2L,Medium,<15,No,Low,<1L,Rare
+55+,Metro,Service,50L+,Very High,90+,Yes,Low,<1L,Monthly
+55+,Metro,Retailer,50L+,Very High,90+,No,Low,20L+,Monthly
+<25,Metro,Service,50L+,High,60-90,Yes,Low,20L+,Rare
+25-34,Tier1,Manufacturer,2L-10L,High,<15,No,Medium,20L+,Rare
+45-54,Tier1,Trader,50k-2L,Low,60-90,No,Medium,20L+,Weekly
+25-34,Metro,Distributor,10L-50L,High,90+,Yes,Medium,20L+,Monthly
+25-34,Metro,Service,2L-10L,High,15-30,Yes,Medium,1-5L,Weekly
+<25,Tier1,Distributor,<50k,Medium,<15,No,Low,5-20L,Monthly
+<25,Tier2,Trader,50L+,Medium,<15,Yes,Low,20L+,Rare
+<25,Tier3,Service,50k-2L,Medium,30-60,No,High,20L+,Weekly
+<25,Tier3,Distributor,2L-10L,Medium,15-30,No,High,1-5L,Monthly
+55+,Metro,Distributor,<50k,Medium,15-30,Yes,Medium,5-20L,Monthly
+<25,Tier2,Service,2L-10L,Low,60-90,Yes,High,20L+,Rare
+55+,Tier1,Trader,2L-10L,Low,<15,Yes,Medium,5-20L,Rare
+55+,Metro,Distributor,10L-50L,Low,60-90,No,Low,5-20L,Monthly
+<25,Tier2,Manufacturer,10L-50L,Medium,15-30,Yes,Low,1-5L,Rare
+35-44,Tier2,Service,2L-10L,Very High,30-60,No,High,1-5L,Rare
+45-54,Tier2,Retailer,<50k,Medium,<15,Yes,Low,20L+,Weekly
+25-34,Tier1,Retailer,50k-2L,Medium,15-30,Yes,Low,<1L,Monthly
+55+,Tier1,Trader,50k-2L,Low,30-60,Yes,Medium,1-5L,Weekly
+45-54,Tier3,Manufacturer,50L+,Medium,90+,Yes,High,5-20L,Rare
+35-44,Tier3,Distributor,50L+,Low,15-30,Yes,Low,5-20L,Monthly
+25-34,Tier2,Retailer,50k-2L,Medium,90+,No,High,20L+,Rare
+25-34,Tier2,Trader,2L-10L,High,60-90,Yes,Low,20L+,Rare
+55+,Tier1,Manufacturer,2L-10L,Very High,90+,Yes,Medium,20L+,Monthly
+<25,Tier3,Manufacturer,10L-50L,Very High,15-30,No,Low,5-20L,Rare
+35-44,Tier2,Trader,10L-50L,Low,90+,No,High,1-5L,Weekly
+55+,Tier3,Trader,50L+,High,<15,No,High,<1L,Monthly
+35-44,Tier3,Distributor,50k-2L,Very High,15-30,No,Medium,1-5L,Rare
+<25,Tier2,Trader,2L-10L,Low,30-60,Yes,Low,<1L,Rare
+<25,Tier1,Distributor,50k-2L,Medium,90+,Yes,Medium,1-5L,Rare
+55+,Tier2,Distributor,<50k,Medium,<15,No,High,20L+,Monthly
+<25,Tier2,Service,50k-2L,High,60-90,Yes,Medium,5-20L,Weekly
+45-54,Tier3,Manufacturer,<50k,Very High,60-90,No,Low,<1L,Rare
+25-34,Tier2,Manufacturer,10L-50L,Medium,90+,No,Low,1-5L,Rare
+55+,Tier1,Manufacturer,10L-50L,Low,60-90,Yes,Medium,5-20L,Rare
+35-44,Tier2,Service,50L+,Medium,30-60,Yes,High,<1L,Monthly
+45-54,Tier1,Distributor,50k-2L,Medium,15-30,No,High,<1L,Rare
+55+,Tier1,Distributor,50k-2L,Very High,<15,Yes,Medium,5-20L,Rare
+<25,Tier3,Trader,<50k,Very High,90+,No,Low,20L+,Rare
+<25,Metro,Service,10L-50L,Low,60-90,No,Low,5-20L,Monthly
+<25,Metro,Trader,<50k,High,15-30,No,Low,20L+,Weekly
+<25,Tier3,Service,10L-50L,High,30-60,No,Low,1-5L,Monthly
+35-44,Tier2,Trader,<50k,Medium,60-90,Yes,High,1-5L,Weekly
+45-54,Tier3,Retailer,10L-50L,Low,60-90,No,Low,5-20L,Weekly
+25-34,Tier1,Manufacturer,<50k,High,<15,No,Medium,20L+,Monthly
+35-44,Metro,Manufacturer,10L-50L,High,30-60,No,Medium,1-5L,Rare
+35-44,Tier3,Distributor,<50k,Medium,30-60,Yes,Medium,20L+,Weekly
+25-34,Tier2,Retailer,50k-2L,Low,90+,No,Medium,20L+,Rare
+25-34,Tier3,Manufacturer,50L+,High,<15,No,Low,20L+,Weekly
+<25,Metro,Distributor,<50k,Very High,90+,Yes,High,5-20L,Rare
+35-44,Tier3,Retailer,50L+,Very High,<15,No,Low,20L+,Rare
+55+,Tier3,Manufacturer,50k-2L,Medium,30-60,No,High,5-20L,Monthly
+25-34,Metro,Trader,50k-2L,Medium,<15,No,Low,1-5L,Rare
+25-34,Tier1,Service,10L-50L,Medium,<15,No,High,1-5L,Weekly
+45-54,Tier1,Retailer,50L+,Medium,<15,Yes,Medium,<1L,Rare
+55+,Metro,Distributor,2L-10L,High,15-30,Yes,Medium,<1L,Rare
+55+,Tier3,Retailer,10L-50L,Low,15-30,Yes,High,1-5L,Rare
+25-34,Metro,Distributor,50L+,Medium,30-60,No,High,20L+,Weekly
+<25,Tier1,Retailer,<50k,Medium,<15,Yes,High,20L+,Weekly
+45-54,Tier2,Distributor,<50k,High,30-60,Yes,Medium,1-5L,Weekly
+55+,Tier3,Manufacturer,50k-2L,Medium,15-30,No,Medium,1-5L,Rare
+25-34,Tier1,Trader,2L-10L,Medium,<15,Yes,Low,<1L,Monthly
+55+,Tier3,Manufacturer,<50k,Low,90+,Yes,High,20L+,Weekly
+45-54,Metro,Trader,50L+,Very High,15-30,Yes,High,1-5L,Rare
+45-54,Tier2,Manufacturer,50L+,Medium,15-30,No,High,<1L,Weekly
+35-44,Metro,Manufacturer,<50k,High,15-30,No,Medium,<1L,Monthly
+25-34,Tier2,Retailer,50L+,Low,<15,Yes,High,20L+,Rare
+45-54,Tier3,Service,50L+,High,60-90,Yes,High,<1L,Weekly
+35-44,Tier3,Distributor,50k-2L,Low,90+,No,Medium,<1L,Weekly
+35-44,Metro,Distributor,2L-10L,Low,90+,No,High,5-20L,Monthly
+55+,Tier2,Distributor,50k-2L,Medium,30-60,No,Low,1-5L,Weekly
+55+,Tier2,Trader,2L-10L,Medium,<15,No,Medium,20L+,Rare
+35-44,Tier3,Distributor,50L+,Medium,15-30,Yes,Medium,1-5L,Rare
+55+,Metro,Distributor,2L-10L,Very High,60-90,No,Medium,5-20L,Monthly
+45-54,Tier2,Retailer,50L+,Very High,<15,Yes,Low,20L+,Monthly
+<25,Tier3,Manufacturer,50L+,High,<15,No,Medium,1-5L,Monthly
+45-54,Tier1,Distributor,50k-2L,Medium,60-90,No,Medium,<1L,Rare
+35-44,Metro,Service,50k-2L,Very High,15-30,No,Medium,20L+,Monthly
+35-44,Tier1,Distributor,10L-50L,Medium,<15,No,Medium,5-20L,Weekly
+45-54,Metro,Trader,<50k,Very High,90+,Yes,Low,<1L,Weekly
+55+,Tier3,Trader,10L-50L,Very High,90+,Yes,High,5-20L,Rare
+55+,Tier2,Trader,10L-50L,Low,60-90,Yes,High,<1L,Weekly
+35-44,Tier2,Distributor,2L-10L,Medium,15-30,No,Medium,1-5L,Monthly
+25-34,Tier2,Retailer,50L+,Medium,60-90,Yes,Low,1-5L,Weekly
+55+,Metro,Service,50L+,Very High,<15,No,Medium,1-5L,Monthly
+45-54,Tier3,Distributor,50L+,Medium,90+,No,High,5-20L,Weekly
+55+,Tier1,Retailer,<50k,Very High,30-60,Yes,High,20L+,Rare
+45-54,Tier3,Retailer,2L-10L,Medium,60-90,No,Low,1-5L,Monthly
+35-44,Tier1,Distributor,2L-10L,Low,30-60,No,High,5-20L,Weekly
+55+,Metro,Distributor,50L+,Medium,30-60,Yes,Medium,<1L,Rare
+45-54,Metro,Retailer,10L-50L,Low,90+,No,Low,1-5L,Weekly
+35-44,Tier1,Retailer,<50k,High,60-90,No,High,<1L,Rare
+25-34,Tier1,Retailer,10L-50L,Medium,30-60,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Distributor,50k-2L,Medium,<15,Yes,Low,<1L,Monthly
+25-34,Tier3,Retailer,2L-10L,Medium,15-30,No,Medium,5-20L,Monthly
+25-34,Tier1,Trader,2L-10L,Low,15-30,Yes,High,1-5L,Monthly
+<25,Metro,Distributor,10L-50L,Medium,90+,No,Medium,5-20L,Monthly
+55+,Metro,Trader,<50k,Medium,60-90,Yes,Low,5-20L,Monthly
+45-54,Tier2,Manufacturer,2L-10L,Very High,60-90,No,Medium,<1L,Weekly
+25-34,Tier1,Distributor,10L-50L,High,15-30,Yes,High,1-5L,Weekly
+<25,Tier3,Manufacturer,<50k,Low,<15,Yes,Low,20L+,Weekly
+35-44,Tier3,Retailer,10L-50L,Very High,15-30,No,Low,20L+,Weekly
+45-54,Tier3,Retailer,<50k,Low,15-30,Yes,High,5-20L,Monthly
+25-34,Tier2,Service,50L+,Very High,60-90,Yes,Medium,<1L,Rare
+55+,Metro,Retailer,<50k,High,30-60,No,Medium,<1L,Monthly
+<25,Tier3,Manufacturer,50k-2L,Very High,<15,Yes,High,<1L,Weekly
+25-34,Metro,Retailer,50L+,Low,60-90,Yes,Low,1-5L,Monthly
+55+,Tier2,Distributor,10L-50L,Medium,15-30,Yes,High,1-5L,Monthly
+25-34,Tier1,Retailer,50L+,Medium,30-60,No,Low,<1L,Monthly
+45-54,Tier1,Service,50L+,High,<15,Yes,Low,20L+,Rare
+45-54,Tier1,Retailer,10L-50L,Low,90+,No,Medium,20L+,Monthly
+45-54,Tier3,Manufacturer,10L-50L,Low,<15,No,High,1-5L,Monthly
+<25,Tier1,Manufacturer,50k-2L,Low,<15,Yes,Low,<1L,Rare
+45-54,Tier3,Retailer,10L-50L,High,15-30,No,Medium,20L+,Monthly
+55+,Tier2,Manufacturer,2L-10L,Medium,15-30,No,High,20L+,Monthly
+25-34,Tier2,Manufacturer,2L-10L,Very High,90+,No,High,1-5L,Monthly
+35-44,Tier3,Service,50k-2L,High,90+,No,Low,1-5L,Monthly
+55+,Metro,Distributor,<50k,Very High,90+,Yes,Low,20L+,Monthly
+55+,Tier1,Service,<50k,Medium,60-90,Yes,Low,<1L,Weekly
+45-54,Tier1,Trader,2L-10L,High,60-90,Yes,High,20L+,Monthly
+<25,Tier1,Service,10L-50L,Medium,15-30,No,Low,20L+,Rare
+25-34,Tier3,Retailer,50k-2L,Very High,15-30,No,High,<1L,Monthly
+<25,Tier2,Distributor,<50k,Low,90+,Yes,Medium,1-5L,Weekly
+25-34,Tier1,Retailer,<50k,Low,60-90,No,High,<1L,Rare
+25-34,Tier2,Trader,50L+,Very High,30-60,Yes,Low,<1L,Rare
+<25,Tier1,Distributor,2L-10L,Low,60-90,No,High,<1L,Monthly
+55+,Tier1,Manufacturer,10L-50L,Very High,15-30,Yes,Low,<1L,Weekly
+25-34,Tier3,Service,50k-2L,High,60-90,Yes,Medium,1-5L,Monthly
+<25,Metro,Retailer,<50k,High,15-30,Yes,Low,20L+,Weekly
+25-34,Tier3,Trader,50L+,High,90+,No,Low,5-20L,Weekly
+35-44,Tier1,Manufacturer,2L-10L,Low,90+,Yes,Low,1-5L,Monthly
+55+,Tier1,Service,2L-10L,Medium,90+,No,Low,<1L,Weekly
+45-54,Metro,Manufacturer,50k-2L,Low,30-60,No,Low,20L+,Monthly
+25-34,Tier2,Service,<50k,Low,30-60,Yes,Low,20L+,Weekly
+35-44,Tier2,Distributor,50k-2L,Medium,15-30,Yes,Medium,<1L,Rare
+45-54,Tier1,Manufacturer,50k-2L,Medium,<15,No,Medium,1-5L,Monthly
+45-54,Tier2,Manufacturer,50L+,Medium,30-60,No,High,<1L,Weekly
+25-34,Tier1,Manufacturer,2L-10L,Medium,15-30,Yes,Low,20L+,Rare
+<25,Metro,Distributor,10L-50L,Low,60-90,Yes,High,20L+,Rare
+25-34,Metro,Trader,2L-10L,Very High,90+,No,Medium,1-5L,Rare
+35-44,Tier1,Service,2L-10L,High,90+,Yes,Medium,5-20L,Rare
+45-54,Metro,Manufacturer,50L+,Very High,90+,Yes,Low,<1L,Monthly
+25-34,Tier3,Distributor,10L-50L,Low,15-30,Yes,Low,5-20L,Weekly
+<25,Tier3,Trader,<50k,Medium,90+,Yes,High,20L+,Rare
+25-34,Metro,Service,10L-50L,High,30-60,No,Medium,5-20L,Weekly
+55+,Tier1,Distributor,<50k,High,60-90,No,High,<1L,Weekly
+<25,Tier1,Service,10L-50L,Very High,90+,Yes,High,<1L,Weekly
+35-44,Metro,Manufacturer,50k-2L,Low,15-30,Yes,High,20L+,Monthly
+45-54,Tier2,Trader,10L-50L,Low,60-90,No,Low,1-5L,Monthly
+25-34,Tier3,Distributor,50L+,Low,90+,No,Medium,1-5L,Rare
+<25,Tier2,Trader,<50k,High,<15,No,High,20L+,Weekly
+55+,Tier1,Manufacturer,2L-10L,Very High,90+,No,Medium,<1L,Monthly
+<25,Tier1,Trader,50L+,High,30-60,No,Medium,1-5L,Monthly
+55+,Tier2,Trader,<50k,High,60-90,Yes,High,5-20L,Monthly
+35-44,Metro,Retailer,<50k,Medium,30-60,Yes,High,20L+,Rare
+45-54,Tier2,Trader,2L-10L,Very High,<15,No,Low,5-20L,Monthly
+35-44,Tier2,Service,50k-2L,Medium,<15,No,Medium,<1L,Weekly
+25-34,Tier3,Distributor,50L+,Low,30-60,Yes,High,1-5L,Monthly
+<25,Tier3,Retailer,2L-10L,High,60-90,No,High,<1L,Monthly
+55+,Tier2,Distributor,2L-10L,Very High,<15,No,Medium,5-20L,Rare
+55+,Tier2,Distributor,50k-2L,Low,<15,Yes,High,<1L,Weekly
+<25,Tier1,Manufacturer,50L+,Very High,90+,Yes,Medium,<1L,Monthly
+<25,Tier3,Manufacturer,2L-10L,High,15-30,Yes,High,20L+,Weekly
+25-34,Tier3,Retailer,50k-2L,Very High,<15,Yes,Medium,20L+,Weekly
+35-44,Tier1,Manufacturer,50L+,Low,60-90,No,High,<1L,Monthly
+55+,Metro,Manufacturer,10L-50L,Medium,60-90,Yes,High,20L+,Rare
+25-34,Tier3,Manufacturer,<50k,High,90+,No,Low,<1L,Weekly
+35-44,Tier3,Distributor,50k-2L,Medium,60-90,No,Medium,5-20L,Monthly
+25-34,Metro,Retailer,<50k,High,90+,No,Low,20L+,Weekly
+55+,Tier3,Distributor,10L-50L,Low,<15,No,High,<1L,Weekly
+<25,Tier3,Service,2L-10L,High,<15,Yes,Medium,20L+,Weekly
+<25,Metro,Distributor,2L-10L,Medium,<15,No,Medium,<1L,Monthly
+35-44,Metro,Service,50L+,High,<15,No,High,20L+,Weekly
+45-54,Tier2,Trader,50k-2L,Low,15-30,No,High,1-5L,Weekly
+35-44,Tier1,Trader,50k-2L,High,15-30,Yes,High,<1L,Rare
+45-54,Tier1,Service,50L+,Medium,<15,Yes,High,1-5L,Monthly
+25-34,Metro,Service,<50k,Low,60-90,Yes,Medium,<1L,Monthly
+25-34,Metro,Distributor,2L-10L,Medium,90+,Yes,Low,1-5L,Weekly
+55+,Tier3,Service,2L-10L,High,30-60,Yes,Medium,<1L,Rare
+45-54,Tier2,Retailer,50k-2L,Very High,90+,No,Medium,20L+,Weekly
+55+,Tier2,Trader,50k-2L,Medium,30-60,Yes,Medium,1-5L,Weekly
+<25,Metro,Trader,50L+,High,30-60,No,Medium,20L+,Monthly
+45-54,Tier3,Service,10L-50L,Very High,<15,Yes,High,<1L,Rare
+35-44,Tier3,Manufacturer,<50k,Very High,30-60,No,Low,20L+,Weekly
+<25,Tier1,Manufacturer,10L-50L,Low,<15,Yes,Medium,<1L,Monthly
+<25,Tier1,Service,10L-50L,Very High,15-30,No,Medium,20L+,Weekly
+35-44,Tier3,Retailer,50k-2L,Medium,60-90,Yes,Low,1-5L,Weekly
+<25,Tier1,Manufacturer,50k-2L,Medium,30-60,No,High,<1L,Rare
+45-54,Metro,Service,50k-2L,Very High,60-90,No,Medium,20L+,Rare
+55+,Tier3,Retailer,10L-50L,High,<15,No,High,<1L,Rare
+<25,Tier1,Retailer,<50k,Medium,30-60,No,Medium,<1L,Weekly
+45-54,Tier2,Distributor,50k-2L,Medium,90+,No,Medium,<1L,Rare
+25-34,Tier3,Retailer,2L-10L,Low,15-30,No,Low,5-20L,Monthly
+45-54,Tier3,Manufacturer,<50k,High,15-30,Yes,Low,<1L,Weekly
+55+,Tier2,Manufacturer,2L-10L,Very High,30-60,Yes,High,20L+,Rare
+45-54,Metro,Service,<50k,High,15-30,No,Medium,5-20L,Weekly
+35-44,Tier2,Service,50k-2L,Low,90+,No,High,20L+,Weekly
+55+,Tier3,Retailer,50L+,Low,60-90,No,Low,5-20L,Monthly
+25-34,Metro,Trader,50k-2L,High,90+,No,Low,<1L,Monthly
+35-44,Tier1,Distributor,10L-50L,Low,15-30,No,Low,1-5L,Monthly
+45-54,Tier1,Trader,10L-50L,Low,60-90,No,Low,1-5L,Weekly
+55+,Tier1,Retailer,<50k,Low,90+,No,Low,<1L,Weekly
+25-34,Tier3,Retailer,10L-50L,High,<15,Yes,High,5-20L,Monthly
+35-44,Tier2,Trader,50k-2L,Low,<15,No,High,20L+,Weekly
+25-34,Metro,Distributor,2L-10L,Very High,60-90,No,Low,1-5L,Monthly
+45-54,Tier1,Trader,50k-2L,Very High,60-90,Yes,Medium,<1L,Monthly
+25-34,Metro,Service,<50k,Medium,60-90,Yes,Medium,<1L,Rare
+<25,Tier3,Manufacturer,10L-50L,Very High,<15,No,Medium,5-20L,Monthly
+35-44,Tier1,Service,2L-10L,Medium,90+,Yes,Medium,1-5L,Rare
+25-34,Tier3,Manufacturer,50L+,High,60-90,Yes,Medium,<1L,Monthly
+45-54,Tier2,Retailer,2L-10L,Low,<15,Yes,Low,1-5L,Weekly
+45-54,Tier3,Distributor,2L-10L,Very High,60-90,No,High,20L+,Rare
+25-34,Tier3,Trader,50k-2L,Medium,60-90,No,Low,<1L,Weekly
+45-54,Tier2,Distributor,50L+,High,60-90,Yes,Medium,<1L,Weekly
+55+,Metro,Trader,<50k,Medium,<15,No,Medium,20L+,Monthly
+55+,Tier2,Service,<50k,Low,90+,No,High,<1L,Monthly
+55+,Tier2,Service,2L-10L,Very High,<15,No,Low,5-20L,Weekly
+<25,Tier3,Trader,2L-10L,High,<15,Yes,High,20L+,Monthly
+25-34,Metro,Distributor,10L-50L,Medium,60-90,Yes,Medium,5-20L,Monthly
+<25,Tier1,Trader,50L+,High,30-60,Yes,Medium,20L+,Monthly
+45-54,Tier2,Retailer,2L-10L,Medium,30-60,Yes,High,20L+,Weekly
+<25,Metro,Service,10L-50L,Medium,30-60,No,Medium,5-20L,Rare
+45-54,Tier2,Retailer,50L+,Low,<15,No,Low,20L+,Rare
+45-54,Tier2,Service,<50k,Low,60-90,No,Medium,1-5L,Weekly
+35-44,Tier2,Service,10L-50L,Medium,30-60,Yes,Medium,5-20L,Monthly
+55+,Tier2,Manufacturer,50L+,Very High,15-30,Yes,Low,20L+,Monthly
+45-54,Tier3,Retailer,10L-50L,High,15-30,No,Medium,5-20L,Rare
+35-44,Metro,Retailer,2L-10L,High,15-30,Yes,High,20L+,Weekly
+55+,Metro,Manufacturer,50k-2L,Low,90+,Yes,High,20L+,Weekly
+45-54,Metro,Distributor,<50k,Very High,60-90,No,Medium,1-5L,Monthly
+45-54,Tier2,Retailer,2L-10L,Medium,<15,Yes,Low,1-5L,Monthly
+<25,Tier3,Trader,2L-10L,Low,<15,Yes,Low,1-5L,Monthly
+<25,Tier2,Manufacturer,50L+,Medium,60-90,No,High,20L+,Weekly
+55+,Tier2,Retailer,10L-50L,Medium,90+,Yes,Medium,1-5L,Rare
+45-54,Metro,Distributor,<50k,Low,60-90,No,Low,5-20L,Weekly
+25-34,Tier2,Retailer,2L-10L,Very High,90+,No,Low,20L+,Weekly
+<25,Tier1,Service,50L+,High,30-60,Yes,High,5-20L,Weekly
+55+,Tier2,Trader,<50k,Low,30-60,No,High,1-5L,Rare
+45-54,Tier1,Manufacturer,10L-50L,Very High,90+,Yes,Low,20L+,Monthly
+45-54,Tier2,Service,2L-10L,Medium,60-90,Yes,High,5-20L,Monthly
+25-34,Tier3,Distributor,2L-10L,Low,30-60,Yes,Low,<1L,Weekly
+55+,Tier3,Service,2L-10L,High,60-90,Yes,Medium,5-20L,Weekly
+45-54,Metro,Service,<50k,High,30-60,Yes,High,20L+,Rare
+<25,Tier2,Distributor,<50k,Medium,60-90,Yes,High,<1L,Rare
+25-34,Tier1,Service,<50k,Low,60-90,Yes,Medium,1-5L,Monthly
+55+,Tier1,Manufacturer,<50k,High,15-30,Yes,Low,1-5L,Weekly
+25-34,Tier2,Retailer,50L+,Low,90+,Yes,Low,5-20L,Rare
+<25,Tier1,Service,50k-2L,High,<15,No,High,1-5L,Rare
+55+,Tier3,Manufacturer,50L+,Medium,90+,No,Low,5-20L,Weekly
+25-34,Tier1,Retailer,2L-10L,Medium,60-90,Yes,Low,5-20L,Weekly
+35-44,Metro,Retailer,50L+,Low,60-90,Yes,Medium,5-20L,Weekly
+<25,Tier3,Service,10L-50L,Very High,90+,Yes,Medium,5-20L,Weekly
+<25,Tier3,Manufacturer,<50k,Very High,60-90,No,Medium,20L+,Weekly
+<25,Tier3,Service,10L-50L,Medium,30-60,No,High,20L+,Weekly
+35-44,Tier2,Distributor,10L-50L,High,60-90,Yes,Medium,<1L,Rare
+35-44,Tier2,Retailer,2L-10L,Very High,90+,Yes,Medium,<1L,Weekly
+45-54,Tier3,Service,<50k,Medium,90+,Yes,Low,1-5L,Monthly
+25-34,Tier2,Retailer,10L-50L,High,90+,No,Medium,20L+,Weekly
+45-54,Tier1,Manufacturer,2L-10L,High,15-30,Yes,High,<1L,Monthly
+25-34,Tier2,Trader,<50k,Very High,15-30,No,Medium,20L+,Monthly
+35-44,Tier2,Service,50k-2L,Medium,15-30,No,High,20L+,Monthly
+35-44,Tier3,Service,2L-10L,High,15-30,Yes,Low,1-5L,Weekly
+45-54,Metro,Retailer,50L+,High,15-30,No,Low,1-5L,Weekly
+55+,Metro,Manufacturer,<50k,Low,15-30,Yes,Medium,5-20L,Monthly
+45-54,Metro,Distributor,10L-50L,Low,15-30,No,Low,20L+,Weekly
+25-34,Tier1,Manufacturer,10L-50L,Very High,90+,No,Medium,5-20L,Rare
+45-54,Tier2,Service,50L+,Low,<15,Yes,Low,5-20L,Rare
+<25,Metro,Distributor,50L+,Medium,15-30,Yes,High,5-20L,Rare
+25-34,Tier3,Manufacturer,10L-50L,Very High,90+,No,Low,20L+,Rare
+25-34,Metro,Trader,<50k,Very High,<15,No,Medium,20L+,Weekly
+55+,Metro,Retailer,2L-10L,Low,15-30,No,Medium,5-20L,Monthly
+35-44,Tier2,Manufacturer,50L+,High,<15,Yes,Medium,20L+,Weekly
+25-34,Tier2,Manufacturer,50L+,Medium,<15,Yes,High,5-20L,Rare
+35-44,Tier2,Trader,50L+,Medium,30-60,Yes,Low,<1L,Weekly
+45-54,Tier1,Service,50k-2L,Medium,60-90,Yes,Medium,20L+,Weekly
+<25,Tier1,Retailer,<50k,Very High,30-60,No,High,1-5L,Rare
+55+,Metro,Manufacturer,<50k,Medium,<15,No,High,1-5L,Monthly
+35-44,Tier2,Distributor,<50k,High,90+,No,High,5-20L,Weekly
+25-34,Metro,Manufacturer,<50k,High,15-30,No,Low,<1L,Weekly
+35-44,Tier3,Retailer,<50k,Low,60-90,No,Low,20L+,Rare
+25-34,Tier3,Manufacturer,10L-50L,Medium,15-30,Yes,Low,5-20L,Monthly
+35-44,Tier2,Trader,50L+,Very High,90+,Yes,High,<1L,Rare
+25-34,Tier2,Manufacturer,10L-50L,Low,60-90,No,Low,<1L,Rare
+45-54,Tier3,Manufacturer,50k-2L,High,30-60,No,Medium,20L+,Weekly
+25-34,Tier2,Distributor,2L-10L,Medium,<15,No,High,1-5L,Monthly
+25-34,Tier1,Trader,50L+,High,90+,No,Low,1-5L,Rare
+<25,Tier1,Trader,50k-2L,Low,<15,No,High,<1L,Weekly
+25-34,Tier2,Manufacturer,10L-50L,High,<15,No,High,1-5L,Rare
+<25,Tier3,Distributor,2L-10L,Medium,15-30,No,Low,<1L,Weekly
+55+,Metro,Manufacturer,50k-2L,Medium,90+,No,High,<1L,Monthly
+<25,Tier2,Manufacturer,2L-10L,Low,<15,Yes,Low,<1L,Rare
+45-54,Tier2,Retailer,50k-2L,Medium,30-60,No,Low,1-5L,Monthly
+<25,Metro,Retailer,10L-50L,High,60-90,No,Low,5-20L,Monthly
+55+,Tier2,Distributor,2L-10L,High,90+,Yes,High,1-5L,Weekly
+45-54,Metro,Service,50k-2L,Very High,15-30,Yes,High,5-20L,Rare
+35-44,Tier3,Retailer,10L-50L,Very High,90+,No,Low,1-5L,Rare
+35-44,Tier1,Service,50L+,Very High,15-30,Yes,High,20L+,Weekly
+<25,Tier3,Trader,10L-50L,High,60-90,Yes,Low,20L+,Weekly
+<25,Tier1,Retailer,10L-50L,High,30-60,No,Medium,1-5L,Monthly
+55+,Metro,Retailer,50L+,Low,<15,Yes,High,20L+,Rare
+55+,Tier1,Distributor,10L-50L,Very High,90+,No,High,20L+,Rare
+25-34,Tier3,Service,50L+,High,15-30,No,Medium,20L+,Weekly
+55+,Tier1,Retailer,50L+,Low,60-90,No,Medium,20L+,Weekly
+25-34,Metro,Retailer,50L+,High,<15,Yes,Medium,5-20L,Weekly
+45-54,Tier1,Distributor,50k-2L,Low,60-90,Yes,Low,<1L,Rare
+<25,Tier2,Distributor,2L-10L,Very High,30-60,No,Low,5-20L,Rare
+45-54,Tier3,Service,50k-2L,Very High,<15,No,Medium,<1L,Monthly
+55+,Tier2,Trader,50L+,Very High,<15,Yes,Low,<1L,Weekly
+45-54,Metro,Trader,2L-10L,High,<15,No,High,1-5L,Monthly
+45-54,Tier1,Manufacturer,2L-10L,High,15-30,Yes,Medium,1-5L,Rare
+45-54,Tier2,Retailer,50L+,Low,<15,Yes,High,1-5L,Monthly
+55+,Tier2,Service,2L-10L,Medium,60-90,Yes,Low,1-5L,Monthly
+45-54,Tier1,Retailer,2L-10L,Medium,15-30,Yes,Medium,1-5L,Monthly
+25-34,Tier1,Service,50k-2L,Very High,<15,Yes,Low,5-20L,Weekly
+55+,Tier3,Service,2L-10L,Medium,60-90,Yes,High,5-20L,Rare
+45-54,Tier2,Service,50L+,Very High,60-90,No,Low,20L+,Weekly
+55+,Tier2,Retailer,<50k,Low,90+,No,High,5-20L,Monthly
+35-44,Metro,Distributor,<50k,Medium,60-90,Yes,Low,5-20L,Weekly
+25-34,Tier3,Retailer,<50k,Medium,30-60,Yes,High,1-5L,Rare
+45-54,Metro,Service,50L+,Very High,<15,No,Low,20L+,Rare
+35-44,Tier2,Manufacturer,<50k,Low,<15,No,Medium,5-20L,Monthly
+35-44,Metro,Trader,50k-2L,Medium,<15,No,Medium,5-20L,Monthly
+55+,Tier2,Service,50L+,Medium,60-90,No,Low,20L+,Weekly
+35-44,Tier2,Manufacturer,50L+,Medium,60-90,No,High,<1L,Rare
+25-34,Metro,Distributor,50L+,Low,<15,No,Low,1-5L,Rare
+25-34,Metro,Service,2L-10L,Low,15-30,No,Medium,5-20L,Weekly
+<25,Tier1,Manufacturer,2L-10L,Medium,15-30,No,High,5-20L,Rare
+25-34,Tier1,Service,2L-10L,Very High,30-60,Yes,Low,20L+,Monthly
+35-44,Tier1,Retailer,10L-50L,Very High,90+,No,Low,5-20L,Monthly
+25-34,Tier2,Manufacturer,50k-2L,Medium,30-60,Yes,High,1-5L,Weekly
+55+,Metro,Retailer,50L+,Low,<15,No,Low,5-20L,Weekly
+<25,Tier3,Retailer,50L+,Medium,<15,No,Medium,<1L,Weekly
+35-44,Tier2,Manufacturer,2L-10L,Low,<15,No,Medium,1-5L,Monthly
+<25,Tier3,Trader,50L+,Medium,90+,No,High,<1L,Weekly
+35-44,Metro,Manufacturer,50L+,Low,60-90,No,Low,20L+,Rare
+55+,Tier2,Trader,<50k,High,90+,Yes,Low,1-5L,Weekly
+<25,Tier3,Service,50L+,Very High,30-60,No,Medium,5-20L,Rare
+45-54,Tier3,Service,10L-50L,High,60-90,Yes,High,1-5L,Monthly
+35-44,Tier1,Manufacturer,2L-10L,Very High,60-90,Yes,High,1-5L,Rare
+45-54,Tier1,Service,50k-2L,Low,30-60,No,High,1-5L,Rare
+<25,Tier1,Distributor,50k-2L,High,60-90,Yes,Medium,<1L,Rare
+45-54,Tier2,Retailer,<50k,Very High,15-30,No,Medium,20L+,Monthly
+45-54,Metro,Retailer,50k-2L,Medium,30-60,No,High,1-5L,Rare
+<25,Metro,Trader,50k-2L,Low,30-60,No,High,5-20L,Rare
+55+,Tier1,Service,2L-10L,Low,15-30,Yes,Low,1-5L,Weekly
+45-54,Tier1,Trader,2L-10L,Medium,90+,No,Low,1-5L,Weekly
+45-54,Tier1,Retailer,10L-50L,Medium,90+,Yes,High,20L+,Weekly
+55+,Tier3,Retailer,<50k,Very High,90+,No,Medium,5-20L,Rare
+45-54,Tier1,Service,50k-2L,Low,60-90,No,Medium,5-20L,Rare
+45-54,Tier3,Distributor,10L-50L,Very High,15-30,Yes,Low,<1L,Monthly
+45-54,Metro,Distributor,<50k,Medium,30-60,Yes,High,5-20L,Rare
+25-34,Tier2,Service,50k-2L,Low,30-60,Yes,Medium,5-20L,Rare
+55+,Tier2,Service,50k-2L,Medium,30-60,Yes,Medium,5-20L,Monthly
+45-54,Tier2,Trader,2L-10L,Very High,60-90,Yes,Medium,1-5L,Rare
+55+,Tier2,Service,50L+,Very High,60-90,Yes,Medium,<1L,Monthly
+35-44,Tier3,Distributor,<50k,Very High,90+,No,Low,5-20L,Monthly
+35-44,Tier3,Service,50k-2L,Low,60-90,Yes,Medium,5-20L,Weekly
+45-54,Tier1,Trader,<50k,Medium,90+,No,Medium,5-20L,Rare
+55+,Tier3,Trader,10L-50L,Medium,90+,No,High,1-5L,Weekly
+55+,Tier1,Trader,10L-50L,Very High,30-60,No,High,1-5L,Rare
+55+,Tier1,Trader,50L+,Very High,60-90,No,Low,<1L,Weekly
+25-34,Tier2,Manufacturer,50k-2L,Very High,90+,No,Low,20L+,Monthly
+35-44,Tier3,Service,2L-10L,Very High,15-30,Yes,Low,<1L,Monthly
+55+,Tier3,Retailer,50k-2L,High,15-30,No,Low,1-5L,Monthly
+55+,Tier1,Service,<50k,High,60-90,No,Medium,5-20L,Monthly
+25-34,Tier1,Manufacturer,10L-50L,High,30-60,No,High,5-20L,Rare
+25-34,Metro,Trader,<50k,Very High,30-60,Yes,Medium,<1L,Rare
+55+,Metro,Manufacturer,50L+,Very High,90+,Yes,Medium,5-20L,Weekly
+<25,Tier1,Distributor,10L-50L,Medium,60-90,Yes,Medium,1-5L,Rare
+55+,Metro,Distributor,2L-10L,Low,15-30,Yes,High,<1L,Rare
+55+,Metro,Service,10L-50L,Medium,90+,No,Low,20L+,Weekly
+25-34,Tier1,Service,50k-2L,High,90+,Yes,Low,1-5L,Monthly
+25-34,Tier1,Retailer,50k-2L,Medium,<15,No,High,1-5L,Weekly
+55+,Tier3,Retailer,10L-50L,Very High,60-90,Yes,High,5-20L,Weekly
+55+,Tier1,Distributor,50L+,High,90+,Yes,Low,1-5L,Monthly
+55+,Tier1,Trader,50k-2L,High,15-30,Yes,Medium,1-5L,Weekly
+25-34,Tier2,Manufacturer,50k-2L,Low,<15,Yes,Low,20L+,Weekly
+55+,Tier3,Retailer,2L-10L,Low,15-30,No,High,5-20L,Weekly
+55+,Tier3,Retailer,10L-50L,High,30-60,Yes,Low,1-5L,Rare
+45-54,Tier3,Trader,50k-2L,High,<15,No,Low,5-20L,Monthly
+<25,Tier2,Trader,50L+,Medium,<15,No,Low,1-5L,Monthly
+35-44,Tier1,Service,<50k,High,90+,No,High,20L+,Weekly
+<25,Tier3,Manufacturer,10L-50L,Very High,30-60,No,High,5-20L,Rare
+45-54,Tier3,Trader,2L-10L,Medium,90+,No,Low,5-20L,Monthly
+35-44,Metro,Retailer,50k-2L,Very High,60-90,No,Low,20L+,Monthly
+55+,Tier3,Retailer,50L+,Very High,15-30,No,Medium,<1L,Weekly
+45-54,Tier1,Distributor,10L-50L,Very High,15-30,Yes,Medium,1-5L,Weekly
+55+,Tier1,Trader,50L+,High,90+,No,Low,1-5L,Weekly
+25-34,Metro,Service,50L+,Low,15-30,Yes,High,<1L,Monthly
+45-54,Tier3,Manufacturer,2L-10L,Low,15-30,Yes,Medium,5-20L,Weekly
+25-34,Tier3,Service,10L-50L,Very High,60-90,No,Low,5-20L,Weekly
+45-54,Tier3,Retailer,50k-2L,High,30-60,No,Medium,20L+,Weekly
+45-54,Tier2,Service,2L-10L,Medium,<15,Yes,Medium,20L+,Rare
+25-34,Tier3,Retailer,50k-2L,Very High,90+,Yes,Medium,20L+,Weekly
+35-44,Tier1,Retailer,<50k,Medium,90+,No,High,<1L,Monthly
+<25,Tier1,Retailer,50L+,Medium,60-90,No,Low,<1L,Weekly
+55+,Tier2,Retailer,<50k,High,60-90,Yes,High,5-20L,Monthly
+45-54,Tier2,Retailer,50L+,High,<15,Yes,High,20L+,Rare
+55+,Tier3,Distributor,2L-10L,Low,30-60,No,Medium,5-20L,Rare
+25-34,Metro,Service,50k-2L,Low,90+,Yes,Low,<1L,Weekly
+55+,Tier2,Distributor,50k-2L,High,60-90,Yes,Medium,1-5L,Monthly
+25-34,Tier2,Distributor,2L-10L,Very High,90+,No,High,5-20L,Weekly
+55+,Tier3,Trader,10L-50L,Low,15-30,Yes,High,<1L,Weekly
+<25,Tier3,Trader,<50k,Medium,90+,No,Low,20L+,Monthly
+<25,Tier2,Trader,<50k,Very High,30-60,No,High,1-5L,Monthly
+<25,Metro,Manufacturer,50k-2L,Medium,30-60,No,High,1-5L,Monthly
+<25,Tier2,Trader,50k-2L,High,90+,Yes,Low,1-5L,Monthly
+<25,Tier3,Service,50k-2L,Medium,15-30,No,Medium,20L+,Monthly
+<25,Tier3,Distributor,2L-10L,Very High,30-60,Yes,Low,1-5L,Rare
+25-34,Tier2,Service,10L-50L,High,60-90,No,High,<1L,Rare
+45-54,Metro,Trader,<50k,Very High,90+,No,Low,5-20L,Rare
+55+,Tier2,Manufacturer,50L+,Medium,15-30,Yes,Medium,1-5L,Monthly
+<25,Tier2,Manufacturer,2L-10L,Very High,60-90,Yes,High,1-5L,Monthly
+25-34,Tier3,Distributor,<50k,High,90+,Yes,Medium,<1L,Monthly
+25-34,Metro,Service,10L-50L,Medium,15-30,No,Medium,20L+,Weekly
+25-34,Tier1,Retailer,2L-10L,Medium,60-90,Yes,Low,1-5L,Rare
+45-54,Metro,Service,<50k,Low,30-60,No,Medium,<1L,Rare
+55+,Tier2,Trader,2L-10L,Low,90+,Yes,Low,<1L,Weekly
+45-54,Tier2,Retailer,<50k,Very High,90+,No,Low,20L+,Weekly
+35-44,Tier2,Manufacturer,<50k,Low,30-60,No,Medium,20L+,Rare
+25-34,Metro,Distributor,10L-50L,Low,<15,No,Low,5-20L,Monthly
+35-44,Tier3,Distributor,50L+,Low,60-90,No,Low,1-5L,Rare
+<25,Tier2,Manufacturer,10L-50L,Low,30-60,Yes,Medium,5-20L,Monthly
+<25,Tier2,Trader,<50k,High,90+,Yes,High,<1L,Rare
+45-54,Metro,Manufacturer,2L-10L,High,60-90,No,Low,1-5L,Rare
+55+,Tier1,Trader,10L-50L,Low,60-90,No,Low,<1L,Weekly
+35-44,Tier1,Retailer,50L+,Very High,<15,Yes,Medium,<1L,Weekly
+55+,Tier3,Manufacturer,<50k,High,90+,Yes,Low,<1L,Monthly
+45-54,Tier3,Trader,10L-50L,Low,15-30,Yes,Medium,20L+,Monthly
+<25,Tier2,Retailer,10L-50L,High,<15,Yes,High,20L+,Rare
+55+,Metro,Manufacturer,10L-50L,Medium,<15,Yes,High,1-5L,Weekly
+55+,Tier2,Distributor,10L-50L,High,15-30,Yes,Medium,<1L,Monthly
+<25,Tier3,Manufacturer,2L-10L,High,15-30,No,High,<1L,Monthly
+35-44,Metro,Service,50L+,Very High,<15,Yes,Medium,1-5L,Monthly
+<25,Metro,Manufacturer,50L+,High,60-90,Yes,Low,5-20L,Rare
+55+,Tier3,Service,<50k,Very High,30-60,No,High,<1L,Monthly
+35-44,Tier1,Retailer,50k-2L,Medium,30-60,Yes,Low,20L+,Monthly
+35-44,Tier1,Manufacturer,2L-10L,Low,<15,Yes,Low,5-20L,Weekly
+<25,Metro,Retailer,<50k,Very High,60-90,Yes,Medium,5-20L,Weekly
+55+,Tier2,Retailer,<50k,High,15-30,No,High,5-20L,Weekly
+45-54,Tier1,Trader,10L-50L,High,<15,Yes,High,5-20L,Rare
+55+,Tier2,Retailer,50k-2L,Very High,90+,No,Low,5-20L,Weekly
+25-34,Tier1,Retailer,50k-2L,Medium,60-90,Yes,Low,5-20L,Weekly
+45-54,Tier1,Manufacturer,2L-10L,Low,90+,No,Medium,1-5L,Weekly
+35-44,Tier2,Manufacturer,50k-2L,High,90+,Yes,High,1-5L,Weekly
+45-54,Tier3,Distributor,<50k,Medium,<15,Yes,Medium,5-20L,Monthly
+35-44,Tier1,Trader,50k-2L,Low,60-90,Yes,Medium,20L+,Rare
+35-44,Tier1,Retailer,50k-2L,Low,90+,No,Medium,1-5L,Monthly
+45-54,Tier2,Trader,50L+,High,60-90,Yes,High,1-5L,Monthly
+35-44,Tier3,Service,<50k,Very High,30-60,Yes,Medium,5-20L,Rare
+35-44,Tier1,Retailer,50k-2L,High,90+,No,High,20L+,Monthly
+25-34,Tier1,Trader,50k-2L,High,90+,No,Medium,5-20L,Weekly
+55+,Tier3,Distributor,10L-50L,High,60-90,No,Low,20L+,Rare
+55+,Tier1,Distributor,50k-2L,Medium,30-60,Yes,Medium,20L+,Monthly
+25-34,Tier3,Retailer,50k-2L,Very High,90+,No,Medium,<1L,Monthly
+45-54,Tier3,Service,50L+,Medium,<15,Yes,High,1-5L,Weekly
+<25,Tier2,Distributor,<50k,High,60-90,No,Low,5-20L,Monthly
+<25,Metro,Distributor,2L-10L,Very High,60-90,No,Low,1-5L,Monthly
+<25,Tier3,Service,<50k,Low,90+,Yes,High,1-5L,Monthly
+25-34,Tier2,Trader,10L-50L,Very High,30-60,Yes,High,20L+,Rare
+25-34,Metro,Distributor,<50k,High,90+,Yes,Low,1-5L,Rare
+35-44,Tier1,Manufacturer,50k-2L,Very High,15-30,Yes,High,<1L,Monthly
+<25,Metro,Distributor,10L-50L,Low,90+,No,Low,5-20L,Monthly
+45-54,Tier3,Trader,<50k,Low,15-30,No,Medium,1-5L,Weekly
+45-54,Tier3,Trader,10L-50L,Very High,<15,No,Medium,5-20L,Rare
+<25,Tier3,Retailer,2L-10L,Low,60-90,Yes,Low,1-5L,Rare
+<25,Tier3,Manufacturer,<50k,Medium,60-90,Yes,Low,5-20L,Rare
+<25,Tier3,Trader,50k-2L,Very High,30-60,No,Medium,5-20L,Monthly
+25-34,Tier2,Service,10L-50L,Low,90+,No,Medium,5-20L,Weekly
+25-34,Tier3,Manufacturer,50L+,Low,<15,Yes,Low,1-5L,Weekly
+25-34,Tier2,Manufacturer,10L-50L,Very High,15-30,No,High,<1L,Monthly
+55+,Tier1,Service,50L+,Medium,30-60,No,High,5-20L,Monthly
+45-54,Tier3,Distributor,50k-2L,Very High,<15,No,Low,20L+,Weekly
+45-54,Tier3,Service,2L-10L,Low,<15,Yes,High,20L+,Weekly
+35-44,Metro,Service,50L+,Very High,15-30,No,Medium,20L+,Rare
+25-34,Tier1,Distributor,2L-10L,Low,15-30,Yes,Medium,<1L,Monthly
+55+,Tier3,Distributor,10L-50L,High,60-90,No,High,5-20L,Rare
+55+,Tier3,Distributor,50k-2L,Very High,90+,Yes,Low,<1L,Weekly
+45-54,Tier1,Distributor,50L+,Very High,30-60,No,Medium,5-20L,Rare
+25-34,Tier2,Distributor,10L-50L,Low,90+,No,Medium,<1L,Weekly
+35-44,Tier3,Service,<50k,Low,30-60,No,Medium,5-20L,Weekly
+25-34,Metro,Retailer,10L-50L,Low,<15,Yes,High,20L+,Rare
+<25,Tier3,Retailer,2L-10L,Low,15-30,No,Low,5-20L,Monthly
+25-34,Metro,Trader,50k-2L,Very High,15-30,No,High,<1L,Rare
+<25,Metro,Retailer,50k-2L,Low,<15,Yes,Low,5-20L,Rare
+<25,Tier3,Retailer,10L-50L,Very High,<15,Yes,Low,1-5L,Monthly
+35-44,Tier3,Service,<50k,Medium,30-60,No,High,5-20L,Monthly
+45-54,Metro,Distributor,2L-10L,Very High,<15,No,Medium,20L+,Rare
+25-34,Tier1,Distributor,10L-50L,Low,30-60,No,Low,5-20L,Weekly
+<25,Tier1,Service,10L-50L,Low,90+,No,High,1-5L,Rare
+25-34,Tier3,Retailer,50k-2L,Medium,15-30,No,Medium,1-5L,Weekly
+45-54,Tier2,Service,2L-10L,Very High,15-30,Yes,Low,1-5L,Monthly
+45-54,Tier1,Trader,<50k,Medium,15-30,No,Low,<1L,Monthly
+55+,Tier3,Distributor,50k-2L,Very High,90+,Yes,Medium,1-5L,Weekly
+45-54,Tier1,Manufacturer,10L-50L,Low,90+,Yes,Low,<1L,Rare
+35-44,Tier2,Trader,50k-2L,Very High,60-90,No,High,1-5L,Monthly
+<25,Tier3,Trader,50k-2L,Low,30-60,Yes,Low,<1L,Weekly
+55+,Tier2,Service,50L+,Low,30-60,No,Low,1-5L,Weekly
+35-44,Tier3,Retailer,50k-2L,High,60-90,Yes,Medium,1-5L,Rare
+25-34,Tier2,Distributor,50k-2L,High,15-30,Yes,High,5-20L,Weekly
+<25,Tier1,Manufacturer,2L-10L,Very High,30-60,No,Medium,1-5L,Weekly
+45-54,Tier1,Trader,50k-2L,Low,30-60,No,High,5-20L,Rare
+<25,Tier2,Manufacturer,<50k,Medium,15-30,Yes,Medium,1-5L,Monthly
+25-34,Tier2,Retailer,10L-50L,Low,<15,No,Low,1-5L,Monthly
+55+,Tier2,Retailer,2L-10L,Medium,<15,No,High,5-20L,Monthly
+55+,Tier3,Manufacturer,50k-2L,Very High,60-90,Yes,High,5-20L,Weekly
+55+,Tier1,Distributor,<50k,Very High,90+,Yes,Low,<1L,Weekly
+45-54,Tier3,Retailer,10L-50L,Medium,30-60,Yes,Medium,20L+,Rare
+35-44,Tier1,Manufacturer,2L-10L,Medium,30-60,No,High,5-20L,Weekly
+35-44,Metro,Trader,<50k,Low,60-90,No,Low,<1L,Weekly
+<25,Tier3,Manufacturer,50k-2L,Very High,60-90,No,Low,1-5L,Monthly
+45-54,Tier1,Manufacturer,50L+,Low,30-60,Yes,High,5-20L,Weekly
+55+,Tier1,Service,50L+,Medium,15-30,No,High,5-20L,Weekly
+55+,Tier3,Retailer,2L-10L,High,15-30,Yes,High,1-5L,Weekly
+25-34,Tier3,Distributor,<50k,High,90+,Yes,Low,1-5L,Rare
+25-34,Tier1,Distributor,10L-50L,High,30-60,Yes,Medium,1-5L,Weekly
+55+,Tier3,Service,<50k,Medium,30-60,Yes,Medium,1-5L,Rare
+55+,Tier2,Distributor,50L+,Low,30-60,Yes,High,20L+,Monthly
+45-54,Tier3,Manufacturer,2L-10L,Very High,30-60,Yes,Low,5-20L,Weekly
+35-44,Tier3,Service,50k-2L,Medium,60-90,Yes,Low,1-5L,Rare
+25-34,Tier3,Trader,<50k,High,<15,No,High,1-5L,Monthly
+35-44,Tier1,Retailer,50L+,Low,30-60,Yes,Low,20L+,Weekly
+45-54,Tier2,Retailer,10L-50L,Very High,<15,No,Low,5-20L,Rare
+55+,Metro,Retailer,2L-10L,Very High,15-30,No,Low,<1L,Rare
+35-44,Metro,Manufacturer,50k-2L,Medium,90+,No,High,5-20L,Monthly
+55+,Tier2,Trader,<50k,Medium,15-30,No,High,<1L,Weekly
+55+,Tier2,Service,10L-50L,Very High,30-60,No,High,20L+,Weekly
+<25,Tier2,Service,50k-2L,Very High,15-30,Yes,Medium,1-5L,Weekly
+35-44,Tier1,Retailer,50L+,High,60-90,No,Medium,20L+,Rare
+35-44,Metro,Trader,50L+,Very High,<15,No,High,5-20L,Weekly
+55+,Tier2,Trader,10L-50L,Medium,30-60,No,Low,1-5L,Rare
+45-54,Tier1,Trader,50L+,Low,60-90,Yes,Low,5-20L,Rare
+<25,Metro,Distributor,2L-10L,High,<15,No,High,<1L,Monthly
+55+,Tier3,Distributor,10L-50L,High,60-90,No,Low,5-20L,Rare
+25-34,Tier1,Retailer,50L+,Very High,15-30,No,Low,20L+,Monthly
+25-34,Metro,Trader,<50k,Low,30-60,No,Medium,20L+,Monthly
+<25,Tier1,Trader,50L+,High,15-30,Yes,Low,20L+,Weekly
+45-54,Metro,Service,2L-10L,Medium,90+,No,Low,1-5L,Monthly
+55+,Metro,Service,50k-2L,Very High,30-60,Yes,High,5-20L,Weekly
+35-44,Tier3,Retailer,50k-2L,Medium,15-30,Yes,Medium,1-5L,Monthly
+<25,Tier1,Trader,50L+,Very High,30-60,No,Medium,5-20L,Rare
+45-54,Tier2,Retailer,50k-2L,High,<15,No,Low,<1L,Weekly
+35-44,Tier3,Service,50L+,Very High,30-60,Yes,High,5-20L,Rare
+25-34,Tier3,Service,2L-10L,Low,30-60,No,Medium,5-20L,Weekly
+25-34,Metro,Distributor,50k-2L,Medium,<15,No,Medium,5-20L,Rare
+35-44,Tier2,Retailer,<50k,Low,15-30,No,Low,5-20L,Monthly
+<25,Tier1,Retailer,50L+,Medium,30-60,Yes,Medium,<1L,Weekly
+25-34,Tier2,Trader,50k-2L,Medium,60-90,Yes,High,1-5L,Weekly
+55+,Tier2,Trader,2L-10L,Very High,30-60,No,High,20L+,Weekly
+35-44,Tier2,Distributor,2L-10L,High,15-30,No,Medium,5-20L,Monthly
+35-44,Tier2,Manufacturer,<50k,High,<15,Yes,High,20L+,Rare
+25-34,Tier2,Manufacturer,2L-10L,Low,15-30,Yes,High,20L+,Monthly
+<25,Metro,Manufacturer,2L-10L,Very High,90+,Yes,Low,20L+,Monthly
+55+,Metro,Retailer,50k-2L,High,30-60,Yes,Medium,20L+,Monthly
+<25,Tier3,Retailer,50L+,Medium,30-60,Yes,Medium,5-20L,Rare
+45-54,Metro,Service,10L-50L,Medium,<15,Yes,Low,20L+,Monthly
+45-54,Tier3,Retailer,2L-10L,Very High,30-60,Yes,Low,5-20L,Weekly
+25-34,Tier3,Retailer,2L-10L,Low,60-90,No,Low,<1L,Monthly
+25-34,Tier1,Retailer,10L-50L,Very High,60-90,Yes,Low,1-5L,Rare
+25-34,Tier2,Distributor,2L-10L,Low,15-30,Yes,High,1-5L,Weekly
+45-54,Metro,Retailer,50k-2L,Very High,<15,No,High,5-20L,Rare
+<25,Tier1,Trader,50k-2L,Medium,90+,No,Low,5-20L,Monthly
+<25,Metro,Trader,10L-50L,Very High,15-30,No,Medium,1-5L,Rare
+25-34,Tier3,Service,2L-10L,High,<15,Yes,Medium,20L+,Weekly
+55+,Metro,Distributor,2L-10L,High,<15,Yes,Medium,5-20L,Rare
+<25,Tier2,Trader,50L+,Very High,15-30,No,Low,20L+,Weekly
+45-54,Tier3,Distributor,2L-10L,Low,15-30,No,High,5-20L,Weekly
+35-44,Tier3,Distributor,50k-2L,Low,30-60,No,High,5-20L,Monthly
+35-44,Tier1,Service,<50k,Medium,90+,Yes,High,<1L,Monthly
+35-44,Tier2,Distributor,<50k,Medium,60-90,No,High,<1L,Weekly
+55+,Tier3,Retailer,<50k,Low,30-60,Yes,Medium,1-5L,Rare
+25-34,Tier2,Distributor,<50k,Very High,<15,Yes,Medium,<1L,Weekly
+45-54,Metro,Service,2L-10L,Medium,90+,Yes,High,<1L,Monthly
+55+,Tier2,Service,2L-10L,Low,90+,Yes,Low,1-5L,Rare
+45-54,Tier3,Service,50L+,Low,15-30,No,High,20L+,Weekly
+45-54,Tier1,Trader,2L-10L,Very High,90+,No,High,<1L,Monthly
+25-34,Tier3,Retailer,<50k,High,90+,No,Low,20L+,Weekly
+35-44,Tier2,Trader,10L-50L,Low,<15,Yes,High,1-5L,Weekly
+25-34,Tier2,Manufacturer,10L-50L,Medium,30-60,No,Medium,5-20L,Weekly
+55+,Tier3,Retailer,50k-2L,Very High,90+,Yes,Low,20L+,Rare
+55+,Tier2,Distributor,50k-2L,Very High,15-30,Yes,Low,1-5L,Monthly
+55+,Metro,Service,2L-10L,Very High,30-60,Yes,High,20L+,Monthly
+25-34,Tier3,Manufacturer,10L-50L,High,15-30,No,Medium,1-5L,Weekly
+45-54,Tier1,Retailer,<50k,High,90+,Yes,Medium,1-5L,Weekly
+45-54,Tier3,Trader,<50k,Medium,30-60,Yes,Medium,5-20L,Weekly
+<25,Metro,Service,<50k,Medium,90+,No,High,20L+,Rare
+55+,Metro,Trader,2L-10L,Very High,<15,No,High,5-20L,Monthly
+45-54,Metro,Retailer,2L-10L,Medium,30-60,No,Medium,5-20L,Weekly
+<25,Metro,Retailer,50L+,Low,15-30,Yes,High,20L+,Monthly
+45-54,Metro,Manufacturer,<50k,High,<15,Yes,Medium,20L+,Weekly
+55+,Tier1,Distributor,<50k,Very High,60-90,No,High,1-5L,Monthly
+35-44,Tier2,Trader,2L-10L,Very High,15-30,Yes,Low,20L+,Weekly
+55+,Metro,Manufacturer,2L-10L,Low,90+,Yes,Low,1-5L,Rare
+25-34,Metro,Service,50L+,Low,15-30,No,High,1-5L,Weekly
+45-54,Tier3,Distributor,50L+,Low,60-90,No,High,1-5L,Weekly
+45-54,Tier1,Manufacturer,50k-2L,Low,15-30,No,Medium,1-5L,Weekly
+25-34,Tier1,Trader,10L-50L,Very High,<15,No,Low,1-5L,Weekly
+25-34,Tier2,Retailer,<50k,High,15-30,No,Medium,1-5L,Weekly
+35-44,Tier1,Service,<50k,High,30-60,No,High,20L+,Monthly
+45-54,Tier3,Trader,50L+,Low,60-90,No,Medium,20L+,Monthly
+45-54,Tier3,Distributor,50L+,Medium,15-30,No,Medium,<1L,Rare
+35-44,Tier2,Distributor,50k-2L,Very High,60-90,Yes,High,20L+,Weekly
+<25,Tier3,Retailer,10L-50L,High,<15,Yes,Low,5-20L,Monthly
+35-44,Metro,Retailer,50k-2L,Low,30-60,Yes,Medium,<1L,Monthly
+55+,Metro,Service,10L-50L,Medium,90+,Yes,High,20L+,Weekly
+45-54,Tier3,Service,<50k,Medium,15-30,Yes,Medium,5-20L,Weekly
+25-34,Tier2,Retailer,50k-2L,Low,<15,Yes,High,20L+,Rare
+55+,Tier1,Retailer,50L+,Very High,60-90,Yes,High,1-5L,Rare
+45-54,Tier2,Distributor,50k-2L,High,60-90,Yes,High,<1L,Monthly
+35-44,Tier1,Retailer,50k-2L,Medium,<15,Yes,Low,1-5L,Rare
+55+,Tier3,Manufacturer,<50k,High,15-30,Yes,Low,<1L,Monthly
+45-54,Tier3,Trader,50L+,High,90+,Yes,High,<1L,Rare
+<25,Metro,Retailer,50L+,Medium,15-30,No,Low,1-5L,Weekly
+<25,Tier1,Service,2L-10L,Low,30-60,Yes,Medium,<1L,Rare
+25-34,Tier2,Manufacturer,2L-10L,Medium,15-30,No,Low,<1L,Monthly
+45-54,Tier3,Service,2L-10L,Medium,30-60,Yes,Low,20L+,Rare
+<25,Tier2,Manufacturer,<50k,Very High,60-90,No,Medium,5-20L,Monthly
+35-44,Metro,Retailer,50k-2L,High,30-60,Yes,Medium,1-5L,Monthly
+45-54,Tier1,Trader,50L+,Low,90+,No,Medium,20L+,Rare
+35-44,Tier1,Service,50L+,High,<15,Yes,High,20L+,Rare
+35-44,Tier3,Manufacturer,50k-2L,Medium,30-60,No,Medium,1-5L,Monthly
+<25,Tier1,Distributor,50L+,Low,15-30,Yes,Medium,<1L,Weekly
+45-54,Tier3,Retailer,50k-2L,Low,30-60,No,Medium,1-5L,Rare
+55+,Metro,Trader,<50k,Low,60-90,Yes,High,5-20L,Monthly
+<25,Tier1,Retailer,<50k,Low,30-60,No,Low,5-20L,Weekly
+<25,Tier3,Distributor,<50k,Very High,90+,No,High,1-5L,Monthly
+45-54,Tier2,Trader,50k-2L,Low,30-60,No,Low,20L+,Rare
+45-54,Tier3,Distributor,50k-2L,Medium,90+,No,Medium,1-5L,Monthly
+35-44,Tier1,Retailer,10L-50L,Very High,15-30,No,High,5-20L,Monthly
+45-54,Metro,Manufacturer,50L+,Medium,60-90,No,High,1-5L,Monthly
+35-44,Tier1,Retailer,50L+,Medium,<15,No,Low,<1L,Rare
+<25,Tier1,Retailer,10L-50L,High,15-30,No,High,1-5L,Weekly
+25-34,Tier3,Retailer,10L-50L,Low,15-30,Yes,High,20L+,Weekly
+55+,Tier2,Service,<50k,Low,<15,Yes,Low,<1L,Weekly
+<25,Tier1,Distributor,10L-50L,Medium,30-60,Yes,High,5-20L,Weekly
+45-54,Tier2,Distributor,50k-2L,Low,30-60,No,High,1-5L,Rare
+55+,Tier3,Distributor,2L-10L,Very High,30-60,No,Medium,20L+,Monthly
+25-34,Tier2,Service,50k-2L,High,60-90,Yes,Medium,20L+,Weekly
+25-34,Tier3,Manufacturer,10L-50L,Low,15-30,Yes,Medium,5-20L,Weekly
+35-44,Metro,Retailer,50L+,Low,90+,No,Medium,1-5L,Rare
+55+,Tier2,Manufacturer,50k-2L,Very High,<15,No,Medium,20L+,Monthly
+35-44,Tier2,Service,50L+,High,15-30,Yes,High,<1L,Monthly
+<25,Metro,Distributor,50k-2L,Very High,30-60,No,High,1-5L,Weekly
+55+,Tier2,Retailer,50L+,Medium,<15,Yes,Medium,5-20L,Weekly
+<25,Metro,Trader,50k-2L,Medium,90+,No,Low,<1L,Monthly
+35-44,Tier1,Trader,50L+,Low,15-30,Yes,Medium,1-5L,Rare
+55+,Tier3,Manufacturer,2L-10L,High,15-30,Yes,High,20L+,Monthly
+35-44,Metro,Distributor,<50k,Medium,60-90,No,Low,5-20L,Monthly
+55+,Tier2,Trader,50k-2L,Very High,15-30,Yes,Medium,5-20L,Weekly
+35-44,Metro,Manufacturer,2L-10L,Medium,15-30,No,Low,1-5L,Rare
+25-34,Tier2,Service,<50k,Medium,90+,No,Medium,5-20L,Rare
+35-44,Tier1,Manufacturer,50k-2L,Very High,90+,No,High,<1L,Rare
+25-34,Metro,Manufacturer,2L-10L,Low,<15,No,Medium,1-5L,Weekly
+35-44,Tier1,Manufacturer,2L-10L,High,30-60,No,Low,<1L,Rare
+55+,Tier3,Retailer,2L-10L,Low,90+,Yes,High,5-20L,Rare
+55+,Tier2,Manufacturer,10L-50L,Very High,<15,No,Medium,5-20L,Weekly
+55+,Tier2,Manufacturer,50L+,Medium,15-30,No,Medium,5-20L,Monthly
+45-54,Tier1,Retailer,<50k,High,<15,Yes,Medium,<1L,Rare
+<25,Tier3,Retailer,50L+,Low,<15,No,Medium,5-20L,Monthly
+55+,Metro,Service,50L+,Very High,<15,Yes,High,1-5L,Rare
+25-34,Metro,Distributor,50L+,Medium,<15,No,High,20L+,Monthly
+55+,Tier2,Trader,2L-10L,Medium,90+,Yes,Medium,1-5L,Monthly
+45-54,Tier1,Trader,50L+,Low,30-60,No,High,20L+,Weekly
+25-34,Tier1,Manufacturer,10L-50L,Very High,<15,No,Low,5-20L,Weekly
+45-54,Metro,Service,50k-2L,Medium,60-90,No,High,1-5L,Rare
+25-34,Tier3,Manufacturer,2L-10L,Medium,15-30,No,Low,<1L,Rare
+35-44,Tier3,Trader,<50k,High,15-30,No,Low,20L+,Weekly
+<25,Metro,Retailer,50k-2L,Medium,15-30,Yes,High,<1L,Rare
+<25,Metro,Distributor,50k-2L,Low,15-30,Yes,Medium,20L+,Rare
+45-54,Tier1,Service,50k-2L,Very High,15-30,No,High,5-20L,Weekly
+<25,Tier3,Retailer,50L+,Very High,<15,Yes,Low,1-5L,Monthly
+45-54,Metro,Distributor,50L+,High,30-60,No,Low,20L+,Rare
+45-54,Metro,Service,2L-10L,Very High,60-90,No,High,1-5L,Weekly
+45-54,Tier2,Service,50L+,Low,90+,No,Low,20L+,Rare
+<25,Metro,Trader,50L+,Medium,60-90,Yes,High,20L+,Rare
+45-54,Metro,Retailer,50L+,High,90+,No,High,5-20L,Weekly
+<25,Tier3,Service,2L-10L,Very High,90+,Yes,Medium,20L+,Weekly
+45-54,Tier1,Service,2L-10L,High,60-90,No,Low,<1L,Rare
+55+,Tier3,Distributor,10L-50L,High,<15,No,High,20L+,Rare
+45-54,Tier1,Trader,10L-50L,Very High,15-30,Yes,Low,20L+,Monthly
+25-34,Tier2,Manufacturer,10L-50L,High,<15,No,High,20L+,Monthly
+45-54,Metro,Trader,10L-50L,Very High,15-30,Yes,High,5-20L,Weekly
+35-44,Tier2,Manufacturer,50k-2L,Low,30-60,No,Medium,1-5L,Rare
+45-54,Tier1,Retailer,50k-2L,Very High,90+,No,High,1-5L,Weekly
+25-34,Tier3,Retailer,10L-50L,Medium,60-90,No,Medium,5-20L,Weekly
+25-34,Tier3,Service,10L-50L,Very High,30-60,Yes,Low,<1L,Rare
+<25,Tier2,Retailer,<50k,Medium,15-30,No,Medium,<1L,Monthly
+55+,Tier1,Service,50k-2L,High,<15,Yes,Medium,5-20L,Weekly
+45-54,Tier2,Trader,<50k,Very High,60-90,No,Low,1-5L,Weekly
+<25,Tier2,Retailer,<50k,Medium,90+,No,Medium,<1L,Rare
+55+,Metro,Trader,50L+,Very High,30-60,Yes,Medium,5-20L,Monthly
+45-54,Tier2,Trader,2L-10L,Very High,90+,No,High,1-5L,Monthly
+35-44,Metro,Retailer,50k-2L,Very High,15-30,No,Medium,<1L,Rare
+45-54,Metro,Trader,10L-50L,Low,90+,Yes,High,<1L,Weekly
+25-34,Tier3,Retailer,10L-50L,Medium,<15,Yes,Medium,5-20L,Rare
+25-34,Metro,Retailer,2L-10L,Low,30-60,Yes,Low,1-5L,Rare
+35-44,Metro,Retailer,50k-2L,Low,30-60,No,Low,<1L,Monthly
+<25,Tier3,Manufacturer,10L-50L,Medium,<15,Yes,Medium,5-20L,Weekly
+55+,Tier2,Trader,10L-50L,Very High,90+,Yes,High,<1L,Weekly
+45-54,Tier1,Distributor,50L+,Low,<15,No,Medium,1-5L,Monthly
+25-34,Tier1,Retailer,<50k,Low,60-90,Yes,High,20L+,Weekly
+<25,Tier1,Trader,10L-50L,Low,<15,Yes,Medium,<1L,Weekly
+35-44,Tier2,Service,50k-2L,Very High,90+,No,Low,1-5L,Rare
+25-34,Metro,Retailer,2L-10L,Low,<15,Yes,Low,<1L,Rare
+35-44,Tier1,Retailer,50L+,High,15-30,No,High,20L+,Rare
+45-54,Tier2,Distributor,50k-2L,Medium,<15,Yes,Medium,20L+,Weekly
+55+,Metro,Manufacturer,50L+,High,<15,Yes,High,<1L,Weekly
+25-34,Tier3,Manufacturer,<50k,Very High,90+,No,Low,5-20L,Weekly
+25-34,Tier1,Retailer,10L-50L,Low,60-90,Yes,High,<1L,Weekly
+45-54,Metro,Trader,50k-2L,Medium,60-90,No,Medium,1-5L,Monthly
+<25,Tier1,Service,2L-10L,Low,90+,Yes,High,5-20L,Monthly
+55+,Tier1,Service,<50k,Very High,90+,Yes,Medium,1-5L,Weekly
+25-34,Tier1,Trader,<50k,Medium,90+,No,Medium,1-5L,Rare
+55+,Metro,Retailer,50L+,High,15-30,No,Low,5-20L,Rare
+25-34,Tier2,Service,<50k,Medium,30-60,Yes,Medium,20L+,Monthly
+55+,Metro,Manufacturer,50k-2L,Low,<15,Yes,Medium,1-5L,Monthly
+35-44,Tier1,Trader,50L+,Medium,90+,Yes,Medium,<1L,Weekly
+25-34,Metro,Distributor,<50k,Very High,90+,No,High,20L+,Weekly
+55+,Tier3,Retailer,2L-10L,Very High,90+,No,Low,20L+,Weekly
+<25,Tier2,Trader,50k-2L,Medium,60-90,Yes,High,5-20L,Weekly
+35-44,Metro,Service,2L-10L,Very High,90+,Yes,High,<1L,Weekly
+35-44,Tier3,Retailer,2L-10L,Very High,<15,Yes,Low,<1L,Rare
+<25,Tier2,Manufacturer,50L+,Very High,90+,No,High,20L+,Rare
+55+,Tier3,Retailer,10L-50L,High,<15,Yes,High,1-5L,Weekly
+45-54,Tier2,Retailer,50L+,Low,15-30,No,Medium,1-5L,Rare
+<25,Metro,Manufacturer,50k-2L,Very High,30-60,No,High,<1L,Weekly
+55+,Tier3,Manufacturer,50k-2L,Medium,60-90,Yes,Low,20L+,Weekly
+<25,Tier1,Retailer,50L+,Very High,<15,No,High,20L+,Monthly
+<25,Tier3,Manufacturer,10L-50L,High,15-30,No,Medium,20L+,Rare
+25-34,Tier2,Trader,50L+,Medium,30-60,Yes,High,5-20L,Rare
+55+,Metro,Manufacturer,50k-2L,Low,30-60,Yes,Low,<1L,Monthly
+45-54,Tier2,Manufacturer,10L-50L,Medium,30-60,Yes,Medium,<1L,Rare
+25-34,Tier3,Retailer,50k-2L,Medium,<15,Yes,High,1-5L,Monthly
+<25,Tier3,Trader,10L-50L,Medium,15-30,Yes,Low,1-5L,Rare
+<25,Tier1,Distributor,10L-50L,Medium,90+,Yes,Low,<1L,Weekly
+<25,Metro,Distributor,50L+,Very High,15-30,Yes,High,<1L,Monthly
+55+,Metro,Service,50L+,Low,15-30,No,High,1-5L,Weekly
+55+,Tier3,Manufacturer,50L+,Very High,15-30,Yes,Medium,<1L,Weekly
+25-34,Metro,Manufacturer,10L-50L,High,<15,Yes,High,1-5L,Rare
+45-54,Tier1,Trader,10L-50L,High,<15,Yes,Medium,<1L,Monthly
+25-34,Tier2,Distributor,50k-2L,Medium,<15,Yes,High,5-20L,Weekly
+35-44,Metro,Service,2L-10L,Very High,15-30,Yes,Low,5-20L,Weekly
+<25,Tier3,Trader,50L+,Very High,<15,Yes,Low,20L+,Monthly
+<25,Tier2,Manufacturer,50k-2L,Low,30-60,No,Low,<1L,Rare
+<25,Tier2,Distributor,50k-2L,Low,<15,Yes,Low,1-5L,Weekly
+25-34,Tier1,Service,<50k,Low,60-90,No,Medium,<1L,Rare
+25-34,Tier3,Retailer,50L+,Very High,<15,Yes,Low,<1L,Monthly
+<25,Metro,Distributor,50k-2L,Low,<15,No,Medium,20L+,Rare
+25-34,Tier3,Service,<50k,Low,<15,No,Medium,1-5L,Monthly
+55+,Tier2,Trader,50L+,Low,<15,No,Medium,<1L,Rare
+55+,Tier3,Retailer,10L-50L,Medium,60-90,Yes,High,1-5L,Rare
+25-34,Metro,Service,<50k,High,90+,Yes,Medium,<1L,Weekly
+<25,Metro,Service,10L-50L,High,<15,Yes,High,20L+,Rare
+25-34,Tier1,Manufacturer,2L-10L,Very High,30-60,Yes,Medium,1-5L,Weekly
+25-34,Metro,Distributor,2L-10L,Very High,60-90,Yes,High,<1L,Monthly
+25-34,Metro,Manufacturer,2L-10L,Medium,90+,Yes,High,5-20L,Monthly
+35-44,Tier3,Retailer,2L-10L,High,<15,No,Low,1-5L,Weekly
+55+,Tier3,Service,50k-2L,Low,90+,No,Medium,20L+,Rare
+45-54,Tier2,Manufacturer,2L-10L,Low,30-60,No,High,5-20L,Monthly
+45-54,Tier1,Distributor,50k-2L,Very High,60-90,Yes,Low,1-5L,Monthly
+35-44,Tier3,Retailer,50k-2L,High,60-90,Yes,Medium,1-5L,Monthly
+25-34,Metro,Trader,50L+,Very High,90+,No,Low,1-5L,Weekly
+35-44,Tier2,Manufacturer,50k-2L,Very High,<15,Yes,High,1-5L,Monthly
+35-44,Tier3,Retailer,50k-2L,Low,15-30,Yes,Low,<1L,Monthly
+<25,Tier1,Trader,2L-10L,Low,60-90,Yes,Low,<1L,Monthly
+55+,Tier1,Manufacturer,50k-2L,High,15-30,No,Medium,1-5L,Monthly
+45-54,Tier2,Retailer,10L-50L,Very High,60-90,No,High,20L+,Weekly
+25-34,Tier2,Retailer,2L-10L,Medium,<15,Yes,Medium,<1L,Weekly
+45-54,Tier2,Manufacturer,<50k,High,<15,No,Medium,1-5L,Rare
+45-54,Tier2,Retailer,2L-10L,Very High,60-90,No,Low,1-5L,Monthly
+55+,Tier2,Service,50k-2L,High,90+,Yes,High,20L+,Weekly
+45-54,Metro,Manufacturer,10L-50L,High,<15,Yes,Medium,20L+,Rare
+45-54,Metro,Retailer,2L-10L,High,<15,No,High,20L+,Rare
+35-44,Tier3,Trader,10L-50L,Medium,30-60,No,Medium,5-20L,Monthly
+55+,Tier1,Trader,<50k,Medium,<15,Yes,Low,1-5L,Rare
+<25,Metro,Service,<50k,Low,30-60,Yes,Medium,20L+,Weekly
+25-34,Metro,Manufacturer,50L+,Low,<15,Yes,Medium,1-5L,Rare
+45-54,Metro,Retailer,50L+,Very High,<15,No,Medium,<1L,Rare
+25-34,Tier3,Retailer,2L-10L,High,90+,No,High,1-5L,Weekly
+<25,Tier2,Trader,50L+,Very High,90+,Yes,Low,1-5L,Rare
+25-34,Tier3,Service,10L-50L,Low,<15,Yes,High,5-20L,Rare
+<25,Tier1,Trader,50L+,Medium,60-90,Yes,Medium,<1L,Rare
+35-44,Tier1,Trader,10L-50L,Low,60-90,Yes,Low,<1L,Rare
+45-54,Tier1,Service,50L+,Very High,<15,No,High,5-20L,Monthly
+<25,Tier1,Manufacturer,50L+,Low,60-90,Yes,Medium,20L+,Monthly
+25-34,Metro,Retailer,50L+,Very High,<15,Yes,Low,20L+,Weekly
+45-54,Metro,Manufacturer,50k-2L,Very High,90+,No,Low,1-5L,Rare
+35-44,Tier3,Distributor,50k-2L,Very High,15-30,Yes,Medium,5-20L,Weekly
+45-54,Tier2,Distributor,50L+,Very High,30-60,No,Low,20L+,Monthly
+<25,Tier1,Distributor,10L-50L,Low,60-90,No,Low,<1L,Rare
+35-44,Tier3,Service,2L-10L,Very High,60-90,No,High,5-20L,Rare
+25-34,Metro,Trader,<50k,Very High,90+,Yes,Low,20L+,Monthly
+35-44,Metro,Manufacturer,50k-2L,High,60-90,No,High,<1L,Rare
+35-44,Tier2,Retailer,50L+,Very High,<15,Yes,High,5-20L,Rare
+55+,Tier2,Distributor,<50k,Low,<15,No,High,1-5L,Monthly
+35-44,Tier2,Manufacturer,50k-2L,Very High,15-30,No,High,1-5L,Weekly
+35-44,Tier3,Distributor,2L-10L,Medium,15-30,No,Low,<1L,Weekly
+45-54,Metro,Distributor,10L-50L,Medium,15-30,Yes,Low,20L+,Rare
+25-34,Metro,Retailer,50L+,Very High,<15,Yes,High,20L+,Monthly
+45-54,Tier2,Service,2L-10L,Medium,15-30,No,Low,5-20L,Weekly
+45-54,Tier1,Trader,50k-2L,Medium,15-30,Yes,High,<1L,Weekly
+<25,Tier2,Service,50L+,Low,<15,No,High,20L+,Rare
+45-54,Tier3,Manufacturer,<50k,High,90+,No,High,1-5L,Weekly
+55+,Tier2,Service,10L-50L,Medium,60-90,No,Medium,<1L,Monthly
+55+,Tier2,Manufacturer,50k-2L,Medium,30-60,No,Low,1-5L,Weekly
+<25,Tier3,Manufacturer,10L-50L,High,<15,Yes,Low,<1L,Monthly
+25-34,Tier2,Trader,50L+,High,<15,No,High,5-20L,Monthly
+25-34,Metro,Retailer,2L-10L,Medium,30-60,Yes,Low,20L+,Rare
+45-54,Tier1,Trader,10L-50L,Very High,30-60,No,High,20L+,Weekly
+45-54,Tier2,Service,<50k,Medium,15-30,No,Low,20L+,Rare
+45-54,Tier3,Manufacturer,50k-2L,Very High,30-60,No,High,1-5L,Weekly
+25-34,Tier1,Distributor,<50k,Very High,60-90,No,High,20L+,Rare
+35-44,Tier3,Distributor,10L-50L,Very High,60-90,No,Medium,<1L,Rare
+55+,Tier1,Manufacturer,2L-10L,High,60-90,Yes,High,1-5L,Rare
+35-44,Tier1,Trader,2L-10L,Medium,60-90,Yes,Medium,5-20L,Weekly
+35-44,Tier2,Retailer,<50k,Medium,60-90,No,Low,1-5L,Rare
+25-34,Metro,Trader,50L+,Low,15-30,Yes,Low,5-20L,Monthly
+35-44,Tier2,Manufacturer,50L+,High,<15,Yes,Medium,1-5L,Weekly
+<25,Tier3,Manufacturer,2L-10L,Low,30-60,No,Low,20L+,Monthly
+45-54,Tier3,Retailer,<50k,Low,<15,No,Medium,5-20L,Rare
+<25,Tier1,Service,<50k,Very High,30-60,No,Low,20L+,Rare
+55+,Tier1,Service,<50k,High,15-30,No,Medium,1-5L,Monthly
+45-54,Metro,Retailer,10L-50L,Low,15-30,Yes,Medium,5-20L,Rare
+35-44,Tier2,Service,50L+,Medium,90+,Yes,High,<1L,Weekly
+55+,Tier3,Distributor,50L+,Low,90+,Yes,Low,<1L,Monthly
+45-54,Tier1,Service,10L-50L,High,15-30,Yes,High,1-5L,Weekly
+35-44,Metro,Service,50k-2L,Medium,15-30,No,Medium,5-20L,Weekly
+<25,Tier3,Service,10L-50L,Medium,30-60,No,High,<1L,Weekly
+45-54,Tier1,Distributor,<50k,Medium,15-30,No,Medium,20L+,Rare
+35-44,Tier3,Service,10L-50L,Very High,<15,No,Low,20L+,Rare
+<25,Metro,Distributor,<50k,Medium,30-60,Yes,Low,1-5L,Monthly
+55+,Metro,Retailer,2L-10L,Very High,15-30,Yes,Low,20L+,Monthly
+55+,Tier3,Trader,<50k,Very High,30-60,No,Medium,20L+,Weekly
+55+,Tier2,Retailer,50L+,Low,30-60,Yes,High,20L+,Rare
+55+,Tier3,Trader,10L-50L,Low,60-90,Yes,Low,<1L,Rare
+25-34,Tier1,Retailer,<50k,Medium,90+,No,Medium,5-20L,Rare
+45-54,Tier2,Trader,50k-2L,High,30-60,Yes,High,1-5L,Monthly
+45-54,Tier1,Trader,2L-10L,Medium,30-60,No,Medium,5-20L,Rare
+25-34,Tier3,Manufacturer,50k-2L,Low,60-90,Yes,Medium,5-20L,Weekly
+35-44,Tier2,Trader,50k-2L,Medium,15-30,Yes,Low,5-20L,Weekly
+35-44,Tier1,Trader,50k-2L,Low,30-60,No,Medium,<1L,Weekly
+55+,Tier3,Manufacturer,2L-10L,Medium,60-90,No,Medium,20L+,Rare
+<25,Tier3,Service,2L-10L,High,<15,No,High,1-5L,Weekly
+35-44,Tier2,Service,2L-10L,Medium,60-90,Yes,Low,5-20L,Weekly
+<25,Tier3,Manufacturer,2L-10L,High,90+,No,Medium,20L+,Monthly
+45-54,Metro,Distributor,50k-2L,High,90+,Yes,Medium,<1L,Monthly
+<25,Tier1,Trader,50L+,Medium,15-30,No,High,5-20L,Rare
+45-54,Tier1,Trader,50L+,High,15-30,Yes,Medium,20L+,Rare
+25-34,Tier3,Manufacturer,2L-10L,High,90+,No,Medium,<1L,Rare
+25-34,Tier3,Manufacturer,10L-50L,Low,90+,No,Medium,20L+,Rare
+55+,Metro,Distributor,<50k,Low,30-60,Yes,Medium,1-5L,Rare
+35-44,Tier2,Service,10L-50L,High,90+,Yes,Medium,20L+,Monthly
+55+,Tier3,Retailer,10L-50L,Very High,15-30,No,High,20L+,Monthly
+45-54,Tier3,Service,10L-50L,Medium,90+,Yes,Medium,1-5L,Monthly
+55+,Tier3,Trader,50L+,High,15-30,No,Medium,1-5L,Weekly
+<25,Tier3,Manufacturer,<50k,Medium,<15,Yes,Medium,20L+,Weekly
+45-54,Tier1,Distributor,10L-50L,Low,90+,Yes,Medium,1-5L,Monthly
+25-34,Tier3,Service,2L-10L,Medium,15-30,No,Low,20L+,Monthly
+35-44,Tier1,Distributor,50L+,High,60-90,No,Low,5-20L,Rare
+45-54,Tier3,Service,2L-10L,High,30-60,Yes,Low,20L+,Monthly
+45-54,Tier2,Trader,2L-10L,High,15-30,Yes,Low,<1L,Rare
+<25,Metro,Retailer,10L-50L,High,90+,Yes,High,1-5L,Monthly
+35-44,Tier2,Distributor,2L-10L,Very High,90+,Yes,Low,5-20L,Rare
+25-34,Tier3,Distributor,<50k,Very High,<15,No,High,1-5L,Monthly
+45-54,Tier3,Retailer,2L-10L,Very High,60-90,No,Low,1-5L,Rare
+45-54,Tier3,Distributor,10L-50L,High,15-30,Yes,High,1-5L,Weekly
+<25,Tier2,Distributor,2L-10L,Very High,60-90,No,Low,<1L,Weekly
+55+,Tier3,Service,50L+,Medium,<15,Yes,Medium,<1L,Rare
+25-34,Tier2,Service,50L+,High,30-60,Yes,Low,20L+,Rare
+35-44,Tier1,Retailer,50L+,Low,60-90,Yes,Low,<1L,Weekly
+45-54,Metro,Trader,50k-2L,High,<15,No,Low,1-5L,Monthly
+45-54,Metro,Distributor,50L+,Medium,15-30,Yes,Medium,5-20L,Rare
+25-34,Tier2,Trader,50L+,Very High,30-60,No,High,5-20L,Monthly
+55+,Tier1,Retailer,50k-2L,High,90+,No,High,5-20L,Weekly
+45-54,Tier2,Retailer,50L+,Very High,<15,Yes,Medium,1-5L,Weekly
+25-34,Tier1,Service,10L-50L,High,90+,No,Low,<1L,Rare
+<25,Tier3,Distributor,50L+,Medium,30-60,Yes,Low,5-20L,Monthly
+55+,Tier1,Manufacturer,50L+,High,<15,Yes,Low,1-5L,Weekly
+35-44,Tier1,Retailer,50k-2L,Very High,<15,No,High,1-5L,Monthly
+45-54,Tier1,Distributor,10L-50L,Very High,30-60,Yes,High,5-20L,Weekly
+25-34,Metro,Trader,2L-10L,Medium,15-30,No,Medium,5-20L,Rare
+<25,Tier1,Service,<50k,High,<15,No,Medium,20L+,Monthly
+35-44,Tier3,Trader,10L-50L,Low,30-60,No,High,20L+,Monthly
+25-34,Tier3,Retailer,2L-10L,High,60-90,Yes,Low,1-5L,Rare
+25-34,Tier3,Retailer,10L-50L,Medium,90+,No,Low,20L+,Rare
+35-44,Tier1,Trader,2L-10L,Low,<15,Yes,Low,20L+,Rare
+<25,Tier2,Retailer,2L-10L,Medium,60-90,Yes,Low,5-20L,Rare
+<25,Tier2,Distributor,10L-50L,High,<15,No,Medium,20L+,Weekly
+55+,Tier3,Retailer,50k-2L,Low,15-30,No,Medium,1-5L,Monthly
+45-54,Metro,Service,10L-50L,Medium,30-60,Yes,High,5-20L,Weekly
+35-44,Tier2,Distributor,10L-50L,Very High,<15,No,Medium,20L+,Rare
+35-44,Tier1,Manufacturer,2L-10L,Low,30-60,No,Low,20L+,Weekly
+35-44,Tier2,Retailer,<50k,Low,<15,No,High,20L+,Weekly
+<25,Tier3,Retailer,2L-10L,Medium,15-30,Yes,Medium,<1L,Monthly
+45-54,Metro,Service,50L+,Very High,15-30,No,Medium,20L+,Monthly
+55+,Tier2,Service,10L-50L,Low,60-90,Yes,Medium,20L+,Monthly
+25-34,Tier2,Trader,10L-50L,Medium,15-30,Yes,Medium,1-5L,Rare
+25-34,Tier3,Trader,50k-2L,Low,30-60,No,Medium,20L+,Rare
+35-44,Metro,Trader,2L-10L,Low,15-30,No,Low,<1L,Monthly
+45-54,Metro,Service,50k-2L,Low,<15,Yes,Low,5-20L,Weekly
+<25,Tier3,Trader,10L-50L,Very High,15-30,Yes,Low,20L+,Monthly
+45-54,Tier1,Trader,2L-10L,High,30-60,No,Medium,20L+,Rare
+45-54,Tier2,Manufacturer,2L-10L,High,<15,Yes,High,1-5L,Weekly
+<25,Tier1,Trader,50L+,Very High,60-90,No,Low,20L+,Rare
+35-44,Tier2,Retailer,50L+,Very High,60-90,Yes,Low,20L+,Monthly
+45-54,Tier2,Service,<50k,Medium,60-90,No,Medium,20L+,Monthly
+25-34,Tier1,Distributor,50L+,Low,<15,Yes,High,20L+,Weekly
+<25,Tier3,Manufacturer,2L-10L,Very High,60-90,No,Low,5-20L,Monthly
+55+,Tier3,Service,50L+,Medium,15-30,No,Low,1-5L,Rare
+35-44,Tier2,Service,<50k,High,<15,Yes,High,5-20L,Rare
+<25,Tier3,Retailer,10L-50L,High,<15,No,Medium,<1L,Rare
+55+,Tier2,Trader,50L+,High,<15,Yes,High,20L+,Weekly
+55+,Tier3,Retailer,2L-10L,High,90+,Yes,Medium,<1L,Rare
+45-54,Tier2,Trader,10L-50L,Medium,30-60,Yes,Low,5-20L,Monthly
+45-54,Tier3,Trader,2L-10L,Low,90+,Yes,High,<1L,Weekly
+45-54,Metro,Service,10L-50L,Medium,90+,No,High,20L+,Rare
+<25,Tier1,Trader,2L-10L,Low,90+,Yes,Low,<1L,Rare
+<25,Metro,Manufacturer,50L+,High,30-60,Yes,Low,5-20L,Monthly
+35-44,Tier1,Manufacturer,50L+,Very High,90+,Yes,Medium,20L+,Monthly
+45-54,Tier1,Manufacturer,<50k,Very High,60-90,No,Low,1-5L,Weekly
+55+,Tier2,Service,10L-50L,Very High,<15,Yes,Low,5-20L,Rare
+25-34,Tier1,Retailer,<50k,Low,<15,No,High,20L+,Rare
+35-44,Metro,Distributor,50k-2L,High,15-30,No,Medium,1-5L,Monthly
+<25,Metro,Trader,50L+,Medium,60-90,Yes,Low,<1L,Weekly
+35-44,Tier3,Distributor,10L-50L,Very High,30-60,No,High,<1L,Monthly
+35-44,Metro,Retailer,<50k,Low,<15,Yes,Low,<1L,Monthly
+35-44,Tier3,Retailer,<50k,Very High,90+,No,Low,20L+,Weekly
+35-44,Tier1,Service,50k-2L,Medium,15-30,No,Low,<1L,Rare
+25-34,Metro,Manufacturer,<50k,High,15-30,Yes,Low,<1L,Rare
+45-54,Tier1,Manufacturer,2L-10L,Medium,<15,No,Medium,1-5L,Rare
+55+,Metro,Retailer,50L+,High,60-90,Yes,High,1-5L,Weekly
+35-44,Metro,Service,<50k,High,15-30,No,High,1-5L,Weekly
+35-44,Tier3,Service,<50k,High,<15,Yes,Low,20L+,Weekly
+35-44,Tier1,Trader,50k-2L,Very High,60-90,Yes,High,5-20L,Weekly
+45-54,Metro,Manufacturer,2L-10L,Medium,<15,Yes,Low,<1L,Weekly
+<25,Tier2,Retailer,<50k,Very High,<15,Yes,High,<1L,Monthly
+<25,Tier1,Distributor,50L+,Medium,60-90,No,Medium,20L+,Rare
+25-34,Tier1,Manufacturer,50L+,Low,60-90,Yes,Medium,<1L,Weekly
+<25,Tier1,Trader,<50k,Low,60-90,Yes,High,20L+,Rare
+35-44,Tier3,Service,2L-10L,Medium,<15,Yes,Low,20L+,Weekly
+35-44,Tier2,Retailer,50L+,Medium,15-30,Yes,Low,20L+,Rare
+35-44,Tier1,Manufacturer,50L+,Medium,30-60,No,Low,5-20L,Monthly
+25-34,Metro,Distributor,2L-10L,Medium,30-60,Yes,Low,20L+,Rare
+35-44,Metro,Trader,2L-10L,High,<15,No,Medium,5-20L,Rare
+<25,Tier3,Trader,<50k,Very High,<15,Yes,Low,5-20L,Weekly
+45-54,Metro,Manufacturer,10L-50L,High,15-30,Yes,Low,<1L,Rare
+45-54,Tier1,Distributor,50k-2L,Very High,60-90,Yes,Low,1-5L,Monthly
+55+,Metro,Trader,10L-50L,Very High,<15,Yes,Low,5-20L,Monthly
+<25,Tier1,Retailer,10L-50L,Very High,90+,Yes,Medium,5-20L,Monthly
+35-44,Metro,Trader,50L+,High,60-90,Yes,High,1-5L,Weekly
+45-54,Tier2,Distributor,2L-10L,Medium,<15,No,High,5-20L,Weekly
+<25,Tier3,Service,50L+,High,90+,No,Low,1-5L,Weekly
+45-54,Tier3,Service,50k-2L,High,15-30,Yes,Low,<1L,Weekly
+35-44,Tier2,Manufacturer,<50k,Very High,90+,Yes,High,20L+,Weekly
+45-54,Tier2,Distributor,50k-2L,Low,<15,Yes,Medium,1-5L,Monthly
+55+,Tier3,Trader,50L+,Low,30-60,No,Medium,20L+,Rare
+55+,Tier2,Trader,50L+,High,<15,Yes,Medium,1-5L,Monthly
+45-54,Tier1,Service,50L+,Very High,30-60,No,Medium,20L+,Weekly
+<25,Metro,Service,50L+,High,15-30,No,Medium,<1L,Monthly
+<25,Tier3,Retailer,10L-50L,High,15-30,No,Medium,5-20L,Rare
+<25,Tier2,Service,<50k,Medium,60-90,No,Medium,<1L,Weekly
+45-54,Tier1,Retailer,10L-50L,Very High,60-90,No,Medium,5-20L,Monthly
+<25,Tier3,Trader,50L+,Low,30-60,Yes,Medium,20L+,Monthly
+35-44,Tier2,Retailer,2L-10L,Low,30-60,No,Low,20L+,Rare
+55+,Tier3,Retailer,10L-50L,Low,15-30,No,Medium,5-20L,Weekly
+35-44,Tier2,Manufacturer,50L+,High,90+,Yes,Low,1-5L,Weekly
+<25,Tier3,Service,50L+,Very High,30-60,Yes,High,<1L,Rare
+35-44,Tier1,Retailer,<50k,Medium,30-60,No,Low,1-5L,Rare
+<25,Tier1,Trader,50k-2L,Low,90+,Yes,High,20L+,Rare
+45-54,Metro,Distributor,10L-50L,Very High,60-90,Yes,Low,<1L,Rare
+35-44,Tier3,Retailer,10L-50L,Low,60-90,Yes,High,<1L,Weekly
+45-54,Metro,Service,10L-50L,Medium,30-60,No,Low,1-5L,Weekly
+45-54,Tier3,Manufacturer,50L+,Very High,60-90,No,Low,5-20L,Monthly
+25-34,Tier2,Trader,<50k,High,60-90,Yes,High,5-20L,Monthly
+<25,Tier2,Manufacturer,50L+,High,60-90,Yes,Medium,<1L,Monthly
+55+,Metro,Distributor,50L+,Low,15-30,No,Medium,5-20L,Weekly
+<25,Tier3,Retailer,2L-10L,Low,<15,No,Medium,20L+,Weekly
+55+,Metro,Retailer,<50k,Very High,30-60,Yes,Medium,1-5L,Weekly
+<25,Tier1,Service,10L-50L,Medium,30-60,No,Medium,1-5L,Monthly
+45-54,Metro,Retailer,50k-2L,Low,15-30,No,Low,1-5L,Rare
+35-44,Metro,Trader,10L-50L,Very High,<15,Yes,Medium,<1L,Rare
+35-44,Tier2,Distributor,50L+,Medium,<15,Yes,Low,<1L,Rare
+25-34,Metro,Manufacturer,<50k,Low,15-30,No,High,5-20L,Rare
+55+,Tier3,Distributor,<50k,Low,90+,No,Medium,1-5L,Rare
+55+,Tier2,Retailer,<50k,Very High,90+,No,Medium,20L+,Weekly
+55+,Metro,Manufacturer,2L-10L,Low,<15,Yes,Medium,20L+,Monthly
+45-54,Tier1,Service,10L-50L,High,90+,Yes,Medium,1-5L,Rare
+55+,Metro,Distributor,2L-10L,Medium,90+,Yes,Low,<1L,Rare
+35-44,Metro,Manufacturer,50k-2L,Medium,90+,Yes,Low,<1L,Rare
+45-54,Metro,Manufacturer,50L+,High,<15,No,Low,<1L,Weekly
+<25,Tier2,Manufacturer,2L-10L,Very High,90+,Yes,High,20L+,Rare
+55+,Tier3,Trader,2L-10L,High,30-60,Yes,Low,1-5L,Monthly
+55+,Tier1,Distributor,50L+,High,<15,No,Medium,20L+,Weekly
+<25,Metro,Manufacturer,<50k,Medium,15-30,Yes,High,1-5L,Weekly
+55+,Tier3,Distributor,50L+,Very High,90+,No,High,20L+,Weekly
+<25,Tier3,Manufacturer,10L-50L,Low,60-90,Yes,Medium,20L+,Rare
+45-54,Tier2,Service,50L+,High,<15,No,Medium,5-20L,Rare
+35-44,Tier1,Service,<50k,High,15-30,No,Medium,20L+,Rare
+<25,Tier2,Service,50L+,Very High,30-60,No,Medium,1-5L,Rare
+25-34,Tier3,Retailer,2L-10L,High,15-30,Yes,Low,20L+,Monthly
+<25,Tier3,Manufacturer,50k-2L,Very High,90+,No,High,5-20L,Weekly
+55+,Tier3,Retailer,2L-10L,Low,60-90,Yes,Medium,5-20L,Rare
+45-54,Tier2,Distributor,50k-2L,Very High,90+,Yes,Low,1-5L,Monthly
+45-54,Tier1,Retailer,50L+,Low,15-30,Yes,Medium,5-20L,Weekly
+<25,Metro,Distributor,10L-50L,Very High,<15,Yes,Low,5-20L,Weekly
+35-44,Tier2,Distributor,50L+,High,60-90,Yes,Medium,<1L,Weekly
+25-34,Tier3,Distributor,<50k,Low,60-90,Yes,Medium,1-5L,Rare
+45-54,Tier2,Retailer,50L+,High,15-30,No,Medium,5-20L,Weekly
+55+,Tier3,Manufacturer,50k-2L,Low,90+,No,Low,5-20L,Rare
+55+,Metro,Retailer,2L-10L,Very High,15-30,Yes,Medium,5-20L,Monthly
+35-44,Metro,Manufacturer,10L-50L,Very High,60-90,Yes,Low,1-5L,Weekly
+45-54,Tier1,Manufacturer,50L+,Very High,15-30,Yes,Low,<1L,Monthly
+<25,Tier3,Distributor,50L+,Medium,60-90,Yes,High,20L+,Rare
+55+,Tier1,Retailer,2L-10L,Medium,90+,Yes,Low,<1L,Rare
+35-44,Tier1,Manufacturer,10L-50L,Low,<15,No,Low,1-5L,Rare
+45-54,Metro,Service,50L+,Medium,<15,No,Low,1-5L,Weekly
+45-54,Tier2,Manufacturer,50L+,Very High,15-30,Yes,Low,1-5L,Weekly
+45-54,Tier2,Service,50k-2L,Medium,60-90,Yes,Low,20L+,Monthly
+45-54,Tier1,Retailer,50k-2L,Medium,<15,No,High,1-5L,Rare
+45-54,Metro,Retailer,<50k,High,60-90,Yes,Medium,<1L,Monthly
+55+,Tier3,Retailer,2L-10L,Low,90+,Yes,High,5-20L,Rare
+35-44,Tier2,Manufacturer,10L-50L,Low,15-30,Yes,High,5-20L,Rare
+45-54,Tier1,Trader,50L+,Low,60-90,No,Medium,1-5L,Monthly
+25-34,Tier2,Manufacturer,50L+,Medium,15-30,No,Low,1-5L,Rare
+25-34,Tier2,Manufacturer,<50k,Very High,60-90,Yes,Medium,20L+,Monthly
+35-44,Tier3,Distributor,50L+,High,60-90,No,Low,5-20L,Weekly
+<25,Metro,Distributor,2L-10L,Low,90+,No,Medium,20L+,Monthly
+<25,Tier3,Manufacturer,<50k,Medium,15-30,Yes,High,20L+,Monthly
+<25,Metro,Service,2L-10L,Very High,30-60,No,Low,20L+,Rare
+25-34,Tier2,Distributor,<50k,High,60-90,No,High,20L+,Monthly
+<25,Tier1,Manufacturer,50L+,High,60-90,No,Low,<1L,Weekly
+55+,Tier3,Trader,<50k,Low,<15,No,Medium,1-5L,Weekly
+45-54,Metro,Service,50k-2L,Low,15-30,No,Medium,1-5L,Weekly
+25-34,Tier2,Retailer,10L-50L,Very High,30-60,No,Medium,20L+,Weekly
+35-44,Metro,Manufacturer,50L+,Medium,90+,Yes,Medium,20L+,Monthly
+35-44,Metro,Manufacturer,10L-50L,Very High,30-60,Yes,Medium,<1L,Weekly
+45-54,Metro,Service,50L+,Low,90+,Yes,High,20L+,Monthly
+25-34,Tier2,Distributor,10L-50L,Very High,30-60,No,High,<1L,Monthly
+<25,Tier1,Distributor,50k-2L,Medium,30-60,Yes,Low,<1L,Rare
+<25,Tier1,Distributor,10L-50L,High,15-30,No,High,20L+,Monthly
+55+,Tier1,Retailer,<50k,High,<15,No,Low,1-5L,Monthly
+55+,Metro,Service,10L-50L,High,30-60,Yes,Low,<1L,Rare
+<25,Tier2,Service,50L+,High,60-90,No,High,1-5L,Weekly
+35-44,Metro,Distributor,2L-10L,Low,60-90,Yes,High,1-5L,Weekly
+35-44,Tier1,Distributor,10L-50L,Low,60-90,No,Low,<1L,Monthly
+55+,Tier1,Trader,10L-50L,Medium,<15,Yes,High,5-20L,Rare
+45-54,Tier2,Trader,10L-50L,Medium,30-60,Yes,High,<1L,Monthly
+<25,Metro,Manufacturer,50L+,Medium,90+,Yes,High,5-20L,Monthly
+55+,Tier3,Manufacturer,10L-50L,Medium,90+,Yes,Medium,<1L,Weekly
+55+,Tier3,Service,50L+,Very High,15-30,No,Medium,<1L,Rare
+<25,Tier1,Service,50L+,Medium,<15,Yes,Low,1-5L,Monthly
+<25,Tier2,Retailer,2L-10L,High,30-60,No,High,1-5L,Weekly
+35-44,Metro,Retailer,<50k,High,60-90,Yes,Low,20L+,Monthly
+45-54,Metro,Trader,50L+,High,<15,Yes,High,1-5L,Weekly
+45-54,Tier1,Manufacturer,50k-2L,Very High,<15,Yes,Medium,1-5L,Rare
+<25,Tier1,Trader,10L-50L,Medium,30-60,No,High,1-5L,Monthly
+25-34,Metro,Trader,50k-2L,High,15-30,Yes,High,1-5L,Rare
+55+,Metro,Manufacturer,10L-50L,High,15-30,Yes,High,20L+,Weekly
+55+,Tier1,Retailer,2L-10L,High,15-30,No,Medium,1-5L,Rare
+<25,Metro,Manufacturer,50L+,High,60-90,Yes,Medium,5-20L,Rare
+25-34,Tier3,Distributor,<50k,Low,60-90,No,Medium,5-20L,Rare
+35-44,Tier1,Distributor,50L+,Medium,30-60,Yes,Low,20L+,Monthly
+<25,Metro,Distributor,10L-50L,Medium,15-30,Yes,High,1-5L,Weekly
+<25,Tier1,Service,<50k,Very High,30-60,Yes,Medium,5-20L,Rare
+55+,Tier2,Retailer,50L+,Low,15-30,No,Low,<1L,Monthly
+<25,Tier1,Retailer,<50k,Very High,<15,Yes,Medium,5-20L,Weekly
+<25,Tier1,Service,10L-50L,High,90+,Yes,High,1-5L,Weekly
+<25,Tier2,Trader,2L-10L,Very High,90+,Yes,Low,5-20L,Weekly
+55+,Tier3,Distributor,2L-10L,High,15-30,No,Medium,<1L,Rare
+35-44,Metro,Distributor,50L+,High,30-60,No,Medium,5-20L,Rare
+35-44,Tier2,Trader,50k-2L,Medium,60-90,No,Low,1-5L,Rare
+<25,Tier1,Manufacturer,10L-50L,Medium,15-30,No,Low,<1L,Weekly
+55+,Metro,Manufacturer,50L+,Medium,15-30,No,Low,20L+,Weekly
+35-44,Tier2,Retailer,50L+,Medium,60-90,No,Low,<1L,Rare
+35-44,Metro,Service,2L-10L,Medium,15-30,Yes,Low,5-20L,Rare
+35-44,Metro,Retailer,<50k,Low,<15,Yes,Medium,20L+,Weekly
+55+,Tier2,Manufacturer,10L-50L,Medium,60-90,Yes,Low,<1L,Weekly
+55+,Metro,Trader,<50k,Very High,<15,Yes,Low,<1L,Monthly
+<25,Tier3,Retailer,10L-50L,High,90+,Yes,High,<1L,Monthly
+45-54,Tier2,Distributor,50k-2L,Medium,60-90,No,Medium,1-5L,Rare
+35-44,Tier3,Distributor,2L-10L,Low,60-90,No,High,20L+,Weekly
+45-54,Tier1,Trader,50k-2L,Very High,30-60,No,Medium,20L+,Weekly
+55+,Metro,Manufacturer,50L+,Very High,30-60,Yes,Medium,<1L,Monthly
+55+,Tier1,Distributor,2L-10L,High,60-90,No,Medium,20L+,Weekly
+55+,Tier1,Distributor,50L+,Very High,90+,Yes,Low,5-20L,Rare
+45-54,Metro,Service,50k-2L,Very High,15-30,No,High,5-20L,Monthly
+55+,Tier2,Retailer,10L-50L,Very High,30-60,Yes,Medium,<1L,Weekly
+<25,Metro,Manufacturer,50L+,Very High,90+,No,Medium,5-20L,Weekly
+55+,Tier1,Retailer,<50k,Low,90+,Yes,Medium,<1L,Rare
+25-34,Tier1,Manufacturer,10L-50L,High,30-60,No,High,5-20L,Weekly
+45-54,Tier2,Distributor,10L-50L,Medium,15-30,Yes,Medium,<1L,Monthly
+25-34,Metro,Service,50k-2L,Very High,30-60,No,High,<1L,Monthly
+55+,Tier1,Retailer,50k-2L,Low,90+,Yes,High,20L+,Weekly
+<25,Tier3,Distributor,2L-10L,High,<15,Yes,Low,20L+,Weekly
+35-44,Tier1,Manufacturer,2L-10L,Medium,30-60,Yes,Medium,<1L,Weekly
+55+,Tier1,Retailer,<50k,High,90+,Yes,Medium,20L+,Weekly
+<25,Tier2,Retailer,10L-50L,Low,30-60,No,High,20L+,Monthly
+45-54,Tier3,Distributor,<50k,Low,90+,No,High,1-5L,Rare
+25-34,Tier1,Retailer,<50k,Low,15-30,No,Low,5-20L,Monthly
+25-34,Tier1,Service,50k-2L,Very High,90+,Yes,Medium,20L+,Weekly
+25-34,Tier3,Service,<50k,Low,60-90,No,High,<1L,Weekly
+45-54,Metro,Distributor,<50k,Medium,<15,Yes,Medium,1-5L,Monthly
+<25,Metro,Manufacturer,50L+,Very High,90+,No,Medium,1-5L,Monthly
+45-54,Tier1,Distributor,2L-10L,High,30-60,Yes,Medium,20L+,Weekly
+25-34,Tier1,Service,2L-10L,Medium,30-60,No,High,<1L,Monthly
+55+,Metro,Trader,10L-50L,Very High,90+,Yes,Medium,<1L,Weekly
+35-44,Tier2,Trader,2L-10L,Low,60-90,Yes,High,<1L,Monthly
+45-54,Tier3,Retailer,10L-50L,High,90+,No,Low,<1L,Weekly
+45-54,Tier3,Retailer,50L+,Low,15-30,No,Low,<1L,Monthly
+<25,Tier2,Trader,2L-10L,Medium,60-90,No,High,5-20L,Weekly
+<25,Tier2,Service,50L+,Medium,90+,Yes,Medium,<1L,Rare
+45-54,Tier2,Retailer,2L-10L,Very High,<15,Yes,Low,<1L,Rare
+25-34,Tier2,Distributor,2L-10L,Medium,60-90,Yes,Low,5-20L,Monthly
+35-44,Tier2,Distributor,50L+,High,90+,No,High,20L+,Rare
+<25,Tier2,Service,<50k,Very High,<15,Yes,High,1-5L,Weekly
+25-34,Tier3,Retailer,<50k,High,90+,No,High,5-20L,Monthly
+55+,Tier2,Distributor,<50k,Low,15-30,Yes,High,1-5L,Monthly
+<25,Metro,Retailer,<50k,High,30-60,No,High,1-5L,Weekly
+25-34,Tier2,Retailer,2L-10L,High,90+,Yes,High,5-20L,Weekly
+25-34,Tier2,Distributor,50k-2L,Medium,60-90,Yes,High,<1L,Weekly
+35-44,Tier3,Trader,50L+,Low,90+,No,Medium,1-5L,Monthly
+35-44,Tier3,Distributor,50k-2L,Medium,90+,Yes,Medium,<1L,Weekly
+55+,Tier2,Service,50k-2L,Low,90+,Yes,Medium,20L+,Rare
+25-34,Tier3,Manufacturer,10L-50L,Low,90+,No,Medium,5-20L,Monthly
+25-34,Tier1,Distributor,<50k,High,60-90,Yes,Low,1-5L,Weekly
+35-44,Tier3,Retailer,2L-10L,Medium,60-90,No,Medium,<1L,Monthly
+<25,Tier3,Retailer,<50k,High,90+,No,Low,1-5L,Rare
+<25,Tier3,Distributor,<50k,High,30-60,Yes,Low,20L+,Rare
+45-54,Tier3,Manufacturer,50k-2L,High,90+,Yes,Low,20L+,Weekly
+35-44,Metro,Distributor,10L-50L,Low,60-90,Yes,High,1-5L,Monthly
+45-54,Metro,Manufacturer,<50k,Medium,15-30,No,Low,5-20L,Weekly
+35-44,Metro,Manufacturer,50L+,Medium,90+,Yes,Low,20L+,Monthly
+55+,Tier2,Service,50L+,High,90+,No,Low,<1L,Weekly
+25-34,Tier2,Retailer,<50k,Low,90+,Yes,High,20L+,Weekly
+55+,Tier1,Retailer,50k-2L,Medium,90+,Yes,Medium,<1L,Monthly
+35-44,Metro,Manufacturer,50k-2L,Very High,<15,No,Medium,1-5L,Monthly
+25-34,Tier2,Retailer,2L-10L,Medium,90+,Yes,Low,<1L,Rare
+<25,Tier3,Trader,10L-50L,High,60-90,Yes,Low,1-5L,Rare
+<25,Tier3,Manufacturer,50k-2L,Very High,60-90,Yes,Medium,20L+,Monthly
+45-54,Metro,Retailer,2L-10L,Low,<15,Yes,Medium,5-20L,Rare
+35-44,Tier1,Trader,50L+,Very High,90+,Yes,Medium,20L+,Rare
+35-44,Tier1,Service,50L+,Very High,30-60,No,Medium,20L+,Monthly
+<25,Tier3,Retailer,50L+,High,90+,Yes,Low,20L+,Monthly
+55+,Tier1,Trader,<50k,Medium,60-90,No,Low,20L+,Monthly
+25-34,Metro,Distributor,10L-50L,Low,15-30,Yes,Low,5-20L,Weekly
+55+,Tier3,Distributor,2L-10L,Very High,15-30,Yes,Medium,20L+,Monthly
+55+,Tier2,Trader,10L-50L,High,30-60,No,High,<1L,Monthly
+<25,Tier2,Manufacturer,<50k,Medium,90+,Yes,Medium,5-20L,Monthly
+<25,Tier1,Manufacturer,2L-10L,Very High,<15,Yes,Medium,5-20L,Rare
+<25,Tier3,Retailer,2L-10L,High,90+,No,High,<1L,Monthly
+45-54,Tier3,Distributor,50k-2L,High,30-60,No,High,1-5L,Rare
+55+,Tier2,Manufacturer,10L-50L,High,30-60,Yes,Medium,20L+,Weekly
+35-44,Tier3,Manufacturer,10L-50L,Low,30-60,No,High,5-20L,Monthly
+25-34,Tier3,Distributor,50k-2L,Medium,15-30,No,High,20L+,Monthly
+45-54,Tier3,Service,50L+,Very High,90+,No,High,20L+,Rare
